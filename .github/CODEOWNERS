@@ -1,0 +1,18 @@
+# Default owner
+* @YottaDots
+
+# Canonical method
+/docs/method/ @YottaDots
+
+# Core principles
+/docs/why/ @YottaDots
+
+# Governance
+/docs/community/governance.md @YottaDots
+
+# Website configuration
+/docusaurus.config.js @YottaDots
+/sidebars.js @YottaDots
+
+# GitHub governance
+/.github/ @YottaDots
