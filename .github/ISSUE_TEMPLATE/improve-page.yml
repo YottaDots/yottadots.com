@@ -1,0 +1,56 @@
+name: Suggest an improvement
+
+description: Suggest an improvement to existing YottaDots content.
+
+title: "[Improvement]: "
+
+labels:
+  - community-proposal
+
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve YottaDots.
+
+        You do not need to know Git or Markdown.
+
+  - type: input
+    id: page
+    attributes:
+      label: Page or topic
+      description: Which page or topic would you like to improve?
+      placeholder: e.g. Federated decision rights
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What could be improved?
+      description: Tell us what is unclear, missing or incorrect.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Your suggestion
+      description: How would you improve it?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Practical context
+      description: Optional example or experience.
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I am happy for this contribution to be considered for YottaDots.
+          required: true
