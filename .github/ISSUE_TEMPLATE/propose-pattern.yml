@@ -1,0 +1,62 @@
+name: Propose a pattern
+
+description: Propose a new YottaDots organizational pattern.
+
+title: "[Pattern]: "
+
+labels:
+  - pattern-proposal
+
+body:
+
+  - type: input
+    id: name
+    attributes:
+      label: Pattern name
+      placeholder: Give the pattern a short name
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Where does this situation occur?
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What recurring organizational problem does this address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: pattern
+    attributes:
+      label: Proposed pattern
+      description: What approach appears to work?
+    validations:
+      required: true
+
+  - type: textarea
+    id: guardrails
+    attributes:
+      label: Guardrails
+      description: What boundaries or conditions are important?
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Experience or evidence
+      description: Where have you seen this work?
+
+  - type: checkboxes
+    id: contribution
+    attributes:
+      label: Contribution
+      options:
+        - label: I am happy for this contribution to be reviewed and developed by the YottaDots community.
+          required: true
