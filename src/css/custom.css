@@ -1,3 +1,453 @@
+/* =========================================================
+   YottaDots global theme — dark only
+   ========================================================= */
+
+:root {
+  --yd-orange: #f28c28;
+  --yd-orange-dark: #d96f0b;
+  --yd-orange-light: #f5a14f;
+  --yd-orange-soft: rgba(242, 140, 40, 0.12);
+
+  --yd-background: #18191b;
+  --yd-surface: #202124;
+  --yd-surface-hover: #26272a;
+  --yd-border: #303236;
+  --yd-border-light: #3a3c40;
+
+  --yd-white: #ffffff;
+  --yd-text: #c9c9c9;
+  --yd-text-light: #e2e2e2;
+  --yd-text-muted: #9b9b9b;
+
+  --ifm-color-primary: #f28c28;
+  --ifm-color-primary-dark: #df7c1c;
+  --ifm-color-primary-darker: #d47417;
+  --ifm-color-primary-darkest: #ae5e11;
+  --ifm-color-primary-light: #f59a42;
+  --ifm-color-primary-lighter: #f7a34f;
+  --ifm-color-primary-lightest: #fac17f;
+
+  --ifm-background-color: #18191b;
+  --ifm-background-surface-color: #202124;
+  --ifm-font-color-base: #c9c9c9;
+  --ifm-font-color-secondary: #9b9b9b;
+  --ifm-heading-color: #f28c28;
+
+  --ifm-navbar-background-color: #18191b;
+  --ifm-footer-background-color: #18191b;
+
+  --ifm-menu-color: #c9c9c9;
+  --ifm-menu-color-active: #f28c28;
+  --ifm-menu-color-background-active: #26272a;
+  --ifm-toc-border-color: #303236;
+
+  --ifm-link-color: #f28c28;
+  --ifm-link-hover-color: #f5a14f;
+  --ifm-code-background: #202124;
+
+  --ifm-font-family-base:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --ifm-heading-font-family:
+    Inter,
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  --ifm-global-radius: 12px;
+  --ifm-navbar-height: 72px;
+
+  color-scheme: dark;
+}
+
+/* Global */
+
+html {
+  background: var(--yd-background);
+  color-scheme: dark;
+  scroll-behavior: smooth;
+}
+
+body,
+#__docusaurus,
+.main-wrapper {
+  background: var(--yd-background);
+  color: var(--yd-text);
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Typography */
+
+h1,
+h2,
+.markdown h1,
+.markdown h2 {
+  color: var(--yd-orange);
+}
+
+h3,
+h4,
+h5,
+h6,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  color: var(--yd-white);
+}
+
+.markdown h1 {
+  font-weight: 800;
+  letter-spacing: -0.045em;
+  line-height: 1.05;
+}
+
+.markdown h2 {
+  font-weight: 750;
+  letter-spacing: -0.035em;
+  margin-top: 2.8rem;
+}
+
+.markdown h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 2rem;
+}
+
+.markdown p,
+.markdown li {
+  color: var(--yd-text);
+  line-height: 1.75;
+}
+
+.markdown strong {
+  color: var(--yd-text-light);
+}
+
+.markdown a {
+  color: var(--yd-orange);
+}
+
+.markdown a:hover {
+  color: var(--yd-orange-light);
+}
+
+/* Navbar */
+
+.navbar {
+  background: var(--yd-background);
+  border-bottom: 1px solid var(--yd-border);
+  box-shadow: none;
+}
+
+.navbar__inner {
+  margin: 0 auto;
+  max-width: 1420px;
+}
+
+.navbar__brand {
+  margin-right: 2.25rem;
+}
+
+.navbar__logo {
+  height: 42px;
+  margin-right: 0;
+}
+
+.navbar__logo img {
+  display: block;
+  height: 42px;
+  max-width: 190px;
+  object-fit: contain;
+  object-position: left center;
+  width: auto;
+}
+
+.navbar__title {
+  color: var(--yd-white);
+  font-weight: 800;
+}
+
+.navbar__link {
+  color: var(--yd-text);
+  font-size: 0.94rem;
+  font-weight: 650;
+  position: relative;
+  transition: color 160ms ease;
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: var(--yd-orange);
+}
+
+.navbar__link--active::after {
+  background: var(--yd-orange);
+  border-radius: 999px;
+  bottom: -7px;
+  content: "";
+  height: 3px;
+  left: 0.75rem;
+  position: absolute;
+  right: 0.75rem;
+}
+
+.navbar-contribute {
+  background: var(--yd-orange);
+  border-radius: 9px;
+  color: var(--yd-white) !important;
+  margin-left: 0.6rem;
+  padding: 0.48rem 1rem !important;
+  transition:
+    background 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
+}
+
+.navbar-contribute:hover {
+  background: var(--yd-orange-dark);
+  box-shadow: 0 8px 20px rgba(242, 140, 40, 0.22);
+  color: var(--yd-white) !important;
+  transform: translateY(-1px);
+}
+
+.navbar-contribute::after {
+  display: none;
+}
+
+/* Documentation sidebar */
+
+.theme-doc-markdown {
+  color: var(--yd-text);
+}
+
+.theme-doc-sidebar-container {
+  background: var(--yd-background);
+  border-right: 1px solid var(--yd-border) !important;
+}
+
+.theme-doc-sidebar-menu,
+.menu,
+.menu__list {
+  background: transparent;
+}
+
+.menu__link {
+  border-radius: 6px;
+  color: var(--yd-text);
+  font-weight: 600;
+  transition:
+    background 150ms ease,
+    color 150ms ease;
+}
+
+.menu__link:hover {
+  background: var(--yd-surface);
+  color: var(--yd-orange);
+}
+
+.menu__link--active {
+  background: var(--yd-surface-hover) !important;
+  color: var(--yd-orange) !important;
+  font-weight: 700;
+}
+
+.menu__list-item-collapsible {
+  border-radius: 6px;
+}
+
+.menu__list-item-collapsible:hover {
+  background: var(--yd-surface);
+}
+
+.menu__list-item-collapsible:hover > .menu__link {
+  color: var(--yd-orange);
+}
+
+.menu__caret::before,
+.menu__link--sublist-caret::after {
+  filter: brightness(1.8);
+}
+
+/* Breadcrumbs */
+
+.breadcrumbs__item {
+  color: var(--yd-text-muted);
+}
+
+.breadcrumbs__link {
+  color: var(--yd-text);
+}
+
+.breadcrumbs__link:hover {
+  background: var(--yd-surface);
+  color: var(--yd-orange);
+}
+
+.breadcrumbs__item--active .breadcrumbs__link {
+  background: var(--yd-surface-hover);
+  color: var(--yd-orange);
+}
+
+/* Table of contents */
+
+.table-of-contents {
+  border-left-color: var(--yd-border);
+}
+
+.table-of-contents__link {
+  color: var(--yd-text-muted);
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--yd-orange);
+}
+
+/* Pagination */
+
+.pagination-nav__link {
+  background: var(--yd-surface);
+  border: 1px solid var(--yd-border);
+  border-radius: 12px;
+  transition:
+    background 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.pagination-nav__link:hover {
+  background: var(--yd-surface-hover);
+  border-color: var(--yd-orange);
+  transform: translateY(-2px);
+}
+
+.pagination-nav__label {
+  color: var(--yd-orange);
+}
+
+.pagination-nav__sublabel {
+  color: var(--yd-text-muted);
+}
+
+/* Code */
+
+code {
+  background: var(--yd-surface);
+  border: 1px solid var(--yd-border);
+  color: var(--yd-orange-light);
+}
+
+pre {
+  background: #121315 !important;
+  border: 1px solid var(--yd-border);
+}
+
+.theme-code-block {
+  border: 1px solid var(--yd-border);
+}
+
+/* Blockquotes */
+
+blockquote {
+  background: var(--yd-surface);
+  border-left: 4px solid var(--yd-orange);
+  color: var(--yd-text);
+  padding: 1rem 1.25rem;
+}
+
+/* Tables */
+
+table {
+  border-color: var(--yd-border);
+}
+
+table thead tr {
+  background: var(--yd-surface-hover);
+}
+
+table tbody tr {
+  background: var(--yd-background);
+}
+
+table tbody tr:nth-child(2n) {
+  background: var(--yd-surface);
+}
+
+table th,
+table td {
+  border-color: var(--yd-border);
+}
+
+table th {
+  color: var(--yd-orange);
+}
+
+/* Miscellaneous */
+
+hr {
+  background: var(--yd-border);
+  border-color: var(--yd-border);
+}
+
+.alert {
+  background: var(--yd-surface);
+  border-color: var(--yd-border);
+  color: var(--yd-text);
+}
+
+input,
+textarea,
+select {
+  background: var(--yd-surface);
+  border-color: var(--yd-border);
+  color: var(--yd-text);
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: var(--yd-orange);
+  outline-color: var(--yd-orange);
+}
+
+/* Footer */
+
+.footer {
+  background: var(--yd-background);
+  border-top: 1px solid var(--yd-border);
+  color: var(--yd-text-muted);
+  padding-top: 3.5rem;
+}
+
+.footer__title {
+  color: var(--yd-orange);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.footer__link-item {
+  color: var(--yd-text);
+  transition: color 160ms ease;
+}
+
+.footer__link-item:hover {
+  color: var(--yd-orange);
   text-decoration: none;
 }
 
