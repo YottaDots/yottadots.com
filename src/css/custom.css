@@ -72,3 +72,68 @@
     border-right: none !important;
   }
 }
+
+/* =========================================================
+   Typography hierarchy
+   ========================================================= */
+
+h1,
+h2,
+.markdown h1,
+.markdown h2 {
+  color: var(--yd-orange);
+}
+
+h3,
+h4,
+h5,
+h6,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  color: var(--yd-white);
+}
+
+/* =========================================================
+   Navbar
+   ========================================================= */
+
+.navbar__link {
+  color: var(--yd-text);
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: var(--yd-orange);
+}
+
+/* =========================================================
+   Sidebar
+   ========================================================= */
+
+.menu__link {
+  color: var(--yd-text);
+}
+
+.menu__link:hover {
+  background: var(--yd-surface);
+  color: var(--yd-orange);
+}
+
+.menu__link--active {
+  background: var(--yd-surface-hover) !important;
+  color: var(--yd-orange) !important;
+}
+
+/* =========================================================
+   Documentation links
+   ========================================================= */
+
+.markdown a {
+  color: var(--yd-orange);
+}
+
+.markdown a:hover {
+  color: var(--yd-orange-light);
+}
