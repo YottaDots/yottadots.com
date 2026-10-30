@@ -11,7 +11,12 @@ const config = {
   projectName: 'yottadots.com',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'en',
@@ -24,7 +29,6 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-
           editUrl:
             'https://github.com/YottaDots/yottadots.com/edit/main/',
         },
@@ -48,11 +52,11 @@ const config = {
     ],
 
     navbar: {
-      title: 'YottaDots',
+      hideOnScroll: false,
 
       logo: {
         alt: 'YottaDots',
-        src: 'img/logo.svg',
+        src: 'img/yottadots-logo.svg',
       },
 
       items: [
@@ -106,10 +110,10 @@ const config = {
 
       links: [
         {
-          title: 'YottaDots',
+          title: 'Explore',
           items: [
             {
-              label: 'Why',
+              label: 'Why YottaDots',
               to: '/docs/why',
             },
             {
@@ -120,9 +124,12 @@ const config = {
               label: 'Patterns',
               to: '/docs/patterns',
             },
+            {
+              label: 'AI Co-worker',
+              to: '/docs/ai-coworker',
+            },
           ],
         },
-
         {
           title: 'Community',
           items: [
@@ -140,14 +147,18 @@ const config = {
             },
           ],
         },
-
         {
-          title: 'Open Knowledge',
+          title: 'Open knowledge',
           items: [
             {
               label: 'License',
               href:
                 'https://github.com/YottaDots/yottadots.com/blob/main/LICENSE.md',
+            },
+            {
+              label: 'Repository',
+              href:
+                'https://github.com/YottaDots/yottadots.com',
             },
           ],
         },
