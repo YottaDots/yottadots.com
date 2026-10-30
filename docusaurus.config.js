@@ -56,7 +56,7 @@ const config = {
 
       logo: {
         alt: 'YottaDots',
-        src: 'img/yottadots-logo.svg',
+        src: 'img/cropped-logo-header.png',
       },
 
       items: [
