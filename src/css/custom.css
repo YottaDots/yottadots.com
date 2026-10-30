@@ -72,26 +72,3 @@
     border-right: none !important;
   }
 }
-/* YottaDots CSS load test */
-
-:root {
-  --ifm-color-primary: #f28c28 !important;
-}
-
-a {
-  color: #f28c28 !important;
-}
-
-h1,
-h2 {
-  color: #f28c28 !important;
-}
-
-.navbar__link:hover,
-.navbar__link--active {
-  color: #f28c28 !important;
-}
-
-.menu__link--active {
-  color: #f28c28 !important;
-}
