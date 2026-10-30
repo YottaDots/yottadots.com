@@ -1,17 +1,19 @@
 .hero {
   align-items: center;
+
   background:
     radial-gradient(
       circle at 84% 17%,
-      rgba(242, 140, 40, 0.14),
+      rgba(242, 140, 40, 0.16),
       transparent 30%
     ),
     radial-gradient(
       circle at 8% 85%,
-      rgba(64, 64, 64, 0.07),
+      rgba(255, 255, 255, 0.04),
       transparent 25%
     ),
-    #faf9f7;
+    #18191b;
+
   display: flex;
   min-height: 650px;
   overflow: hidden;
@@ -64,7 +66,7 @@
 }
 
 .hero h1 {
-  color: #2d2d2d;
+  color: #ffffff;
   font-size: clamp(3.1rem, 6vw, 5.8rem);
   letter-spacing: -0.06em;
   line-height: 0.98;
@@ -77,7 +79,7 @@
 }
 
 .heroText {
-  color: #626262;
+  color: #b8b8b8;
   font-size: 1.28rem;
   line-height: 1.65;
   margin-top: 2rem;
@@ -152,36 +154,41 @@
 .intro h2,
 .openSection h2,
 .finalCall h2 {
-  color: #2d2d2d;
+  color: #ffffff;
   font-size: clamp(2.25rem, 4vw, 3.55rem);
   letter-spacing: -0.045em;
   line-height: 1.08;
 }
 
 .intro p {
-  color: #626262;
+  color: #b8b8b8;
   font-size: 1.23rem;
   line-height: 1.75;
 }
 
 .openSection {
   align-items: center;
+
   background:
     radial-gradient(
       circle at 92% 15%,
-      rgba(242, 140, 40, 0.12),
+      rgba(242, 140, 40, 0.10),
       transparent 25%
     ),
-    #f3f3f1;
-  border: 1px solid #e2e2e2;
+    #202124;
+
+  border: 1px solid #303236;
   border-radius: 24px;
+
   display: grid;
   gap: 4rem;
   grid-template-columns: 2fr 1fr;
+
   margin: 7rem auto;
   overflow: hidden;
   padding: 4rem;
   position: relative;
+
   width: min(1180px, 90%);
 }
 
@@ -201,7 +208,13 @@
   top: -18px;
   width: 190px;
 }
+.openSection h2 {
+  color: #ffffff;
+}
 
+.openSection p {
+  color: #b8b8b8;
+}
 .openSection p {
   color: #626262;
   font-size: 1.14rem;
