@@ -9,6 +9,10 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
+/* =========================================================
+   Card
+   ========================================================= */
+
 .card {
   background: #202124;
   border: 1px solid #303236;
@@ -23,23 +27,9 @@
     transform 180ms ease;
 }
 
-.card h3 {
-  color: #d96f0b;
-}
-
-.card p {
-  color: #b8b8b8;
-}
-
-.icon {
-  background: rgba(242, 140, 40, 0.12);
-  border: 1px solid rgba(242, 140, 40, 0.25);
-  color: #f28c28;
-}
-
 .card::before {
   background: #f28c28;
-  content: '';
+  content: "";
   height: 4px;
   left: 0;
   opacity: 0;
@@ -47,14 +37,15 @@
   right: 0;
   top: 0;
   transform: scaleX(0.45);
+
   transition:
     opacity 180ms ease,
     transform 180ms ease;
 }
 
 .card:hover {
-  border-color: rgba(242, 140, 40, 0.58);
-  box-shadow: 0 20px 45px rgba(45, 45, 45, 0.09);
+  border-color: rgba(242, 140, 40, 0.62);
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.26);
   transform: translateY(-6px);
 }
 
@@ -63,12 +54,16 @@
   transform: scaleX(1);
 }
 
+/* =========================================================
+   Icon
+   ========================================================= */
+
 .icon {
   align-items: center;
-  background: #fff1e3;
-  border: 1px solid rgba(242, 140, 40, 0.18);
+  background: rgba(242, 140, 40, 0.12);
+  border: 1px solid rgba(242, 140, 40, 0.25);
   border-radius: 12px;
-  color: #d96f0b;
+  color: #f28c28;
   display: flex;
   font-size: 1.45rem;
   height: 50px;
@@ -77,42 +72,27 @@
   width: 50px;
 }
 
+/* =========================================================
+   Typography
+   ========================================================= */
+
 .card h3 {
-  color: #2d2d2d;
+  color: #ffffff;
   font-size: 1.38rem;
+  font-weight: 700;
   letter-spacing: -0.025em;
   margin-bottom: 0.7rem;
 }
 
 .card p {
-  color: #686868;
+  color: #b8b8b8;
   line-height: 1.65;
   margin-bottom: 0;
 }
 
-:global([data-theme='dark']) .card {
-  background: #222222;
-  border-color: #383838;
-}
-
-:global([data-theme='dark']) .card:hover {
-  border-color: rgba(242, 140, 40, 0.62);
-  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.26);
-}
-
-:global([data-theme='dark']) .icon {
-  background: #432b18;
-  border-color: rgba(242, 140, 40, 0.25);
-  color: #f5a34e;
-}
-
-:global([data-theme='dark']) .card h3 {
-  color: #f1f1f1;
-}
-
-:global([data-theme='dark']) .card p {
-  color: #b8b8b8;
-}
+/* =========================================================
+   Responsive
+   ========================================================= */
 
 @media (max-width: 996px) {
   .grid {
