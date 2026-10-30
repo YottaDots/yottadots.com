@@ -279,7 +279,9 @@ h6,
 
 .menu__caret::before,
 .menu__link--sublist-caret::after {
-  filter: brightness(1.8);
+   /* filter: brightness(1.8); */
+  filter: invert(1);
+  opacity: 0.85;
 }
 
 /* Breadcrumbs */
