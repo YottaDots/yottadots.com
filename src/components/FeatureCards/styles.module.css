@@ -10,16 +10,31 @@
 }
 
 .card {
-  background: #ffffff;
-  border: 1px solid #e2e2e2;
+  background: #202124;
+  border: 1px solid #303236;
   border-radius: 18px;
   overflow: hidden;
   padding: 2rem;
   position: relative;
+
   transition:
     border-color 180ms ease,
     box-shadow 180ms ease,
     transform 180ms ease;
+}
+
+.card h3 {
+  color: #ffffff;
+}
+
+.card p {
+  color: #b8b8b8;
+}
+
+.icon {
+  background: rgba(242, 140, 40, 0.12);
+  border: 1px solid rgba(242, 140, 40, 0.25);
+  color: #f28c28;
 }
 
 .card::before {
