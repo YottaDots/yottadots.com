@@ -9,10 +9,6 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
-/* =========================================================
-   Card
-   ========================================================= */
-
 .card {
   background: #202124;
   border: 1px solid #303236;
@@ -20,7 +16,6 @@
   overflow: hidden;
   padding: 2rem;
   position: relative;
-
   transition:
     border-color 180ms ease,
     box-shadow 180ms ease,
@@ -37,7 +32,6 @@
   right: 0;
   top: 0;
   transform: scaleX(0.45);
-
   transition:
     opacity 180ms ease,
     transform 180ms ease;
@@ -54,10 +48,6 @@
   transform: scaleX(1);
 }
 
-/* =========================================================
-   Icon
-   ========================================================= */
-
 .icon {
   align-items: center;
   background: rgba(242, 140, 40, 0.12);
@@ -72,10 +62,6 @@
   width: 50px;
 }
 
-/* =========================================================
-   Typography
-   ========================================================= */
-
 .card h3 {
   color: #ffffff;
   font-size: 1.38rem;
@@ -89,10 +75,6 @@
   line-height: 1.65;
   margin-bottom: 0;
 }
-
-/* =========================================================
-   Responsive
-   ========================================================= */
 
 @media (max-width: 996px) {
   .grid {
