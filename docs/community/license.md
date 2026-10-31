@@ -6,8 +6,8 @@ title: License & Trademarks
 
 ## Free to use
 
-Everything on this website is free to use, share and adapt, also
-commercially, under
+Everything on this website, except the logo, is free to use, share and
+adapt, also commercially, under
 [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 The website code is under the MIT License.
 
@@ -29,7 +29,10 @@ and the United States
 ([EU](https://euipo.europa.eu/eSearch/#details/trademarks/018053497),
 [UK](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00918053497),
 [US](https://tsdr.uspto.gov/#caseNumber=88410637)). The open license does
-**not** cover the name or the logo.
+**not** cover the name.
+
+The logo is not a registered trademark, but it is protected by copyright (all
+rights reserved) and is not covered by the open license either.
 
 You may say your work is *based on* or *adapted from* YottaDots. You may not
 use the logo, use "YottaDots" in the name of your product, course or service,

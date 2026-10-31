@@ -51,7 +51,7 @@ This repository contains:
 
 - Content: [CC BY 4.0](LICENSE-CONTENT.txt), free to use, also commercially, with attribution.
 - Code: [MIT](LICENSE-CODE.txt).
-- The YottaDots name and logo are registered trademarks and are not licensed. See [TRADEMARKS.md](TRADEMARKS.md).
+- The YottaDots name is a registered trademark and the logo is © all rights reserved. Neither is licensed. See [TRADEMARKS.md](TRADEMARKS.md).
 
 Overview: [LICENSE.md](LICENSE.md).
 

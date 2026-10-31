@@ -8,9 +8,10 @@ the terms below.
 
 | What | License |
 |---|---|
-| Content: all text, patterns, canvases, examples, diagrams and images on the website and in this repository | [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CONTENT.txt) |
+| Content: all text, patterns, canvases, examples, diagrams and images on the website and in this repository, except the logo | [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CONTENT.txt) |
 | Code: website source code and configuration (`.js`, `.css`, `.json`, `.yml` and similar) | [MIT License](LICENSE-CODE.txt) |
-| The YottaDots name and logo | **Not licensed.** Registered trademarks; see [TRADEMARKS.md](TRADEMARKS.md) |
+| The YottaDots name | **Not licensed.** Registered trademark; see [TRADEMARKS.md](TRADEMARKS.md) |
+| The YottaDots logo | **Not licensed.** © all rights reserved; see [TRADEMARKS.md](TRADEMARKS.md) |
 
 Material from third parties that is marked with its own license keeps that
 license.
@@ -36,10 +37,12 @@ You may not suggest that YottaDots endorses you or your use.
 
 ## What this license does not cover
 
-- **The YottaDots name and logo.** CC BY 4.0 does not grant trademark rights
+- **The YottaDots name.** CC BY 4.0 does not grant trademark rights
   (section 2(b)(2)). Using the content does not give you the right to call your
-  product, course, service or certificate "YottaDots", or to use the logo. See
+  product, course, service or certificate "YottaDots". See
   [TRADEMARKS.md](TRADEMARKS.md).
+- **The YottaDots logo.** The logo is excluded from CC BY 4.0. All rights
+  reserved.
 - **Official certification, course material and consultancy services.** These
   are not published on this website or in this repository and are not
   licensed by it.
