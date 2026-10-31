@@ -52,6 +52,7 @@ module.exports = {
         'community/contribute',
         'community/governance',
         'community/license',
+        'community/visuals',
       ],
     },
   ],

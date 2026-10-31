@@ -1,6 +1,7 @@
 ---
 title: How YottaDots uses AI
 sidebar_label: How we use AI
+image: /img/social/ai-coworker-how-we-use-ai.png
 ---
 
 # How YottaDots uses AI

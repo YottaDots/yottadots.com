@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  /* YottaDots social card, 1200 x 630. Colours and font follow src/css/custom.css. */
+  :root {
+    --orange: #f28c28;
+    --orange-light: #f5a14f;
+    --bg: #18191b;
+    --surface: #202124;
+    --border: #303236;
+    --text: #c9c9c9;
+    --white: #ffffff;
+    --muted: #9b9b9b;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; }
+  body {
+    background: var(--bg);
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    color: var(--text);
+    position: relative;
+    overflow: hidden;
+  }
+  .bar { position: absolute; left: 0; top: 0; width: 12px; height: 630px; background: var(--orange); }
+  .motif { position: absolute; right: -70px; top: 50%; transform: translateY(-50%); }
+  .content {
+    position: absolute; left: 84px; top: 64px; bottom: 64px; width: 610px;
+    display: flex; flex-direction: column;
+  }
+  .logo { height: 59px; width: auto; align-self: flex-start; }
+  .main { margin-top: auto; margin-bottom: auto; }
+  .eyebrow {
+    color: var(--orange); font-size: 24px; font-weight: 700;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 22px;
+  }
+  .title {
+    color: var(--white); font-weight: 800; letter-spacing: -0.02em;
+    font-size: var(--title-size, 68px); line-height: 1.08;
+  }
+  .desc {
+    margin-top: 26px; font-size: 28px; line-height: 1.4; color: var(--text);
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .footer {
+    display: flex; gap: 18px; align-items: center;
+    font-size: 22px; color: var(--muted);
+  }
+  .footer .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--orange); }
+  .footer strong { color: var(--text-light, #e2e2e2); font-weight: 600; }
+</style>
+</head>
+<body>
+  <div class="bar"></div>
+  <div class="motif">{{MOTIF}}</div>
+  <div class="content">
+    <img class="logo" src="{{LOGO}}" alt="">
+    <div class="main">
+      <div class="eyebrow">{{SECTION}}</div>
+      <div class="title" style="--title-size: {{TITLE_SIZE}}px">{{TITLE}}</div>
+      <div class="desc">{{DESCRIPTION}}</div>
+    </div>
+    <div class="footer">
+      <strong>{{SITE}}</strong><span class="dot"></span><span>Open knowledge</span><span class="dot"></span><span>CC BY 4.0</span>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,5 +1,6 @@
 ---
 title: License & Trademarks
+image: /img/social/community-license.png
 ---
 
 # License & Trademarks

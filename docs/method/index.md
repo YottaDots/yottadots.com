@@ -2,6 +2,7 @@
 id: index
 title: The YottaDots Method
 sidebar_label: Introduction
+image: /img/social/method.png
 ---
 
 # The YottaDots Method

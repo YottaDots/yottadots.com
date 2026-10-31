@@ -1,6 +1,7 @@
 ---
 id: index
 title: AI as a Co-worker
+image: /img/social/ai-coworker.png
 ---
 
 # AI as a Co-worker

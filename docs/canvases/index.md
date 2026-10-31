@@ -1,6 +1,7 @@
 ---
 id: index
 title: Canvases
+image: /img/social/canvases.png
 ---
 
 # YottaDots Canvases

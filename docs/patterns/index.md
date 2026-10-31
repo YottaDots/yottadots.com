@@ -1,6 +1,7 @@
 ---
 id: index
 title: Patterns
+image: /img/social/patterns.png
 ---
 
 # YottaDots Patterns

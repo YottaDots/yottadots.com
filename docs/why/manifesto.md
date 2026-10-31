@@ -1,5 +1,6 @@
 ---
 title: YottaDots Manifesto
+image: /img/social/why-manifesto.png
 ---
 
 # YottaDots Manifesto
