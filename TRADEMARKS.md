@@ -1,18 +1,29 @@
 # YottaDots Trademark Policy
 
 The YottaDots content is open (see [LICENSE.md](LICENSE.md)). The YottaDots
-**name and logo are not**. They are registered trademarks, so that people can
-trust that something called "YottaDots", or carrying the logo, is official.
+**name and logo are not**. The name is a registered trademark and the logo is
+protected by copyright, so that people can trust that something called
+"YottaDots", or carrying the logo, is official.
 
 ## Registered marks
 
 YottaDots® is a registered trademark owned by the founder of YottaDots.
 
-| Territory | Number |
-|---|---|
-| European Union (EUIPO) | 018053497 |
-| United Kingdom (UKIPO) | UK00918053497 |
-| United States (USPTO) | 88410637 |
+| Territory | Number | Official register |
+|---|---|---|
+| European Union (EUIPO) | 018053497 | [EUIPO eSearch](https://euipo.europa.eu/eSearch/#details/trademarks/018053497) |
+| United Kingdom (UKIPO) | UK00918053497 | [UK IPO](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00918053497) |
+| United States (USPTO) | Reg. no. 6918620 (serial no. 88410637) | [USPTO TSDR](https://tsdr.uspto.gov/#caseNumber=88410637) |
+
+The UK registration is the comparable UK mark created from the EU
+registration. All three are registrations of the word "YottaDots".
+
+## The logo
+
+The YottaDots logo is not a registered trademark. It is protected by
+copyright, all rights reserved, and is **not** covered by the open license
+(CC BY 4.0). It may also be protected as an unregistered mark in some
+countries.
 
 ## Allowed without permission
 
