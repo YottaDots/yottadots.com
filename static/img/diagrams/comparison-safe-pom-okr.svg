@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 822" width="1200" height="822" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Visual summary: SAFe, Product Operating Model, OKRs and YottaDots compared</title>
+<desc id="d">A table comparing SAFe, the Product Operating Model, OKRs and YottaDots on six points. 1. The centre decides the what: yes for all four. 2. Units help shape the goals: partly for SAFe, the Product Operating Model and OKRs; yes for YottaDots. As a formal right to object: not described for the three others; yes for YottaDots. 3. What is not named stays with the units: not described for the three others; yes for YottaDots. 4. Units may opt out of shared services: not described for SAFe and the Product Operating Model, not in scope for OKRs, yes for YottaDots. Units choose their own delivery method: partly for SAFe and the Product Operating Model, yes for OKRs and YottaDots. Detailed practical guidance: yes for SAFe and the Product Operating Model, partly for OKRs and YottaDots. Track record in practice: yes for SAFe and OKRs, partly for the Product Operating Model, none yet for YottaDots. Ratings by YottaDots, based on public sources.</desc>
+<rect x="0.5" y="0.5" width="1199" height="821" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">VISUAL SUMMARY</text>
+<text x="40" y="92" font-size="26" fill="#ffffff" font-weight="700" text-anchor="start" >All set the what centrally. YottaDots adds safeguards, but is the least proven.</text>
+<text x="556.0" y="152" font-size="17" fill="#ffffff" font-weight="700" text-anchor="middle" >SAFe</text>
+<text x="728.0" y="140" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >Product Operating</text>
+<text x="728.0" y="160" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >Model</text>
+<text x="900.0" y="152" font-size="17" fill="#ffffff" font-weight="700" text-anchor="middle" >OKRs</text>
+<rect x="994" y="114" width="156" height="584" rx="12" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2"/>
+<text x="1072.0" y="152" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >YottaDots</text>
+<rect x="32" y="190" width="1136" height="64" fill="#18191b" opacity="0.6"/>
+<text x="48" y="229" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >1. The centre decides the what</text>
+<circle cx="556.0" cy="222" r="13" fill="#f28c28"/>
+<circle cx="728.0" cy="222" r="13" fill="#f28c28"/>
+<circle cx="900.0" cy="222" r="13" fill="#f28c28"/>
+<circle cx="1072.0" cy="222" r="13" fill="#f28c28"/>
+<text x="48" y="293" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >2. Units help shape the goals</text>
+<circle cx="556.0" cy="286" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M556.0,274 A12,12 0 0 1 556.0,298 Z" fill="#f28c28"/>
+<circle cx="728.0" cy="286" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M728.0,274 A12,12 0 0 1 728.0,298 Z" fill="#f28c28"/>
+<circle cx="900.0" cy="286" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M900.0,274 A12,12 0 0 1 900.0,298 Z" fill="#f28c28"/>
+<circle cx="1072.0" cy="286" r="13" fill="#f28c28"/>
+<rect x="32" y="318" width="1136" height="64" fill="#18191b" opacity="0.6"/>
+<text x="56" y="357" font-size="16" fill="#9b9b9b" font-weight="500" text-anchor="start" >…as a formal right to object</text>
+<circle cx="556.0" cy="350" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="728.0" cy="350" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="900.0" cy="350" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="1072.0" cy="350" r="13" fill="#f28c28"/>
+<text x="48" y="421" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >3. What is not named stays with the units</text>
+<circle cx="556.0" cy="414" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="728.0" cy="414" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="900.0" cy="414" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="1072.0" cy="414" r="13" fill="#f28c28"/>
+<rect x="32" y="446" width="1136" height="64" fill="#18191b" opacity="0.6"/>
+<text x="48" y="485" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >4. Units may opt out of shared services</text>
+<circle cx="556.0" cy="478" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="728.0" cy="478" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<text x="900.0" y="484" font-size="20" fill="#9b9b9b" font-weight="600" text-anchor="middle" >–</text>
+<circle cx="1072.0" cy="478" r="13" fill="#f28c28"/>
+<text x="48" y="549" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Units choose their own delivery method</text>
+<circle cx="556.0" cy="542" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M556.0,530 A12,12 0 0 1 556.0,554 Z" fill="#f28c28"/>
+<circle cx="728.0" cy="542" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M728.0,530 A12,12 0 0 1 728.0,554 Z" fill="#f28c28"/>
+<circle cx="900.0" cy="542" r="13" fill="#f28c28"/>
+<circle cx="1072.0" cy="542" r="13" fill="#f28c28"/>
+<rect x="32" y="574" width="1136" height="64" fill="#18191b" opacity="0.6"/>
+<text x="48" y="613" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Detailed practical guidance</text>
+<circle cx="556.0" cy="606" r="13" fill="#f28c28"/>
+<circle cx="728.0" cy="606" r="13" fill="#f28c28"/>
+<circle cx="900.0" cy="606" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M900.0,594 A12,12 0 0 1 900.0,618 Z" fill="#f28c28"/>
+<circle cx="1072.0" cy="606" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M1072.0,594 A12,12 0 0 1 1072.0,618 Z" fill="#f28c28"/>
+<text x="48" y="677" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Track record in practice</text>
+<circle cx="556.0" cy="670" r="13" fill="#f28c28"/>
+<circle cx="728.0" cy="670" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M728.0,658 A12,12 0 0 1 728.0,682 Z" fill="#f28c28"/>
+<circle cx="900.0" cy="670" r="13" fill="#f28c28"/>
+<circle cx="1072.0" cy="670" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<circle cx="60" cy="742" r="13" fill="#f28c28"/>
+<text x="82" y="748" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="start" >yes</text>
+<circle cx="154" cy="742" r="12" fill="none" stroke="#f28c28" stroke-width="3"/><path d="M154,730 A12,12 0 0 1 154,754 Z" fill="#f28c28"/>
+<text x="176" y="748" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="start" >partly</text>
+<circle cx="272" cy="742" r="12" fill="none" stroke="#4a4c50" stroke-width="3"/>
+<text x="294" y="748" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="start" >not described (as far as we found)</text>
+<text x="614" y="748" font-size="20" fill="#9b9b9b" font-weight="600" text-anchor="middle" >–</text>
+<text x="636" y="748" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="start" >not in scope</text>
+<text x="48" y="788" font-size="15" fill="#9b9b9b" font-weight="400" text-anchor="start" >Ratings by YottaDots, based on public sources listed on the page. Challenge them on GitHub.</text>
+</svg>
