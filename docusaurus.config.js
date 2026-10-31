@@ -151,9 +151,8 @@ const config = {
           title: 'Open knowledge',
           items: [
             {
-              label: 'License',
-              href:
-                'https://github.com/YottaDots/yottadots.com/blob/main/LICENSE.md',
+              label: 'License & Trademarks',
+              to: '/docs/community/license',
             },
             {
               label: 'Repository',
@@ -165,7 +164,7 @@ const config = {
       ],
 
       copyright:
-        `YottaDots · Open knowledge. Better together. © ${new Date().getFullYear()}`,
+        `Content licensed under CC BY 4.0 · YottaDots® is a registered trademark · © ${new Date().getFullYear()}`,
     },
 
     colorMode: {

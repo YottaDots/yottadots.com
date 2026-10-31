@@ -54,3 +54,5 @@ body:
       options:
         - label: I am happy for this contribution to be considered for YottaDots.
           required: true
+        - label: I agree that my contribution is licensed under CC BY 4.0 and that it is my own work or I have the right to share it ([contribution terms](https://github.com/YottaDots/yottadots.com/blob/main/CONTRIBUTING.md#license-of-your-contribution)).
+          required: true

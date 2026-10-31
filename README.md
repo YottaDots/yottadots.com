@@ -47,6 +47,14 @@ This repository contains:
 - community documentation;
 - governance.
 
+## License
+
+- Content: [CC BY 4.0](LICENSE-CONTENT.txt), free to use, also commercially, with attribution.
+- Code: [MIT](LICENSE-CODE.txt).
+- The YottaDots name and logo are registered trademarks and are not licensed. See [TRADEMARKS.md](TRADEMARKS.md).
+
+Overview: [LICENSE.md](LICENSE.md).
+
 ## Status
 
 Current release:
