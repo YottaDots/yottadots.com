@@ -9,12 +9,13 @@ YottaDots v0.1 starts with four principles.
 
 ## Federate
 
-Independent members keep their authority. They delegate only what they choose
-to a shared core, and they can take it back.
+The centre decides the what; value streams decide the how. Everything not
+named as central stays with the value streams.
 
 ## Align
 
-Members agree together on a shared purpose, principles and guardrails.
+The centre proposes shared goals, principles and guardrails. Value streams
+help shape them and can object.
 
 ## Augment
 

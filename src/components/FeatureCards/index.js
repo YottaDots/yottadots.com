@@ -5,12 +5,12 @@ const features = [
   {
     icon: '◉',
     title: 'Federate',
-    text: 'Independent members keep their authority and delegate only what must be shared.',
+    text: 'The centre decides the what. Value streams decide the how.',
   },
   {
     icon: '◎',
     title: 'Align',
-    text: 'Members agree on a shared purpose, principles and lightweight guardrails.',
+    text: 'Shared goals, shaped with the value streams. Lightweight guardrails.',
   },
   {
     icon: '✦',
