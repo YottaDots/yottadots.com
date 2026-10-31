@@ -6,6 +6,8 @@ image: /img/social/ai-coworker.png
 
 # AI as a Co-worker
 
+![Visual summary. Left: adding AI to an existing five-step process keeps the same steps and hand-offs, with AI attached to each step. Right: redesigning the work, where a human and AI together handle the work and steps two to four are no longer needed. Below: the questions to answer for every piece of work.](/img/diagrams/ai-coworker-summary.svg)
+
 AI changes more than productivity.
 
 It changes the design of work itself.

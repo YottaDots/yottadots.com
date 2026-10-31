@@ -16,7 +16,8 @@ change.
 | Kind | What | How it is made |
 |---|---|---|
 | **Share images** | The image shown when a page is shared on LinkedIn, X, Slack or Teams | Generated automatically from the page title and first paragraph, with one fixed template |
-| **Diagrams** | Explanations: structures, flows, comparisons | Drawn as code (SVG), drafted by AI, reviewed by a human |
+| **Visual summaries** | One image at the top of an article that summarises its message | Drawn as code (SVG), drafted by AI, reviewed by a human |
+| **Diagrams** | Explanations inside a page: structures, flows, comparisons | Drawn as code (SVG), drafted by AI, reviewed by a human |
 | **Illustrations** | Images that set a mood rather than explain | Only by exception, with the founder's approval (see the rules below) |
 
 ## The visual style
@@ -43,6 +44,10 @@ change.
 Because visuals are code, every change is visible in the pull request, and
 the AI's part is recorded in the commit history (see
 [How YottaDots uses AI](../ai-coworker/how-we-use-ai.md)).
+
+Visual summaries and diagrams are stored in `static/img/diagrams/` as SVG. The
+SVG file is the source: open it in any text editor or vector tool to change
+it.
 
 ## Rules
 
