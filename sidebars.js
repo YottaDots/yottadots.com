@@ -32,6 +32,7 @@ module.exports = {
       label: 'AI Co-worker',
       items: [
         'ai-coworker/index',
+        'ai-coworker/how-we-use-ai',
       ],
     },
 

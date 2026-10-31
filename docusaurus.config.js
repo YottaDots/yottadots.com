@@ -155,6 +155,10 @@ const config = {
               to: '/docs/community/license',
             },
             {
+              label: 'How we use AI',
+              to: '/docs/ai-coworker/how-we-use-ai',
+            },
+            {
               label: 'Repository',
               href:
                 'https://github.com/YottaDots/yottadots.com',
@@ -164,7 +168,7 @@ const config = {
       ],
 
       copyright:
-        `Content licensed under CC BY 4.0 · YottaDots® is a registered trademark · © ${new Date().getFullYear()}`,
+        `Made with AI as a co-worker, reviewed by humans · Content licensed under CC BY 4.0 · YottaDots® is a registered trademark · © ${new Date().getFullYear()}`,
     },
 
     colorMode: {
