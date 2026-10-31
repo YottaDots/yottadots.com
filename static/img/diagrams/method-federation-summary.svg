@@ -4,7 +4,7 @@
 <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9b9b9b"/></marker>
 <marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
 <rect x="0.5" y="0.5" width="1199" height="699" rx="16" fill="#202124" stroke="#303236"/>
-<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="letter-spacing="2"" >VISUAL SUMMARY</text>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">VISUAL SUMMARY</text>
 <text x="40" y="92" font-size="26" fill="#ffffff" font-weight="700" text-anchor="start" >Independent members. A shared core that only holds what they delegate.</text>
 <circle cx="330" cy="395" r="62" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="3"/>
 <text x="330" y="391" font-size="17" fill="#ffffff" font-weight="700" text-anchor="middle" >Shared</text>

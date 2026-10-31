@@ -49,6 +49,9 @@ Visual summaries and diagrams are stored in `static/img/diagrams/` as SVG. The
 SVG file is the source: open it in any text editor or vector tool to change
 it.
 
+Before a visual is proposed, it is checked as valid SVG and tested the way the
+website loads it (as an image), not only as a preview.
+
 ## Rules
 
 - **Every visual has alt text** that says what it shows.
