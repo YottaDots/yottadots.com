@@ -1,5 +1,6 @@
 ---
 title: Governance
+image: /img/social/community-governance.png
 ---
 
 # Governance

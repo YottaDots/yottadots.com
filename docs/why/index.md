@@ -2,6 +2,7 @@
 id: index
 title: Why YottaDots?
 sidebar_label: Why YottaDots?
+image: /img/social/why.png
 ---
 
 # Why YottaDots?

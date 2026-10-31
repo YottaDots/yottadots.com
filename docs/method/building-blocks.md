@@ -1,5 +1,6 @@
 ---
 title: Building Blocks
+image: /img/social/method-building-blocks.png
 ---
 
 # Building Blocks

@@ -43,6 +43,9 @@ const config = {
   ],
 
   themeConfig: {
+    // Default share image (LinkedIn, X, Slack, Teams). Pages get their own via scripts/social-cards.
+    image: 'img/social/home.png',
+
     metadata: [
       {
         name: 'description',

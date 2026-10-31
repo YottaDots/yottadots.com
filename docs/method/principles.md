@@ -1,5 +1,6 @@
 ---
 title: Principles
+image: /img/social/method-principles.png
 ---
 
 # Principles

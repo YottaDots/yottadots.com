@@ -1,6 +1,7 @@
 ---
 id: index
 title: Community
+image: /img/social/community.png
 ---
 
 # YottaDots Community

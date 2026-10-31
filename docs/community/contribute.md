@@ -1,5 +1,6 @@
 ---
 title: Contribute
+image: /img/social/community-contribute.png
 ---
 
 # Contribute to YottaDots
