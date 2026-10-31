@@ -50,6 +50,7 @@ module.exports = {
         'community/index',
         'community/contribute',
         'community/governance',
+        'community/license',
       ],
     },
   ],

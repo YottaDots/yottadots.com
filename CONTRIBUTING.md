@@ -32,6 +32,30 @@ Changes to the canonical YottaDots core require approval from the core maintaine
 
 Community extensions do not require inclusion in the canonical core to be valuable.
 
+## License of your contribution
+
+By submitting a contribution (a pull request, an edit through "Edit this
+page", an issue, a form submission or a comment containing proposed content),
+you agree that:
+
+1. **Content** you contribute is licensed under
+   [CC BY 4.0](LICENSE-CONTENT.txt) and **code** under the
+   [MIT License](LICENSE-CODE.txt), the same licenses as the rest of
+   YottaDots.
+2. It is your own work, or you have the right to contribute it under these
+   licenses. Do not submit material from others (books, articles, client
+   documents) unless its license allows this; say where it comes from.
+3. You are credited through the repository history (your GitHub name). If
+   your contribution is used in other YottaDots publications, you are credited
+   there as a contributor, as CC BY 4.0 requires.
+4. Because the license allows commercial use, accepted contributions may also
+   be used in official YottaDots materials, including paid ones such as books
+   or courses, and by anyone else under the same license.
+5. Contributing does not give you rights to the YottaDots name or logo, or to
+   certification. See [TRADEMARKS.md](TRADEMARKS.md).
+
+Submitting a contribution does not oblige the maintainers to accept it.
+
 ## Respect
 
 Be constructive.
