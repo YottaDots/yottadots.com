@@ -12,7 +12,7 @@ YottaDots® is a registered trademark owned by the founder of YottaDots.
 |---|---|---|
 | European Union (EUIPO) | 018053497 | [EUIPO eSearch](https://euipo.europa.eu/eSearch/#details/trademarks/018053497) |
 | United Kingdom (UKIPO) | UK00918053497 | [UK IPO](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00918053497) |
-| United States (USPTO) | Serial no. 88410637 | [USPTO TSDR](https://tsdr.uspto.gov/#caseNumber=88410637) |
+| United States (USPTO) | Reg. no. 6918620 (serial no. 88410637) | [USPTO TSDR](https://tsdr.uspto.gov/#caseNumber=88410637) |
 
 The UK registration is the comparable UK mark created from the EU
 registration.
