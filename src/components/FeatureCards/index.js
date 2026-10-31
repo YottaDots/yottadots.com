@@ -5,12 +5,12 @@ const features = [
   {
     icon: '◉',
     title: 'Federate',
-    text: 'Place authority where the knowledge and capability live.',
+    text: 'Independent members keep their authority and delegate only what must be shared.',
   },
   {
     icon: '◎',
     title: 'Align',
-    text: 'Create shared purpose, principles and lightweight guardrails.',
+    text: 'Members agree on a shared purpose, principles and lightweight guardrails.',
   },
   {
     icon: '✦',

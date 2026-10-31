@@ -9,11 +9,12 @@ YottaDots v0.1 starts with four principles.
 
 ## Federate
 
-Place authority close to knowledge and value creation.
+Independent members keep their authority. They delegate only what they choose
+to a shared core, and they can take it back.
 
 ## Align
 
-Create shared purpose, principles and guardrails.
+Members agree together on a shared purpose, principles and guardrails.
 
 ## Augment
 
