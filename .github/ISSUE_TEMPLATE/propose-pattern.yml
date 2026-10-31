@@ -53,6 +53,19 @@ body:
       label: Experience or evidence
       description: Where have you seen this work?
 
+  - type: dropdown
+    id: ai-use
+    attributes:
+      label: Did you use AI for this contribution?
+      description: Using AI is fine. You remain responsible for what you submit.
+      options:
+        - "No"
+        - "Yes, for a first draft that I edited"
+        - "Yes, for research or checking"
+        - "Yes, mostly written by AI"
+    validations:
+      required: true
+
   - type: checkboxes
     id: contribution
     attributes:

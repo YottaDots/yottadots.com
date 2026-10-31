@@ -56,6 +56,19 @@ you agree that:
 
 Submitting a contribution does not oblige the maintainers to accept it.
 
+## Using AI
+
+You are welcome to use AI tools when you contribute. YottaDots is built that
+way too (see [How YottaDots uses AI](https://yottadots.github.io/yottadots.com/docs/ai-coworker/how-we-use-ai)).
+
+- **You are responsible** for what you submit, whether or not AI helped. Check
+  facts, sources and wording before you submit.
+- **Say that you used AI** in the issue or pull request, and briefly how (for
+  example "first draft by AI, edited by me").
+- **Check the rights.** Do not submit AI output that reproduces material from
+  others, such as text from books or articles.
+- In commits, you can add a `Co-Authored-By:` line for the AI tool you used.
+
 ## Respect
 
 Be constructive.
