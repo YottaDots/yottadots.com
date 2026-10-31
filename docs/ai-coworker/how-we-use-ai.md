@@ -38,7 +38,8 @@ AI (currently mainly Claude, by Anthropic) helps to:
 
 ## What is not made by AI
 
-The YottaDots logo was created by a human designer.
+The YottaDots logo was created by a human designer and further developed by the
+founder, without AI.
 
 ## Using AI when you contribute
 
