@@ -9,6 +9,8 @@ image: /img/social/ai-coworker-how-we-use-ai.png
 YottaDots says AI should be a co-worker. This website is built that way, and
 we want you to be able to see how.
 
+![How a change is made, in two lanes: human and AI co-worker. 1. The human asks what to explain. 2. AI drafts text, code or a visual. 3. AI checks sources, the image and gaps, and the human judges whether it is correct and clear. 4. AI changes it based on feedback. 5. AI opens a pull request, and the human approves and merges it. Only then does it go live.](/img/diagrams/how-we-use-ai-flow.svg)
+
 ## What AI does
 
 AI (currently mainly Claude, by Anthropic) helps to:
