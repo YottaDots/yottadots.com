@@ -4,8 +4,8 @@ const config = {
 
   favicon: 'img/logo.svg',
 
-  url: 'https://yottadots.github.io',
-  baseUrl: '/yottadots.com/',
+  url: 'https://yottadots.com',
+  baseUrl: '/',
 
   organizationName: 'YottaDots',
   projectName: 'yottadots.com',
