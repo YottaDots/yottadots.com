@@ -25,6 +25,16 @@ module.exports = {
       items: [
         'comparisons/index',
         'comparisons/safe-pom-okr',
+        {
+          type: 'category',
+          label: 'One-pagers',
+          items: [
+            'comparisons/safe',
+            'comparisons/product-operating-model',
+            'comparisons/okrs',
+            'comparisons/holacracy',
+          ],
+        },
       ],
     },
 

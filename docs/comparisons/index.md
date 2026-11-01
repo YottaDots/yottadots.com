@@ -45,7 +45,33 @@ on them. Questions 6 and 7 are there to balance that.
 
 ## Comparisons
 
-- [SAFe, Product Operating Model and OKRs](safe-pom-okr.md)
+- [The comparison: SAFe, Product Operating Model, OKRs, Holacracy](safe-pom-okr.md)
+
+## One-pagers
+
+Each framework also gets a one-page summary in the same format:
+
+1. What it is: three sentences, origin and owner
+2. The core idea
+3. The seven questions above
+4. Strengths
+5. Common criticisms, with sources
+6. When it fits, and when it does not
+7. How it relates to YottaDots: compete, combine or learn
+8. Sources and a "last checked" date
+
+The test before publishing: *would a supporter of this framework recognize it?*
+
+- [SAFe](safe.md)
+- [Product Operating Model](product-operating-model.md)
+- [OKRs](okrs.md)
+- [Holacracy](holacracy.md)
+
+### Which frameworks get a one-pager?
+
+Only frameworks that say something about **who decides the what, and who
+decides the how**. Next on the list: Sociocracy 3.0, Team Topologies, Haier
+RenDanHeYi, LeSS, Beyond Budgeting and mission command.
 
 More comparisons are on the
 [content backlog](https://github.com/YottaDots/yottadots.com/issues/27).
