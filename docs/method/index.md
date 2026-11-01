@@ -7,32 +7,49 @@ image: /img/social/method.png
 
 # The YottaDots Method
 
-YottaDots is an open approach to designing an organization as a federation of independent members, with AI as a co-worker.
+YottaDots is an open approach to organizing as a federation: the centre
+decides **what** the organization wants to achieve, and value streams decide
+**how**, with AI as a co-worker.
 
-![Visual summary. Five independent members, each with its own teams, surround a shared core. Arrows run from the members to the core: members delegate powers to the core, and can take them back. Three lines: 1. Keep: members keep what they can do best themselves. 2. Delegate: together they delegate what must be shared, and can take it back. 3. Automate: AI takes on what needs no human judgment. Everything that is not delegated stays with the members.](/img/diagrams/method-federation-summary.svg)
+![Visual summary. At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for input and objections. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object and the centre must deal with objections. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail.](/img/diagrams/method-federation-summary.svg)
 
 It is built around a simple idea:
 
-> Members keep what they can do best themselves.  
-> Together they delegate what must be shared, and can take it back.  
+> The centre decides the what.  
+> Value streams decide the how.  
 > AI takes on what needs no human judgment.
 
-## What is a federation in YottaDots?
+## What makes it a federation?
 
-A federation is a union of independent members. The members hand a limited
-set of powers to a shared core. The core holds only what the members delegate.
-Everything else stays with the members.
+"The centre decides the what, teams decide the how" is common. YottaDots adds
+three safeguards. Together, these four rules make an organization a
+federation:
 
-Members can be:
+1. **The centre decides the what:** mission, vision, strategy, OKRs and KPIs.
+2. **Value streams help shape the what.** The centre proposes goals, value
+   streams can object, and the centre must deal with the objections. The
+   centre still decides, but not alone.
+3. **Everything not named as central stays with the value streams.** The
+   centre has to say explicitly what it decides. It cannot quietly take over
+   anything else.
+4. **Value streams may opt out of shared services,** unless a service has
+   been agreed as a guardrail.
 
-- **separate organizations**, such as companies in a group, cooperatives or
-  public bodies that work together; or
-- **units inside one organization** that have real, written autonomy. This is
-  the weaker form: it only counts as a federation if that autonomy is real.
-  The minimum conditions are still being defined.
+Without rules 2 to 4, it is a hierarchy that lets teams choose their method.
+With them, the centre's power is limited, and the value streams can hold it
+to those limits.
 
-A federation is not decentralization inside a hierarchy, where management
-decides what to hand down. In a federation, authority comes from the members.
+## The how is free
+
+Value streams decide how they reach their OKRs and KPIs: Scrum, Kanban,
+projects, PRINCE2, campaigns or a mix. YottaDots does not prescribe a delivery
+method.
+
+## Where it applies
+
+Most often inside one organization with several value streams. The same rules
+also work for a group of organizations, such as a holding company and its
+operating companies.
 
 ## What YottaDots provides
 
