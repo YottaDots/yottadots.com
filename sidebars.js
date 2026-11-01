@@ -21,6 +21,15 @@ module.exports = {
 
     {
       type: 'category',
+      label: 'Comparisons',
+      items: [
+        'comparisons/index',
+        'comparisons/safe-pom-okr',
+      ],
+    },
+
+    {
+      type: 'category',
       label: 'Patterns',
       items: [
         'patterns/index',

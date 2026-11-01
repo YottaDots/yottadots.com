@@ -38,6 +38,7 @@ const logo = 'data:image/png;base64,' +
 const SECTIONS = {
   why: 'Why YottaDots',
   method: 'Method',
+  comparisons: 'Comparisons',
   patterns: 'Patterns',
   'ai-coworker': 'AI Co-worker',
   canvases: 'Canvases',
