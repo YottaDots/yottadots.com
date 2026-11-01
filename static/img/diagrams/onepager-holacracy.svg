@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Holacracy in one page</title>
+<desc id="d">Visual summary of Holacracy. Core idea: Authority in a written constitution: roles and circles instead of managers. The what is decided by: The broader circle gives each circle its purpose; the circle lead sets priorities. The how is decided by: Role leads may take any action that serves their role, unless a rule limits it. Strong at: Formal objections in governance; Default authority with the role (like rule 3). Watch out for: Complex: Medium dropped it in 2016; Zappos: about 18% left after the ultimatum. Relation to YottaDots: LEARN: Closest relative. But YottaDots keeps managers and prescribes no constitution.</desc>
+<rect x="0.5" y="0.5" width="1199" height="639" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">ONE-PAGER</text>
+<text x="40" y="98" font-size="34" fill="#ffffff" font-weight="800" text-anchor="start" >Holacracy</text>
+<text x="40" y="136" font-size="20" fill="#e2e2e2" font-weight="500" text-anchor="start" >Authority in a written constitution: roles and circles instead of managers.</text>
+<rect x="40" y="200" width="550" height="150" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2"/>
+<text x="64" y="236" font-size="14" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="1">THE WHAT is decided by</text>
+<text x="64" y="270" font-size="19" fill="#ffffff" font-weight="600" text-anchor="start" >The broader circle gives each circle its</text>
+<text x="64" y="298" font-size="19" fill="#ffffff" font-weight="600" text-anchor="start" >purpose; the circle lead sets priorities</text>
+<rect x="610" y="200" width="550" height="150" rx="14" fill="#18191b" stroke="#f28c28" stroke-width="2"/>
+<text x="634" y="236" font-size="14" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="1">THE HOW is decided by</text>
+<text x="634" y="270" font-size="19" fill="#ffffff" font-weight="600" text-anchor="start" >Role leads may take any action that serves</text>
+<text x="634" y="298" font-size="19" fill="#ffffff" font-weight="600" text-anchor="start" >their role, unless a rule limits it</text>
+<rect x="40" y="376" width="550" height="140" rx="14" fill="#18191b" stroke="#303236" stroke-width="2"/>
+<text x="64" y="412" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Strong at</text>
+<circle cx="70" cy="440" r="5" fill="#f28c28"/>
+<text x="86" y="446" font-size="16" fill="#e2e2e2" font-weight="400" text-anchor="start" >Formal objections in governance</text>
+<circle cx="70" cy="472" r="5" fill="#f28c28"/>
+<text x="86" y="478" font-size="16" fill="#e2e2e2" font-weight="400" text-anchor="start" >Default authority with the role (like rule 3)</text>
+<rect x="610" y="376" width="550" height="140" rx="14" fill="#18191b" stroke="#303236" stroke-width="2"/>
+<text x="634" y="412" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Watch out for</text>
+<circle cx="640" cy="440" r="5" fill="#9b9b9b"/>
+<text x="656" y="446" font-size="16" fill="#e2e2e2" font-weight="400" text-anchor="start" >Complex: Medium dropped it in 2016</text>
+<circle cx="640" cy="472" r="5" fill="#9b9b9b"/>
+<text x="656" y="478" font-size="16" fill="#e2e2e2" font-weight="400" text-anchor="start" >Zappos: about 18% left after the ultimatum</text>
+<rect x="40" y="542" width="1120" height="64" rx="14" fill="#202124" stroke="#f28c28" stroke-width="2"/>
+<rect x="56" y="558" width="68" height="32" rx="16" fill="#f28c28"/>
+<text x="90" y="580" font-size="15" fill="#18191b" font-weight="800" text-anchor="middle" >LEARN</text>
+<text x="140" y="581" font-size="17" fill="#e2e2e2" font-weight="500" text-anchor="start" >Closest relative. But YottaDots keeps managers and prescribes no constitution.</text>
+</svg>

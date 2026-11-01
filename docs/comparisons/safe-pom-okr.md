@@ -1,56 +1,75 @@
 ---
-title: YottaDots compared with SAFe, the Product Operating Model and OKRs
-sidebar_label: SAFe, Product Operating Model, OKRs
-description: All four set the what centrally. YottaDots adds safeguards for the value streams, but has the least track record.
+title: YottaDots compared with SAFe, the Product Operating Model, OKRs and Holacracy
+sidebar_label: The comparison
+description: All five set the what centrally. Holacracy is closest to YottaDots. YottaDots adds opt-out of shared services and leaves the how free, but has the least track record.
 image: /img/social/comparisons-safe-pom-okr.png
 ---
 
-# YottaDots compared with SAFe, the Product Operating Model and OKRs
+# YottaDots compared with SAFe, the Product Operating Model, OKRs and Holacracy
 
-![Visual summary: a table comparing SAFe, the Product Operating Model, OKRs and YottaDots. All four let the centre decide the what. The three others partly let units shape goals; YottaDots makes it a formal right to object. Only YottaDots describes that unnamed decisions stay with the units and that units may opt out of shared services. OKRs and YottaDots leave the delivery method free; SAFe and the Product Operating Model partly prescribe it. SAFe and the Product Operating Model give the most detailed guidance. SAFe and OKRs have the strongest track record; YottaDots has none yet.](/img/diagrams/comparison-safe-pom-okr.svg)
+![Visual summary: a table comparing SAFe, the Product Operating Model, OKRs, Holacracy and YottaDots. All five let the centre or broader circle decide the what. SAFe, the Product Operating Model and OKRs partly let units shape goals; Holacracy partly, through formal objections in governance; YottaDots as a formal right to object to goals. Unnamed decisions stay with the units in Holacracy (at role level) and in YottaDots. Only YottaDots describes opting out of shared services. OKRs and YottaDots leave the delivery method free; the others partly prescribe it. SAFe, the Product Operating Model and Holacracy give the most detailed guidance. SAFe and OKRs have the strongest track record; Holacracy a mixed one; YottaDots none yet.](/img/diagrams/comparison-safe-pom-okr.svg)
 
-**In short:** all four let the centre decide the *what*. YottaDots does not
-differ there. It differs in three safeguards for the value streams, and in
-leaving the *how* completely free. It is also the youngest and least proven
-of the four.
+**In short:** all five let the centre (or the broader circle) decide the
+*what*. **Holacracy is closest to YottaDots:** it also gives default authority
+to the people doing the work and makes objections formal. What YottaDots adds
+is **opting out of shared services**, objections at the level of **goals**
+(not only governance), and a **free how** without a prescribed constitution or
+meeting process. It is also the youngest and least proven of the five.
 
-How these comparisons are made: [How we compare](index.md).
+How these comparisons are made: [How we compare](index.md). One-pagers:
+[SAFe](safe.md), [Product Operating Model](product-operating-model.md),
+[OKRs](okrs.md), [Holacracy](holacracy.md).
 
-## The four at a glance
+## The five at a glance
 
-| | SAFe | Product Operating Model | OKRs | YottaDots |
-|---|---|---|---|---|
-| **What it is** | Framework for portfolio management and delivery at scale | Way of working for product organizations (Marty Cagan, SVPG) | Goal-setting method | Governance model: who decides what, and what is protected |
-| **1. Who decides the what?** | The centre: Lean Portfolio Management sets strategic themes, the portfolio vision and value stream budgets | The centre: product leaders set the product strategy and decide which teams solve which problems | The centre sets company objectives | The centre: mission, vision, strategy, OKRs, KPIs |
-| **2. Do units help shape the goals?** | Partly: participatory budgeting brings business owners and value stream stakeholders into the budget allocation | Partly: team objectives are negotiated between leaders and teams | Partly: teams are encouraged to write a large share of their own OKRs | Yes, as a formal right: the centre proposes, value streams can object, and the centre must deal with the objections |
-| **3. What happens to unnamed decisions?** | Not described (as far as we found) | Not described (as far as we found) | Not described (as far as we found) | They stay with the value streams. The centre must name what it decides |
-| **4. Can units opt out of shared services?** | Not described (as far as we found) | Not described: team topology, including platform teams, is decided by leadership | Not in scope | Yes, unless the service has been agreed as a guardrail |
-| **5. Who decides the how?** | Partly the teams: within prescribed structures such as Agile Release Trains and PI Planning | Partly the teams: they choose solutions, within the empowered product team model | The teams. OKRs do not prescribe a method | The value streams, with any method |
-| **6. Practical guidance** | Very detailed: roles, events, training, certification | Detailed: books, articles and coaching on product practice | Moderate: widely documented, simple to start | Limited: v0.1, still being built |
-| **7. Track record** | Widely used in large organizations; also documented cases of organizations moving away from it | Grown from tech companies; commentators note that few companies work this way yet [Needs Evidence: independent studies] | Long track record since Intel in the 1970s and Google | None yet [Needs Evidence] |
+| | SAFe | Product Operating Model | OKRs | Holacracy | YottaDots |
+|---|---|---|---|---|---|
+| **What it is** | Framework for portfolio management and delivery at scale | Way of working for product organizations | Goal-setting method | Self-management system with a written constitution | Governance model: who decides what, and what is protected |
+| **1. Who decides the what?** | Lean Portfolio Management | Product leaders | Leadership | The broader circle; the circle lead sets priorities | The centre |
+| **2. Do units help shape the goals?** | Partly: participatory budgeting | Partly: negotiated team objectives | Partly: roughly half of OKRs bottom-up | Partly: formal objections, but for governance (roles, policies), not goals | Yes: a formal right to object to goals |
+| **3. What happens to unnamed decisions?** | Not described | Not described | Not described | **Stay with the role** | Stay with the value stream |
+| **4. Can units opt out of shared services?** | Not described | Not described | Not in scope | Not described | Yes, unless agreed as a guardrail |
+| **5. Who decides the how?** | Partly the teams, within release trains and PI Planning | Partly the teams, within the product team model | The teams | The role lead, within a prescribed governance and meeting process | The value streams, any method |
+| **6. Practical guidance** | Very detailed | Detailed | Moderate | Very detailed | Limited (v0.1) |
+| **7. Track record** | Widely used; also cases of moving away | Mainly tech companies [Needs Evidence] | Long | Mixed: Medium and Zappos moved away | None yet [Needs Evidence] |
+
+"Not described" means we did not find it in the sources, not that it is
+impossible.
+
+## What this means for YottaDots
+
+- **Rule 1** (the centre decides the what) is **common to all five.**
+- **Rule 2** (value streams help shape goals) exists **partly everywhere**.
+  YottaDots differs by making it a formal right *for goals*.
+- **Rule 3** (residual power) **exists in Holacracy**, at the level of roles.
+  YottaDots applies it to value streams and keeps managers.
+- **Rule 4** (opt-out of shared services) we **did not find elsewhere**.
+- **The free how** is shared with OKRs; the others prescribe part of it.
+
+So YottaDots is not new in each rule. It is a **combination**: a centre that
+keeps the what, with three safeguards for value streams, without prescribing
+how anyone works.
 
 ## What YottaDots can learn from them
 
-- **From SAFe:** participatory budgeting is a worked-out way for value streams
-  to help shape funding. It is a candidate practice for rule 2. SAFe also
-  calls its budget rules *guardrails*, so YottaDots should be clear about how
-  its guardrails differ.
-- **From the Product Operating Model:** give value streams *problems to solve*,
-  not features to build. That is a sharp way to express "the centre decides the
-  what".
-- **From OKRs:** the practice that teams write a large share of their own key
-  results is a simple, proven form of rule 2.
+- **SAFe:** participatory budgeting, as a practice for rule 2.
+- **Product Operating Model:** "problems to solve, not features to build", as a
+  way to express the what.
+- **OKRs:** teams writing a large share of their own key results, a simple
+  form of rule 2.
+- **Holacracy:** integrative decision-making for objections, and a precise way
+  to write down default authority (rule 3). And a warning: forcing a system on
+  people (Zappos) or making it too complex (Medium) makes them leave it.
 
 ## Can you combine them?
 
-Often, yes. YottaDots says *who* decides; the others say *how* to do it:
+Often, yes. YottaDots says *who* decides; the others say *how*:
 
 - The centre can use **OKRs** to express the what.
-- A value stream can run as an **empowered product team** or as a **SAFe-style
-  release train** as its how.
+- A value stream can run as **empowered product teams**, a **SAFe-style
+  release train** or a **Holacracy circle** as its how.
 - Combining YottaDots with SAFe's *portfolio* level is harder: both describe
-  how the centre allocates budgets, and SAFe has no opt-out or residual-power
-  rule.
+  how the centre allocates budgets.
 
 ## The claim to test
 
@@ -64,10 +83,6 @@ See the [content backlog](https://github.com/YottaDots/yottadots.com/issues/27).
 
 ## Sources
 
-- Scaled Agile, [Lean Budget Guardrails](https://framework.scaledagile.com/guardrails)
-- Scaled Agile, [Participatory Budgeting](https://framework.scaledagile.com/participatory-budgeting)
-- L. Hohmann and N. Kaintantzis, [Participatory Budgeting: Understanding Color of Money and Other Constraints](https://scaledagileframework.com/participatory-budgeting-understanding-color-of-money-and-other-constraints)
-- M. Cagan, [Team Objectives – In Action](https://www.svpg.com/team-objectives-action/), [Team Objectives – Overview](https://svpg.com/team-objectives-overview/), [Team Objectives – Summary](https://www.svpg.com/team-objectives-summary/), SVPG
-- M. Cagan and C. Jones, *Empowered* (Wiley, 2020); M. Cagan, *Transformed* (Wiley, 2024)
-- J. Doerr, *Measure What Matters* (Portfolio, 2018); A. Grove, *High Output Management* (Random House, 1983)
-- Austrian Post, [Restarting Scaled Agile Development at Austrian Post](https://www.agilealliance.org/wp-content/uploads/2023/10/3232-20230519_Restarting-scaled-agile-development-at-Austrian-Post_final.pdf), XP 2023 experience report
+See the one-pagers for full sources: [SAFe](safe.md),
+[Product Operating Model](product-operating-model.md), [OKRs](okrs.md),
+[Holacracy](holacracy.md).
