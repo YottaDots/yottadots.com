@@ -43,6 +43,11 @@ module.exports = {
       label: 'Patterns',
       items: [
         'patterns/index',
+        'patterns/name-what-is-central',
+        'patterns/objection-round-on-goals',
+        'patterns/opt-out-of-shared-services',
+        'patterns/guardrails-that-earn-their-place',
+        'patterns/ai-with-a-human-owner',
       ],
     },
 

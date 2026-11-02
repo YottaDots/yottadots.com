@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern map: where the five YottaDots patterns act</title>
+<desc id="d">The centre at the top, four value streams in the middle, shared services at the bottom. Five numbered patterns are placed where they act. 1 Name what is central: on the centre. 2 Objection round on goals: on the arrows between the centre and the value streams. 3 Opt-out of shared services: on the line between value streams and shared services, where one value stream has opted out. 4 Guardrails that earn their place: on the boundary around the value streams. 5 AI with a human owner: alongside everything, wherever AI does work.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN MAP</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Five patterns that make the four rules work</text>
+<rect x="60" y="130" width="720" height="72" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="420" y="163" font-size="20" fill="#ffffff" font-weight="700" text-anchor="middle" >Centre: the what</text>
+<text x="420" y="188" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Mission · vision · strategy · OKRs · KPIs · guardrails</text>
+<circle cx="780" cy="130" r="17" fill="#f28c28"/>
+<text x="780" y="136" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<rect x="48" y="300" width="744" height="132" rx="16" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="66" y="425" font-size="13" fill="#f28c28" font-weight="600" text-anchor="start" >guardrails</text>
+<circle cx="48" cy="300" r="17" fill="#f28c28"/>
+<text x="48" y="306" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<line x1="133" y1="206" x2="133" y2="318" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="157" y1="322" x2="157" y2="210" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<rect x="70" y="326" width="150" height="82" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="145" y="356" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 1</text>
+<text x="145" y="386" font-size="16" fill="#f28c28" font-weight="700" text-anchor="middle" >Scrum</text>
+<line x1="145" y1="410" x2="145" y2="518" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="323" y1="206" x2="323" y2="318" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="347" y1="322" x2="347" y2="210" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<rect x="260" y="326" width="150" height="82" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="335" y="356" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 2</text>
+<text x="335" y="386" font-size="16" fill="#f28c28" font-weight="700" text-anchor="middle" >Kanban</text>
+<line x1="335" y1="410" x2="335" y2="518" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="513" y1="206" x2="513" y2="318" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="537" y1="322" x2="537" y2="210" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<rect x="450" y="326" width="150" height="82" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="525" y="356" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 3</text>
+<text x="525" y="386" font-size="16" fill="#f28c28" font-weight="700" text-anchor="middle" >Projects</text>
+<line x1="525" y1="410" x2="525" y2="518" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="703" y1="206" x2="703" y2="318" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="727" y1="322" x2="727" y2="210" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<rect x="640" y="326" width="150" height="82" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="715" y="356" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 4</text>
+<text x="715" y="386" font-size="16" fill="#f28c28" font-weight="700" text-anchor="middle" >Campaigns</text>
+<line x1="715" y1="410" x2="715" y2="470" stroke="#9b9b9b" stroke-width="2" stroke-dasharray="4 6"/>
+<text x="715" y="492" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >opted out</text>
+<circle cx="197" cy="262" r="17" fill="#f28c28"/>
+<text x="197" y="268" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<circle cx="758" cy="470" r="17" fill="#f28c28"/>
+<text x="758" y="476" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<rect x="110" y="520" width="520" height="64" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="370" y="558" font-size="17" fill="#ffffff" font-weight="700" text-anchor="middle" >Shared services</text>
+<rect x="60" y="616" width="720" height="60" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" stroke-dasharray="3 5"/>
+<text x="420" y="652" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >AI co-worker: in the centre, the value streams and shared services</text>
+<circle cx="60" cy="616" r="17" fill="#f28c28"/>
+<text x="60" y="622" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<rect x="830" y="130" width="330" height="546" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="866" cy="182" r="17" fill="#f28c28"/>
+<text x="866" y="188" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="894" y="188" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Name what is central</text>
+<text x="894" y="214" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >rule 3: the rest stays with value streams</text>
+<circle cx="866" cy="282" r="17" fill="#f28c28"/>
+<text x="866" y="288" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="894" y="288" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Objection round on goals</text>
+<text x="894" y="314" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >rule 2: value streams help shape the what</text>
+<circle cx="866" cy="382" r="17" fill="#f28c28"/>
+<text x="866" y="388" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="894" y="388" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Opt-out of shared services</text>
+<text x="894" y="414" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >rule 4: unless agreed as a guardrail</text>
+<circle cx="866" cy="482" r="17" fill="#f28c28"/>
+<text x="866" y="488" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="894" y="488" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Guardrails that earn their place</text>
+<text x="894" y="514" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >few rules, each one justified</text>
+<circle cx="866" cy="582" r="17" fill="#f28c28"/>
+<text x="866" y="588" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="894" y="588" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >AI with a human owner</text>
+<text x="894" y="614" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >a named person decides</text>
+</svg>

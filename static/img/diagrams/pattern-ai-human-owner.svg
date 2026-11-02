@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 5: AI with a human owner</title>
+<desc id="d">Three parts from left to right. First, the AI co-worker prepares, drafts, checks and summarises. Second, a named human owner reviews, decides and is accountable for the result. Third, the result is visible: the AI's part is logged and disclosed. Below: no owner, no AI task. The value stream decides how it uses AI, within the agreed guardrails.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 5</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >AI with a human owner</text>
+<rect x="40" y="140" width="330" height="350" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="70" y="182" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >AI co-worker</text>
+<text x="70" y="208" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >does the work</text>
+<rect x="70" y="240" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="205.0" y="265.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Prepares</text>
+<rect x="70" y="294" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="205.0" y="319.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Drafts</text>
+<rect x="70" y="348" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="205.0" y="373.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Checks</text>
+<rect x="70" y="402" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="205.0" y="427.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Summarises</text>
+<rect x="435" y="140" width="330" height="350" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="465" y="182" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >Named human owner</text>
+<text x="465" y="208" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >one person or role</text>
+<rect x="465" y="240" width="270" height="40" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="265.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Reviews</text>
+<rect x="465" y="294" width="270" height="40" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="319.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Decides</text>
+<rect x="465" y="348" width="270" height="40" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="373.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Is accountable</text>
+<rect x="830" y="140" width="330" height="350" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="860" y="182" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >Visible</text>
+<text x="860" y="208" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >for the people affected</text>
+<rect x="860" y="240" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="995.0" y="265.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >AI's part logged</text>
+<rect x="860" y="294" width="270" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="995.0" y="319.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >AI's part disclosed</text>
+<line x1="372" y1="315" x2="431" y2="315" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="767" y1="315" x2="826" y2="315" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<rect x="40" y="530" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="561" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >No owner, no AI task.</text>
+<text x="600.0" y="587" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >The value stream decides how it uses AI, within the agreed guardrails.</text>
+<text x="600" y="676" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="middle" >The owner is always a human. AI can be a contributor, never the owner.</text>
+</svg>

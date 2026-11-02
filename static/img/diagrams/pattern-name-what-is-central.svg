@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 1: Name what is central</title>
+<desc id="d">On the left, a short published list of what the centre decides: mission and vision, strategy, OKRs and KPIs, and agreed guardrails. On the right, a much larger area for everything else, which stays with the value streams: method, planning, team set-up, tools, ways of working and anything not on the list. At the bottom: when in doubt, the value stream decides. Adding to the list is a visible decision, never a quiet one.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 1</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Name what is central. The rest stays with the value streams.</text>
+<rect x="40" y="130" width="360" height="430" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="70" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >The centre's list</text>
+<text x="70" y="198" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >short · published · named decisions</text>
+<rect x="66" y="240" width="308" height="46" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="88" y="269" font-size="16" fill="#ffffff" font-weight="600" text-anchor="start" >Mission and vision</text>
+<rect x="66" y="302" width="308" height="46" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="88" y="331" font-size="16" fill="#ffffff" font-weight="600" text-anchor="start" >Strategy</text>
+<rect x="66" y="364" width="308" height="46" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="88" y="393" font-size="16" fill="#ffffff" font-weight="600" text-anchor="start" >OKRs and KPIs</text>
+<rect x="66" y="426" width="308" height="46" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="88" y="455" font-size="16" fill="#ffffff" font-weight="600" text-anchor="start" >Agreed guardrails</text>
+<text x="70" y="530" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" >Nothing else.</text>
+<rect x="430" y="130" width="730" height="430" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="462" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Everything else: the value streams</text>
+<text x="462" y="198" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >not on the list = not central</text>
+<rect x="462" y="236" width="92" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="508.0" y="258.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Method</text>
+<rect x="568" y="236" width="110" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="623.0" y="258.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Planning</text>
+<rect x="692" y="236" width="137" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="760.5" y="258.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Team set-up</text>
+<rect x="462" y="294" width="83" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="503.5" y="316.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Tools</text>
+<rect x="559" y="294" width="173" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="645.5" y="316.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Ways of working</text>
+<rect x="746" y="294" width="83" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="787.5" y="316.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Roles</text>
+<rect x="462" y="352" width="119" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="521.5" y="374.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Suppliers</text>
+<rect x="595" y="352" width="110" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="650.0" y="374.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Meetings</text>
+<rect x="719" y="352" width="245" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="841.5" y="374.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Priorities within goals</text>
+<rect x="462" y="430" width="666" height="100" rx="12" fill="none" stroke="#3a3c40" stroke-width="1.5" stroke-dasharray="6 6"/>
+<text x="795" y="474" font-size="18" fill="#e2e2e2" font-weight="600" text-anchor="middle" >… and anything not on the list</text>
+<text x="795" y="502" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="middle" >including what nobody thought of yet</text>
+<rect x="40" y="600" width="1120" height="80" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="631" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >When in doubt, the value stream decides.</text>
+<text x="600.0" y="657" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Adding to the list is a visible decision, never a quiet one.</text>
+</svg>
