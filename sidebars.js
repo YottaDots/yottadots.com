@@ -43,6 +43,7 @@ module.exports = {
             'comparisons/product-operating-model',
             'comparisons/okrs',
             'comparisons/holacracy',
+            'comparisons/beyond-budgeting',
           ],
         },
       ],

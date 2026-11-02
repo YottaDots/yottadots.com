@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">One-pager: Beyond Budgeting</title>
+<desc id="d">Visual summary of Beyond Budgeting. Core idea: steer without a fixed annual budget, through purpose, relative goals and resources made available as needed. The what: leadership sets purpose and directional, ambitious, relative goals, avoiding fixed and cascaded targets. The how: teams, within shared values and sound judgement rather than detailed rules. Strong at: separating targets, forecasts and resource allocation, and long cases such as Handelsbanken and Equinor. Watch out for: few organizations adopt it in full, and the evidence is mostly case studies. Relation to YottaDots: combine, because Beyond Budgeting covers money and targets while YottaDots covers who decides what.</desc>
+<rect x="0.5" y="0.5" width="1199" height="639" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">ONE-PAGER</text>
+<text x="40" y="98" font-size="34" fill="#ffffff" font-weight="800" text-anchor="start" >Beyond Budgeting</text>
+<text x="40" y="136" font-size="20" fill="#e2e2e2" font-weight="500" text-anchor="start" >Steer without a fixed annual budget: purpose, relative goals, resources as needed.</text>
+<rect x="40" y="200" width="550" height="150" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2"/>
+<text x="64" y="236" font-size="14" fill="#f28c28" font-weight="700" text-anchor="start" >THE WHAT is decided by</text>
+<text x="64" y="270" font-size="18" fill="#ffffff" font-weight="600" text-anchor="start" >Leadership sets purpose and directional,</text>
+<text x="64" y="298" font-size="18" fill="#ffffff" font-weight="600" text-anchor="start" >ambitious, relative goals; no fixed cascade</text>
+<rect x="610" y="200" width="550" height="150" rx="14" fill="#18191b" stroke="#f28c28" stroke-width="2"/>
+<text x="634" y="236" font-size="14" fill="#f28c28" font-weight="700" text-anchor="start" >THE HOW is decided by</text>
+<text x="634" y="270" font-size="18" fill="#ffffff" font-weight="600" text-anchor="start" >Teams, within shared values and</text>
+<text x="634" y="298" font-size="18" fill="#ffffff" font-weight="600" text-anchor="start" >sound judgement; no detailed rules</text>
+<rect x="40" y="376" width="550" height="140" rx="14" fill="#18191b" stroke="#2e3034" stroke-width="1.5"/>
+<text x="64" y="412" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Strong at</text>
+<circle cx="70" cy="440" r="5" fill="#f28c28"/>
+<text x="86" y="446" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="start" >Separates targets, forecasts and resource allocation</text>
+<circle cx="70" cy="472" r="5" fill="#f28c28"/>
+<text x="86" y="478" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="start" >Long cases: Handelsbanken, Equinor</text>
+<rect x="610" y="376" width="550" height="140" rx="14" fill="#18191b" stroke="#2e3034" stroke-width="1.5"/>
+<text x="634" y="412" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Watch out for</text>
+<circle cx="640" cy="440" r="5" fill="#9b9b9b"/>
+<text x="656" y="446" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="start" >Adopted in full by few organizations</text>
+<circle cx="640" cy="472" r="5" fill="#9b9b9b"/>
+<text x="656" y="478" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="start" >Evidence is mostly case studies</text>
+<rect x="40" y="542" width="1120" height="64" rx="14" fill="none" stroke="#f28c28" stroke-width="2"/>
+<rect x="56" y="558" width="96" height="32" rx="16" fill="#f28c28"/>
+<text x="104" y="580" font-size="14" fill="#18191b" font-weight="800" text-anchor="middle">COMBINE</text>
+<text x="168" y="581" font-size="17" fill="#e2e2e2" font-weight="500" text-anchor="start" >Beyond Budgeting covers money and targets; YottaDots covers who decides what.</text>
+</svg>
