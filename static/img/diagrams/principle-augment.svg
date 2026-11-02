@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Principle 3: Augment</title>
+<desc id="d">Before and after. Before: information travels up and down through layers of people, from a team to a manager to another manager and back, and much of the work is routing, reporting and checking. After: AI co-workers take on the routing, summaries, drafts and checks. People spend their time on judgment and decisions, and a named human owns every result. Below: AI takes on what needs no human judgment.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PRINCIPLE 3</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Augment</text>
+<rect x="40" y="130" width="540" height="420" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="70" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Before: coordination by layers</text>
+<text x="70" y="198" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >reports up, decisions down, hand-offs between</text>
+<line x1="310" y1="268" x2="210" y2="322" stroke="#c9c9c9" stroke-width="2"/>
+<line x1="310" y1="268" x2="410" y2="322" stroke="#c9c9c9" stroke-width="2"/>
+<line x1="210" y1="358" x2="160" y2="422" stroke="#c9c9c9" stroke-width="2"/>
+<line x1="210" y1="358" x2="260" y2="422" stroke="#c9c9c9" stroke-width="2"/>
+<line x1="410" y1="358" x2="360" y2="422" stroke="#c9c9c9" stroke-width="2"/>
+<line x1="410" y1="358" x2="460" y2="422" stroke="#c9c9c9" stroke-width="2"/>
+<circle cx="310" cy="250" r="18" fill="#3a3c40"/>
+<circle cx="210" cy="340" r="18" fill="#3a3c40"/>
+<circle cx="410" cy="340" r="18" fill="#3a3c40"/>
+<circle cx="160" cy="440" r="18" fill="#3a3c40"/>
+<circle cx="260" cy="440" r="18" fill="#3a3c40"/>
+<circle cx="360" cy="440" r="18" fill="#3a3c40"/>
+<circle cx="460" cy="440" r="18" fill="#3a3c40"/>
+<text x="310" y="512" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="middle" >report · status meeting · hand-off · check</text>
+<rect x="620" y="130" width="540" height="420" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="650" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >After: AI takes on coordination work</text>
+<text x="650" y="198" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >people spend their time on judgment</text>
+<rect x="650" y="228" width="480" height="104" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" stroke-dasharray="3 5"/>
+<text x="674" y="258" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >AI co-workers</text>
+<rect x="674" y="278" width="100" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="724.0" y="300.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Route</text>
+<rect x="786" y="278" width="100" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="836.0" y="300.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Summarise</text>
+<rect x="898" y="278" width="100" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="948.0" y="300.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Draft</text>
+<rect x="1010" y="278" width="100" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1060.0" y="300.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Check</text>
+<line x1="710" y1="336" x2="710" y2="398" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<circle cx="710" cy="422" r="20" fill="#f28c28"/>
+<line x1="830" y1="336" x2="830" y2="398" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<circle cx="830" cy="422" r="20" fill="#f28c28"/>
+<line x1="950" y1="336" x2="950" y2="398" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<circle cx="950" cy="422" r="20" fill="#f28c28"/>
+<line x1="1070" y1="336" x2="1070" y2="398" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<circle cx="1070" cy="422" r="20" fill="#f28c28"/>
+<text x="890" y="474" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >People decide, and are accountable</text>
+<text x="890" y="500" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="middle" >a named human owns every result</text>
+<rect x="40" y="590" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="621" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >AI takes on what needs no human judgment.</text>
+<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Fewer layers needed to coordinate, more room for the value streams.</text>
+</svg>
