@@ -66,12 +66,13 @@ The test before publishing: *would a supporter of this framework recognize it?*
 - [Product Operating Model](product-operating-model.md)
 - [OKRs](okrs.md)
 - [Holacracy](holacracy.md)
+- [Beyond Budgeting](beyond-budgeting.md)
 
 ### Which frameworks get a one-pager?
 
 Only frameworks that say something about **who decides the what, and who
 decides the how**. Next on the list: Sociocracy 3.0, Team Topologies, Haier
-RenDanHeYi, LeSS, Beyond Budgeting and mission command.
+RenDanHeYi, LeSS and mission command.
 
 More comparisons are on the
 [content backlog](https://github.com/YottaDots/yottadots.com/issues/27).
