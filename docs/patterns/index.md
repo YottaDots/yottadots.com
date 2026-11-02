@@ -17,7 +17,7 @@ daily practice.
 <small>Status: **proposed (v0.1).** These patterns are drafts for discussion.
 None has been tested in practice yet. See [Evidence](#evidence) below.</small>
 
-## The first five patterns
+## Patterns that protect the rules
 
 | # | Pattern | Problem it solves | Makes this rule work |
 |---|---|---|---|
@@ -30,6 +30,17 @@ None has been tested in practice yet. See [Evidence](#evidence) below.</small>
 Patterns 1 to 4 each protect one of the federation's safeguards. Without
 them, the rules exist on paper only. Pattern 5 applies everywhere AI does
 work.
+
+## Patterns for capacity and money
+
+These patterns address a problem the four rules do not solve on their own:
+money that replaces real choices (see [Why YottaDots?](../why/index.md)).
+
+| # | Pattern | Problem it solves | Makes this rule work |
+|---|---|---|---|
+| 6 | [Adding capacity is a choice too](./adding-capacity-is-a-choice.md) | A "no capacity" is answered by hiring another team, and the portfolio sprawls | Rule 1: the centre makes real choices |
+| 7 | [Usage check: stop what is not used](./usage-check.md) | Work is delivered but never used, and is maintained for years | Evolve: keep, change or stop |
+| 8 | [Budgets that do not punish saving](./budgets-that-do-not-punish-saving.md) | Unspent budget is lost, so money is spent instead of choices being made | Rule 1: funding follows priorities, not spending |
 
 ## How a pattern is written
 
@@ -69,4 +80,5 @@ request (see [Contribute](../community/contribute.md)). Accepted patterns
 become part of the YottaDots knowledge base.
 
 Candidates for later patterns include: stopping what a change replaces,
-stable interfaces between value streams, and funding shared services.
+stable interfaces between value streams, funding shared services, and a
+proposal route for ideas from value streams.

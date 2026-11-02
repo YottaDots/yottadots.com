@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 6: Adding capacity is a choice too</title>
+<desc id="d">A value stream says: no capacity. Two routes follow. The usual route: hire another team, which leads to more applications, more to maintain, and work that is never used. The YottaDots route has three steps. 1. Choose first: rank the work and stop or postpone something. 2. If capacity is still needed, treat it as a what-decision: name the full cost of ownership, including maintenance for years, and hold an objection round. 3. Check later whether what was built is used. Below: a no is information, not an obstacle to buy away.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 6</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Adding capacity is a choice too</text>
+<rect x="420" y="124" width="360" height="56" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="600" y="159" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream: “no capacity”</text>
+<path d="M 470 184 L 300 236" fill="none" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<rect x="40" y="240" width="440" height="300" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="70" y="280" font-size="19" fill="#9b9b9b" font-weight="700" text-anchor="start" >The usual route</text>
+<rect x="70" y="300" width="380" height="40" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="260.0" y="325.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Hire another team</text>
+<line x1="260" y1="346" x2="260" y2="366" stroke="#9b9b9b" stroke-width="2" marker-end="url(#arr)"/>
+<text x="260" y="388" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="middle" >✕  More applications</text>
+<line x1="260" y1="398" x2="260" y2="418" stroke="#9b9b9b" stroke-width="2" marker-end="url(#arr)"/>
+<text x="260" y="440" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="middle" >✕  More to maintain, for years</text>
+<line x1="260" y1="450" x2="260" y2="470" stroke="#9b9b9b" stroke-width="2" marker-end="url(#arr)"/>
+<text x="260" y="492" font-size="16" fill="#e2e2e2" font-weight="500" text-anchor="middle" >✕  Work that is never used</text>
+<path d="M 730 184 L 860 236" fill="none" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<rect x="520" y="240" width="640" height="300" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="550" y="280" font-size="19" fill="#ffffff" font-weight="700" text-anchor="start" >The YottaDots route</text>
+<rect x="546" y="300" width="188" height="210" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="574" cy="330" r="15" fill="#f28c28"/>
+<text x="574" y="336" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="598" y="336" font-size="15" fill="#ffffff" font-weight="700" text-anchor="start" >Choose first</text>
+<text x="564" y="378" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Rank the work.</text>
+<text x="564" y="400" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Stop or postpone</text>
+<text x="564" y="422" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >something.</text>
+<rect x="750" y="300" width="188" height="210" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="778" cy="330" r="15" fill="#f28c28"/>
+<text x="778" y="336" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="802" y="336" font-size="15" fill="#ffffff" font-weight="700" text-anchor="start" >A what-decision</text>
+<text x="768" y="378" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Full cost of</text>
+<text x="768" y="400" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >ownership, an owner,</text>
+<text x="768" y="422" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >objection round.</text>
+<rect x="954" y="300" width="188" height="210" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="982" cy="330" r="15" fill="#f28c28"/>
+<text x="982" y="336" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="1006" y="336" font-size="15" fill="#ffffff" font-weight="700" text-anchor="start" >Check usage</text>
+<text x="972" y="378" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Is what was built</text>
+<text x="972" y="400" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >actually used?</text>
+<rect x="40" y="580" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="611" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >A “no” is information, not an obstacle to buy away.</text>
+<text x="600.0" y="637" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >The centre may still add capacity, but as a visible, reasoned choice.</text>
+</svg>
