@@ -42,7 +42,7 @@ while nobody feels responsible for removing them.
    - **little used:** improve it, or ask the intended users why;
    - **not used:** stop it and remove it.
 4. **Plan the removal as real work,** with an owner and a date. Removing is
-   not "free"; it competes with new work and must be prioritised.
+   not "free"; it competes with new work and must be prioritized.
 5. **Report the results** to the centre and the value streams, so the lessons
    feed the next round of choices.
 

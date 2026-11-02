@@ -25,9 +25,9 @@ change.
 - **Colours:** orange `#f28c28` on dark `#18191b`, with grey `#3a3c40` for
   lines and secondary shapes. Use orange for what matters most.
 - **Font:** Inter.
-- **The federation motif:** independent members (clusters of dots) around a
-  small shared core. Lines run from the members to the core, because members
-  delegate to the core and not the other way round. Use it as the recurring
+- **The federation motif:** value streams (clusters of dots) around a small
+  shared centre. Lines run both ways: goals go from the centre to the value
+  streams, and input and objections come back. Use it as the recurring
   graphic element.
 - **Simple and flat:** no gradients, shadows or 3D. A visual explains one idea.
 

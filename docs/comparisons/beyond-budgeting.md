@@ -78,7 +78,7 @@ six on leadership and six on management processes, describe the model.
 |---|---|
 | **Compete** | Little. Both decentralize and distrust detailed central control, but they cover different ground. |
 | **Combine** | Well. YottaDots says who decides what; Beyond Budgeting says how money and targets follow from that. A YottaDots centre can set relative goals and allocate resources dynamically, in the Beyond Budgeting way. |
-| **Learn** | Separating target, forecast and resource allocation. And making resources available as needed, which supports the proposed pattern *Budgets that do not punish saving*. |
+| **Learn** | Separating target, forecast and resource allocation. And making resources available as needed, which supports the proposed pattern [Budgets that do not punish saving](../patterns/budgets-that-do-not-punish-saving.md). |
 
 ## Sources
 

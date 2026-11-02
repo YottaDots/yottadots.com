@@ -26,7 +26,7 @@ year. Evolve means:
   guardrails, the value streams and the way of working are all choices that
   may turn out to be wrong.
 - **Changes are small and frequent,** rather than large and rare. A big
-  reorganisation every few years is replaced by regular, smaller adjustments.
+  reorganization every few years is replaced by regular, smaller adjustments.
 - **Reviews are built in.** The design includes moments to check whether it
   still works, with a real option to stop things.
 - **Stopping is part of change.** When something new is introduced, decide
@@ -36,7 +36,7 @@ year. Evolve means:
 
 - **Rules pile up.** Without regular review, rules, meetings and reports
   stay long after their reason has gone.
-- **Big reorganisations are costly.** They disrupt work for months and often
+- **Big reorganizations are costly.** They disrupt work for months and often
   layer the new structure on top of the old one.
 - **The method itself can be wrong.** YottaDots is young. Its rules and
   patterns also need to be tested and improved.
@@ -48,13 +48,15 @@ year. Evolve means:
   [Guardrails that earn their place](../../patterns/guardrails-that-earn-their-place.md).
 - The list of central decisions is reviewed every year:
   [Name what is central](../../patterns/name-what-is-central.md).
+- What was built is checked for use, and removed when nobody uses it:
+  [Usage check](../../patterns/usage-check.md).
 - Patterns start as **proposed** and become **accepted** only when real cases
   show that they work ([Patterns](../../patterns/index.md#evidence)).
 - Value streams improve their own way of working, as part of the free how.
 
 ## What it does not mean
 
-- **Not constant reorganisation.** Evolving is about small, deliberate
+- **Not constant reorganization.** Evolving is about small, deliberate
   adjustments, not change for its own sake.
 - **Not "anything goes".** The four rules stay in place while their
   application improves.

@@ -57,11 +57,10 @@ YottaDots is not intended to prescribe one organizational structure.
 
 Instead, it provides:
 
-- principles;
-- patterns;
-- canvases;
-- decision models;
-- examples;
-- experiments.
+- [principles](./principles.md): why it works this way;
+- the four rules above: what makes it a federation;
+- [patterns](../patterns/index.md): how to make the rules work in practice;
+- [comparisons](../comparisons/index.md) with other models;
+- canvases (planned).
 
 Organizations combine these building blocks based on their own context.
