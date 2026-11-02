@@ -11,13 +11,14 @@ humans decide. Every visual is made from source files in the repository, so
 anyone can see how it was made, reuse it under CC BY 4.0, and propose a
 change.
 
-## Three kinds of visuals
+## Kinds of visuals
 
 | Kind | What | How it is made |
 |---|---|---|
 | **Share images** | The image shown when a page is shared on LinkedIn, X, Slack or Teams | Generated automatically from the page title and first paragraph, with one fixed template |
 | **Visual summaries** | One image at the top of an article that summarises its message | Drawn as code (SVG), drafted by AI, reviewed by a human |
 | **Diagrams** | Explanations inside a page: structures, flows, comparisons | Drawn as code (SVG), drafted by AI, reviewed by a human |
+| **Posters** | The whole method, or one topic, on one printable page, such as [The Big Picture](../method/big-picture.md) | Drawn as code (SVG), with a PDF for printing; drafted by AI, reviewed by a human |
 | **Illustrations** | Images that set a mood rather than explain | Only by exception, with the founder's approval (see the rules below) |
 
 ## The visual style

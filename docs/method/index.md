@@ -13,6 +13,8 @@ decides **what** the organization wants to achieve, and value streams decide
 
 ![Visual summary. At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for input and objections. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object and the centre must deal with objections. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail.](/img/diagrams/method-federation-summary.svg)
 
+See the whole method on one poster: [The Big Picture](./big-picture.md).
+
 It is built around a simple idea:
 
 > The centre decides the what.  

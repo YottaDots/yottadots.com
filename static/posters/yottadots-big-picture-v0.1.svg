@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">The YottaDots Big Picture (v0.1)</title>
+<desc id="d">The YottaDots Big Picture, version 0.1, proposed. Left: why YottaDots exists, four problems: the centre asks for work it cannot see; priorities blur the higher you go; money replaces choices; ideas need the boss's approval. Middle: the model. The centre decides the what: mission, vision, strategy, clear ranked goals, the central list and agreed guardrails, and allocates capacity and money to priorities. Goals go down to four value streams; input, objections and what the work takes come back up. Each value stream decides its own how, with any method. Everything not named as central stays with the value streams. Value streams may opt out of shared services unless agreed as a guardrail. AI co-workers work across the organization, each task with a human owner. A review loop around everything keeps, changes or stops what no longer works. The four rules and eight patterns are marked on the model. Right: the four principles, Federate, Align, Augment and Evolve, and the eight patterns. Bottom: a possible first route in five steps: name what is central; set ranked goals with an objection round; let value streams choose their how; sort shared services into guardrail or optional; review guardrails, usage and budgets.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1683" height="1190" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="56" font-size="16" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="3">THE YOTTADOTS BIG PICTURE</text>
+<text x="40" y="98" font-size="36" fill="#ffffff" font-weight="800" text-anchor="start" >The centre decides the what. Value streams decide the how.</text>
+<rect x="1454" y="34" width="190" height="34" rx="17" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1549" y="57" font-size="15" fill="#f28c28" font-weight="700" text-anchor="middle" >v0.1 · proposed</text>
+<text x="1644" y="98" font-size="17" fill="#9b9b9b" font-weight="600" text-anchor="end" >AI as a co-worker. Humans accountable.</text>
+<rect x="30" y="132" width="360" height="750" rx="16" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="56" y="172" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">WHY</text>
+<text x="56" y="202" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >Four problems we see</text>
+<circle cx="64" cy="248" r="14" fill="#f28c28"/>
+<text x="64" y="254" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="90" y="254" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >The centre asks for work</text>
+<text x="90" y="276" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >it cannot see</text>
+<text x="90" y="304" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Deadlines that were never</text>
+<text x="90" y="324" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >realistic; too much at once.</text>
+<text x="90" y="350" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ R2 · P2</text>
+<circle cx="64" cy="408" r="14" fill="#f28c28"/>
+<text x="64" y="414" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="90" y="414" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Priorities blur the</text>
+<text x="90" y="436" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >higher you go</text>
+<text x="90" y="464" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Only about a third of senior</text>
+<text x="90" y="484" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >managers can name the top</text>
+<text x="90" y="504" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >three priorities (Sull et al.).</text>
+<text x="90" y="530" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ R1 · P1</text>
+<circle cx="64" cy="568" r="14" fill="#f28c28"/>
+<text x="64" y="574" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="90" y="574" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Money replaces</text>
+<text x="90" y="596" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >choices</text>
+<text x="90" y="624" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >A “no capacity” is answered</text>
+<text x="90" y="644" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >with another team; budgets</text>
+<text x="90" y="664" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >are spent, not chosen.</text>
+<text x="90" y="690" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ P6 · P7 · P8</text>
+<circle cx="64" cy="728" r="14" fill="#f28c28"/>
+<text x="64" y="734" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="90" y="734" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Ideas need the</text>
+<text x="90" y="756" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >boss's approval</text>
+<text x="90" y="784" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Not invented here, or a threat</text>
+<text x="90" y="804" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >to the manager's position.</text>
+<text x="90" y="830" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ R3</text>
+<rect x="414" y="132" width="842" height="750" rx="26" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="10 8"/>
+<rect x="432" y="118" width="330" height="28" rx="6" fill="#202124" stroke="#202124" stroke-width="0" />
+<rect x="438" y="121" width="70" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
+<text x="473.0" y="137" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" letter-spacing="1">EVOLVE</text>
+<text x="524" y="137" font-size="13" fill="#f28c28" font-weight="600" text-anchor="start" >review · keep · change · stop</text>
+<circle cx="746" cy="132" r="13" fill="#f28c28"/>
+<text x="746" y="138" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >7</text>
+<rect x="440" y="166" width="790" height="150" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="464" y="200" font-size="14" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="1">CENTRE · THE WHAT</text>
+<text x="464" y="232" font-size="17" fill="#ffffff" font-weight="500" text-anchor="start" >Mission · vision · strategy</text>
+<text x="464" y="259" font-size="17" fill="#ffffff" font-weight="500" text-anchor="start" >Clear, ranked goals (OKRs, KPIs)</text>
+<text x="464" y="286" font-size="17" fill="#ffffff" font-weight="500" text-anchor="start" >The central list · agreed guardrails</text>
+<rect x="920" y="185" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="937" y="201" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R1</text>
+<circle cx="936" cy="284" r="13" fill="#f28c28"/>
+<text x="936" y="290" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<rect x="990" y="176" width="226" height="132" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1010" y="202" font-size="13" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="1">CAPACITY &amp; MONEY</text>
+<text x="1010" y="226" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Allocated to priorities.</text>
+<text x="1010" y="246" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >A new team is a</text>
+<text x="1010" y="266" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >what-decision too.</text>
+<circle cx="1164" cy="286" r="13" fill="#f28c28"/>
+<text x="1164" y="292" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >6</text>
+<circle cx="1194" cy="286" r="13" fill="#f28c28"/>
+<text x="1194" y="292" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >8</text>
+<line x1="440" y1="388" x2="1230" y2="388" stroke="#3a3c40" stroke-width="2" stroke-dasharray="3 6"/>
+<rect x="568" y="358" width="140" height="64" rx="6" fill="#202124" stroke="#202124" stroke-width="0" />
+<rect x="592" y="361" width="88" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
+<text x="636.0" y="377" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" letter-spacing="1">FEDERATE</text>
+<text x="638" y="402" font-size="13" fill="#9b9b9b" font-weight="600" text-anchor="middle" >what ↑ · how ↓</text>
+<line x1="530" y1="320" x2="530" y2="456" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="554" y1="460" x2="554" y2="324" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<line x1="726" y1="320" x2="726" y2="456" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="750" y1="460" x2="750" y2="324" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<line x1="922" y1="320" x2="922" y2="456" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="946" y1="460" x2="946" y2="324" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<line x1="1118" y1="320" x2="1118" y2="456" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="1142" y1="460" x2="1142" y2="324" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<rect x="796" y="337" width="61" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
+<text x="826.5" y="353" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" letter-spacing="1">ALIGN</text>
+<text x="796" y="378" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >goals ↓</text>
+<text x="796" y="396" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >objections ↑</text>
+<rect x="868" y="337" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="885" y="353" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R2</text>
+<circle cx="890" cy="386" r="13" fill="#f28c28"/>
+<text x="890" y="392" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<rect x="446" y="444" width="780" height="140" rx="16" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="460" y="576" font-size="13" fill="#f28c28" font-weight="600" text-anchor="start" >guardrails</text>
+<circle cx="548" cy="572" r="13" fill="#f28c28"/>
+<text x="548" y="578" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<rect x="460" y="462" width="164" height="96" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="542" y="492" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 1</text>
+<text x="542" y="516" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >the how:</text>
+<text x="542" y="540" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >Scrum</text>
+<rect x="656" y="462" width="164" height="96" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="738" y="492" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 2</text>
+<text x="738" y="516" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >the how:</text>
+<text x="738" y="540" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >Kanban</text>
+<rect x="852" y="462" width="164" height="96" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="934" y="492" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 3</text>
+<text x="934" y="516" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >the how:</text>
+<text x="934" y="540" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >Projects</text>
+<rect x="1048" y="462" width="164" height="96" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="1130" y="492" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >Value stream 4</text>
+<text x="1130" y="516" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >the how:</text>
+<text x="1130" y="540" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >Campaigns</text>
+<line x1="542" y1="560" x2="542" y2="658" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="738" y1="560" x2="738" y2="658" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="934" y1="560" x2="934" y2="658" stroke="#9b9b9b" stroke-width="2"/>
+<line x1="1130" y1="560" x2="1130" y2="632" stroke="#9b9b9b" stroke-width="2" stroke-dasharray="4 6"/>
+<text x="1130" y="650" font-size="12" fill="#9b9b9b" font-weight="500" text-anchor="middle" >opted out</text>
+<rect x="442" y="590" width="520" height="30" rx="6" fill="#202124" stroke="#202124" stroke-width="0" />
+<rect x="446" y="595" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="463" y="611" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R3</text>
+<text x="488" y="616" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="start" >Everything not named as central stays with the value streams.</text>
+<rect x="460" y="658" width="580" height="58" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="750" y="694" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >Shared services: offered, not imposed</text>
+<rect x="1060" y="677" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1077" y="693" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R4</text>
+<circle cx="1116" cy="688" r="13" fill="#f28c28"/>
+<text x="1116" y="694" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="1136" y="693" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >unless agreed</text>
+<text x="1136" y="710" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >as a guardrail</text>
+<rect x="440" y="744" width="790" height="54" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" stroke-dasharray="3 5"/>
+<rect x="460" y="762" width="79" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
+<text x="499.5" y="778" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" letter-spacing="1">AUGMENT</text>
+<text x="570" y="777" font-size="15" fill="#e2e2e2" font-weight="600" text-anchor="start" >AI co-workers everywhere it helps · a named human owns every result</text>
+<circle cx="1210" cy="771" r="13" fill="#f28c28"/>
+<text x="1210" y="777" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<circle cx="450" cy="862" r="10" fill="#f28c28"/>
+<text x="450" y="868" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >#</text>
+<text x="468" y="867" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >pattern</text>
+<rect x="532" y="851" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="549" y="867" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R#</text>
+<text x="574" y="867" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >rule</text>
+<rect x="1270" y="132" width="384" height="300" rx="16" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="1296" y="172" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">PRINCIPLES · WHY</text>
+<text x="1296" y="214" font-size="18" fill="#ffffff" font-weight="700" text-anchor="start" >Federate</text>
+<text x="1296" y="236" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >The centre: what. Value streams: how.</text>
+<text x="1296" y="270" font-size="18" fill="#ffffff" font-weight="700" text-anchor="start" >Align</text>
+<text x="1296" y="292" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Shared goals, shaped together.</text>
+<text x="1296" y="326" font-size="18" fill="#ffffff" font-weight="700" text-anchor="start" >Augment</text>
+<text x="1296" y="348" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >AI makes coordination cheaper.</text>
+<text x="1296" y="382" font-size="18" fill="#ffffff" font-weight="700" text-anchor="start" >Evolve</text>
+<text x="1296" y="404" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Every design choice is a hypothesis.</text>
+<rect x="1270" y="450" width="384" height="432" rx="16" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="1296" y="490" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">RULES · WHAT</text>
+<rect x="1296" y="509" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1313" y="525" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R1</text>
+<text x="1340" y="525" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >The centre decides the what</text>
+<rect x="1296" y="537" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1313" y="553" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R2</text>
+<text x="1340" y="553" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Value streams help shape it</text>
+<rect x="1296" y="565" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1313" y="581" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R3</text>
+<text x="1340" y="581" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Unnamed stays with value streams</text>
+<rect x="1296" y="593" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="1313" y="609" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R4</text>
+<text x="1340" y="609" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Opt-out of shared services</text>
+<text x="1296" y="662" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">PATTERNS · HOW</text>
+<circle cx="1308" cy="689" r="10" fill="#f28c28"/>
+<text x="1308" y="694" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="1328" y="694" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Name what is central</text>
+<circle cx="1308" cy="712" r="10" fill="#f28c28"/>
+<text x="1308" y="717" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="1328" y="717" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Objection round on goals</text>
+<circle cx="1308" cy="735" r="10" fill="#f28c28"/>
+<text x="1308" y="740" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="1328" y="740" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Opt-out of shared services</text>
+<circle cx="1308" cy="758" r="10" fill="#f28c28"/>
+<text x="1308" y="763" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="1328" y="763" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails that earn their place</text>
+<circle cx="1308" cy="781" r="10" fill="#f28c28"/>
+<text x="1308" y="786" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="1328" y="786" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >AI with a human owner</text>
+<circle cx="1308" cy="804" r="10" fill="#f28c28"/>
+<text x="1308" y="809" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >6</text>
+<text x="1328" y="809" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Adding capacity is a choice too</text>
+<circle cx="1308" cy="827" r="10" fill="#f28c28"/>
+<text x="1308" y="832" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >7</text>
+<text x="1328" y="832" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Usage check: stop what is not used</text>
+<circle cx="1308" cy="850" r="10" fill="#f28c28"/>
+<text x="1308" y="855" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >8</text>
+<text x="1328" y="855" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Budgets that do not punish saving</text>
+<rect x="30" y="904" width="1624" height="196" rx="16" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="56" y="942" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">A POSSIBLE FIRST ROUTE</text>
+<text x="330" y="942" font-size="14" fill="#9b9b9b" font-weight="600" text-anchor="start" >proposed · adapt it to your context</text>
+<rect x="50.0" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="76.0" cy="990" r="14" fill="#f28c28"/>
+<text x="76.0" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="100.0" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Name what is central</text>
+<text x="70.0" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Publish the short list</text>
+<text x="70.0" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >of what the centre decides.</text>
+<text x="331.6" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P1</text>
+<line x1="349.6" y1="1022" x2="367.6" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="371.6" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="397.6" cy="990" r="14" fill="#f28c28"/>
+<text x="397.6" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="421.6" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Rank the goals</text>
+<text x="391.6" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Clear, ranked goals,</text>
+<text x="391.6" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >with an objection round.</text>
+<text x="653.2" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P2</text>
+<line x1="671.2" y1="1022" x2="689.2" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="693.2" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="719.2" cy="990" r="14" fill="#f28c28"/>
+<text x="719.2" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="743.2" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Free the how</text>
+<text x="713.2" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Value streams choose</text>
+<text x="713.2" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >their own way of working.</text>
+<text x="974.8000000000001" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >R3</text>
+<line x1="992.8000000000001" y1="1022" x2="1010.8000000000001" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="1014.8000000000001" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="1040.8000000000002" cy="990" r="14" fill="#f28c28"/>
+<text x="1040.8000000000002" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="1064.8000000000002" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Sort shared services</text>
+<text x="1034.8000000000002" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrail or optional;</text>
+<text x="1034.8000000000002" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >few guardrails, each owned.</text>
+<text x="1296.4" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P3 · P4</text>
+<line x1="1314.4" y1="1022" x2="1332.4" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="1336.4" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="1362.4" cy="990" r="14" fill="#f28c28"/>
+<text x="1362.4" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="1386.4" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Review and stop</text>
+<text x="1356.4" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails, usage and</text>
+<text x="1356.4" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >budgets: keep, change, stop.</text>
+<text x="1618.0" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P6–P8</text>
+<text x="40" y="1141" font-size="15" fill="#ffffff" font-weight="700" text-anchor="start" >yottadots.github.io/yottadots.com</text>
+<text x="40" y="1165" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >Open knowledge · CC BY 4.0 · v0.1, November 2026 · Patterns are proposed and not yet tested in practice.</text>
+<text x="1644" y="1165" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="end" >YottaDots® is a registered trademark. Made with AI as a co-worker, reviewed by a human.</text>
+</svg>
