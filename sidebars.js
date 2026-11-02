@@ -14,7 +14,17 @@ module.exports = {
       label: 'Method',
       items: [
         'method/index',
-        'method/principles',
+        {
+          type: 'category',
+          label: 'Principles',
+          link: {type: 'doc', id: 'method/principles'},
+          items: [
+            'method/principles/federate',
+            'method/principles/align',
+            'method/principles/augment',
+            'method/principles/evolve',
+          ],
+        },
         'method/building-blocks',
       ],
     },

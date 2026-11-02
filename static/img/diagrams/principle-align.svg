@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Principle 2: Align</title>
+<desc id="d">Three situations side by side. Left: autonomy without alignment. Value streams move in different directions, which leads to fragmentation. Middle: alignment without a voice. Goals are pushed down and nobody believes them. Right: Align. Shared goals that the value streams helped shape, so everyone moves in one direction, each in its own way. Below: shared direction, local choice.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PRINCIPLE 2</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Align</text>
+<rect x="40" y="130" width="360" height="420" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="68" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Freedom, no alignment</text>
+<text x="68" y="200" font-size="15" fill="#9b9b9b" font-weight="600" text-anchor="start" >→ fragmentation</text>
+<rect x="420" y="130" width="360" height="420" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="448" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Alignment, no voice</text>
+<text x="448" y="200" font-size="15" fill="#9b9b9b" font-weight="600" text-anchor="start" >→ goals nobody believes</text>
+<rect x="800" y="130" width="360" height="420" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="828" y="172" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Align</text>
+<text x="828" y="200" font-size="15" fill="#f28c28" font-weight="600" text-anchor="start" >→ one direction, many ways</text>
+<circle cx="150" cy="300" r="16" fill="#3a3c40"/>
+<line x1="129.32676234271003" y1="307.5244431531647" x2="84.22151654498641" y2="323.9414100327968" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="300" cy="300" r="16" fill="#3a3c40"/>
+<line x1="307.5244431531647" y1="320.67323765729" x2="323.94141003279685" y2="365.7784834550136" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="150" cy="440" r="16" fill="#3a3c40"/>
+<line x1="170.67323765728997" y1="432.4755568468353" x2="215.7784834550136" y2="416.0585899672032" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="300" cy="440" r="16" fill="#3a3c40"/>
+<line x1="289.0" y1="420.94744111674237" x2="265.0" y2="379.3782217350893" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<rect x="500" y="236" width="200" height="50" rx="10" fill="#202124" stroke="#3a3c40" stroke-width="2" />
+<text x="600" y="267" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >Goals</text>
+<line x1="480" y1="292" x2="480" y2="420" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="480" cy="446" r="16" fill="#3a3c40"/>
+<line x1="600" y1="292" x2="600" y2="420" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="600" cy="446" r="16" fill="#3a3c40"/>
+<line x1="720" y1="292" x2="720" y2="420" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<circle cx="720" cy="446" r="16" fill="#3a3c40"/>
+<text x="600" y="510" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="middle" >no way to object</text>
+<rect x="880" y="236" width="200" height="50" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="980" y="267" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >Shared goals</text>
+<line x1="851" y1="292" x2="851" y2="410" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="869" y1="414" x2="869" y2="296" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="5 5"/>
+<circle cx="860" cy="440" r="16" fill="#f28c28"/>
+<line x1="882" y1="440" x2="912" y2="410" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<line x1="971" y1="292" x2="971" y2="410" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="989" y1="414" x2="989" y2="296" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="5 5"/>
+<circle cx="980" cy="440" r="16" fill="#f28c28"/>
+<line x1="1002" y1="440" x2="1032" y2="410" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<line x1="1091" y1="292" x2="1091" y2="410" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="1109" y1="414" x2="1109" y2="296" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="5 5"/>
+<circle cx="1100" cy="440" r="16" fill="#f28c28"/>
+<line x1="1122" y1="440" x2="1152" y2="410" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<text x="980" y="500" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="middle" >goals down · objections up</text>
+<text x="980" y="522" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="middle" >same direction, own way</text>
+<rect x="40" y="590" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="621" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Shared direction, local choice.</text>
+<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >The centre proposes, value streams can object, the centre answers and decides.</text>
+</svg>

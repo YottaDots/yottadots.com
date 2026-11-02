@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Principle 1: Federate</title>
+<desc id="d">Two levels side by side. The centre decides the what: mission, vision, strategy, OKRs, KPIs and agreed guardrails. The value streams decide the how: method, planning, team set-up, tools, and everything that is not named as central. An arrow shows that anything not on the centre's list goes to the value streams. Below: decide where the knowledge is; share only what must be shared.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PRINCIPLE 1</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Federate</text>
+<rect x="40" y="130" width="500" height="410" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="70" y="174" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >The centre decides the what</text>
+<text x="70" y="200" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >named, short, shared</text>
+<rect x="66" y="232" width="448" height="50" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="90" y="263" font-size="17" fill="#ffffff" font-weight="600" text-anchor="start" >Mission and vision</text>
+<rect x="66" y="298" width="448" height="50" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="90" y="329" font-size="17" fill="#ffffff" font-weight="600" text-anchor="start" >Strategy</text>
+<rect x="66" y="364" width="448" height="50" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="90" y="395" font-size="17" fill="#ffffff" font-weight="600" text-anchor="start" >OKRs and KPIs</text>
+<rect x="66" y="430" width="448" height="50" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="90" y="461" font-size="17" fill="#ffffff" font-weight="600" text-anchor="start" >Agreed guardrails</text>
+<rect x="660" y="130" width="500" height="410" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="690" y="174" font-size="21" fill="#ffffff" font-weight="700" text-anchor="start" >Value streams decide the how</text>
+<text x="690" y="200" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >close to the work and the customer</text>
+<rect x="686" y="232" width="448" height="50" rx="10" fill="#202124" stroke="#3a3c40" stroke-width="1.5" />
+<text x="710" y="263" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Method: Scrum, Kanban, projects…</text>
+<rect x="686" y="298" width="448" height="50" rx="10" fill="#202124" stroke="#3a3c40" stroke-width="1.5" />
+<text x="710" y="329" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Planning and team set-up</text>
+<rect x="686" y="364" width="448" height="50" rx="10" fill="#202124" stroke="#3a3c40" stroke-width="1.5" />
+<text x="710" y="395" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="start" >Tools and ways of working</text>
+<rect x="686" y="430" width="448" height="84" rx="10" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="6 6"/>
+<text x="910" y="466" font-size="17" fill="#f28c28" font-weight="700" text-anchor="middle" >+ everything not named as central</text>
+<text x="910" y="492" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="middle" >the default goes to the value streams</text>
+<line x1="548" y1="470" x2="676" y2="470" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)" stroke-dasharray="8 6"/>
+<text x="612" y="456" font-size="13" fill="#f28c28" font-weight="600" text-anchor="middle" >not named</text>
+<rect x="40" y="580" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="611" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Decide where the knowledge is.</text>
+<text x="600.0" y="637" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Share only what must be shared.</text>
+</svg>

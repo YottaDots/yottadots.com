@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Principle 4: Evolve</title>
+<desc id="d">A loop of four steps. 1. Design: treat every choice as a hypothesis. 2. Try it in practice, small first. 3. Look at the signals: what works and what does not. 4. Review: keep, change or stop. Then back to design. Examples of what goes through the loop: the list of central decisions, the guardrails, the patterns and the way of working of each value stream. Below: every design choice is a hypothesis.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PRINCIPLE 4</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Evolve</text>
+<rect x="40" y="130" width="254" height="250" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="74" cy="166" r="17" fill="#f28c28"/>
+<text x="74" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="102" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Design</text>
+<text x="64" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Treat every choice</text>
+<text x="64" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >as a hypothesis.</text>
+<rect x="322" y="130" width="254" height="250" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="356" cy="166" r="17" fill="#f28c28"/>
+<text x="356" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="384" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Try</text>
+<text x="346" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >In practice, small</text>
+<text x="346" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >first. Decide what</text>
+<text x="346" y="260" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >it replaces.</text>
+<rect x="604" y="130" width="254" height="250" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="638" cy="166" r="17" fill="#f28c28"/>
+<text x="638" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="666" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Look</text>
+<text x="628" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >At the signals: what</text>
+<text x="628" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >works, what does not.</text>
+<rect x="886" y="130" width="254" height="250" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="2" />
+<circle cx="920" cy="166" r="17" fill="#f28c28"/>
+<text x="920" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="948" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Review</text>
+<rect x="908" y="206" width="210" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1013.0" y="228.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Keep</text>
+<rect x="908" y="256" width="210" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1013.0" y="278.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Change</text>
+<rect x="908" y="306" width="210" height="34" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="1013.0" y="328.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Stop</text>
+<line x1="296" y1="255.0" x2="318" y2="255.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="578" y1="255.0" x2="600" y2="255.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="860" y1="255.0" x2="882" y2="255.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<path d="M 1013.0 384 L 1013.0 424 L 167.0 424 L 167.0 388" fill="none" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)" stroke-dasharray="8 6"/>
+<text x="600" y="450" font-size="14" fill="#f28c28" font-weight="600" text-anchor="middle" >and again</text>
+<text x="40" y="500" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >What goes through the loop:</text>
+<rect x="40" y="518" width="264" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="172.0" y="540.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >The central list</text>
+<rect x="320" y="518" width="264" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="452.0" y="540.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Guardrails</text>
+<rect x="600" y="518" width="264" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="732.0" y="540.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Patterns</text>
+<rect x="880" y="518" width="264" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1012.0" y="540.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Each value stream's how</text>
+<rect x="40" y="590" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="621" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Every design choice is a hypothesis.</text>
+<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Small, regular changes instead of big reorganisations.</text>
+</svg>
