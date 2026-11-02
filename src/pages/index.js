@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout
       title="Federate your organization. Amplify it with AI."
-      description="YottaDots is an open framework for federated organizations and AI-enabled work."
+      description="YottaDots is an open method for federated organizations and AI-enabled work."
     >
       <main>
         <section className={styles.hero}>
@@ -23,7 +23,7 @@ export default function Home() {
             </h1>
 
             <p className={styles.heroText}>
-              YottaDots is an open framework for organizations that want
+              YottaDots is an open method for organizations that want
               autonomy without fragmentation — and AI without losing
               human accountability.
             </p>
@@ -60,13 +60,14 @@ export default function Home() {
           </h2>
 
           <p>
-            Hierarchies struggle with speed. Full decentralization
-            struggles with alignment. AI changes the economics of
-            coordination altogether.
+            Good work starts with clear priorities. Yet the people who
+            set them often cannot see the work, and the higher you go,
+            the less clear the priorities become.
           </p>
 
           <p>
-            YottaDots explores the space in between.
+            YottaDots gives the centre one clear job, the what, and
+            leaves the how to the value streams who know the work.
           </p>
         </section>
 
