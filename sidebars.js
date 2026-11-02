@@ -14,6 +14,7 @@ module.exports = {
       label: 'Method',
       items: [
         'method/index',
+        'method/big-picture',
         {
           type: 'category',
           label: 'Principles',
