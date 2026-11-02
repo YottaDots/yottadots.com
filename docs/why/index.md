@@ -109,9 +109,12 @@ YottaDots divides the work in two, with four rules:
 **Where the rules are not enough yet.** The four rules do not by themselves
 stop money from replacing choices: a centre can answer a "no capacity"
 objection by hiring another team. And value streams can object to the what,
-but not yet propose to it. We are working on patterns for capacity, usage and
-budgets, and on a possible right for value streams to propose. Until then,
-these are open problems, not solved ones.
+but not yet propose to it. Three proposed patterns address the money problem:
+[Adding capacity is a choice too](../patterns/adding-capacity-is-a-choice.md),
+[Usage check](../patterns/usage-check.md) and
+[Budgets that do not punish saving](../patterns/budgets-that-do-not-punish-saving.md).
+A right for value streams to propose is under discussion. Until these are
+tested, they are open problems, not solved ones.
 
 What YottaDots deliberately does **not** do:
 

@@ -50,5 +50,5 @@
 <text x="1012.0" y="540.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Each value stream's how</text>
 <rect x="40" y="590" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
 <text x="600.0" y="621" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Every design choice is a hypothesis.</text>
-<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Small, regular changes instead of big reorganisations.</text>
+<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Small, regular changes instead of big reorganizations.</text>
 </svg>

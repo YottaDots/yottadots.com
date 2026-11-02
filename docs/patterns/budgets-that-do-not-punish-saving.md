@@ -57,8 +57,9 @@ safe, and outcomes are what counts, the money can go where it does the most
 good, or stay unspent. More frequent reviews remove the reason to hold on to
 money "just in case", because it can be asked for again when it is needed.
 
-This is close to the ideas of Beyond Budgeting, which questions the fixed
-annual budget as the main way to steer an organization.
+This is close to the ideas of
+[Beyond Budgeting](../comparisons/beyond-budgeting.md), which questions the
+fixed annual budget as the main way to steer an organization.
 
 ## Guardrails
 
@@ -96,3 +97,4 @@ annual budget as the main way to steer an organization.
 
 - [Why YottaDots?](../why/index.md): money replaces choices
 - [Adding capacity is a choice too](./adding-capacity-is-a-choice.md)
+- [Beyond Budgeting in one page](../comparisons/beyond-budgeting.md)

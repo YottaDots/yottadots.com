@@ -26,7 +26,7 @@ value streams must reach: yearly, half-yearly or quarterly.
 
 Goals set at the top often miss what the people doing the work know: a target
 that cannot be reached with the current capacity, two goals that conflict, or
-a KPI that rewards the wrong behaviour. Asking for "input" does not solve
+a KPI that rewards the wrong behavior. Asking for "input" does not solve
 this. Input can be collected and ignored, and everyone knows it. People then
 stop giving it.
 
@@ -103,4 +103,6 @@ with one board.
 
 - [Name what is central](./name-what-is-central.md): the same objection round
   can be used when the centre adds to its list.
+- [Adding capacity is a choice too](./adding-capacity-is-a-choice.md): what
+  to do when the objection is "we have no capacity".
 - [OKRs one-pager](../comparisons/okrs.md): how OKRs are usually set.

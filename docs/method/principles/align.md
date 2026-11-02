@@ -36,7 +36,7 @@ freedom serves a shared purpose. It has two parts:
   and confusing customers.
 - **Alignment without a voice is not believed.** Goals set without the
   people who must reach them often miss what those people know: limited
-  capacity, conflicting targets, or KPIs that reward the wrong behaviour.
+  capacity, conflicting targets, or KPIs that reward the wrong behavior.
   People comply on paper and work around the goals in practice.
 - **Objections carry knowledge upwards.** A formal right to object is the way
   local knowledge reaches the what. It also makes the centre explain its

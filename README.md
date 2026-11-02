@@ -6,7 +6,9 @@ YottaDots is an open method for federated organizations and AI-enabled work.
 
 ## Website
 
-https://yottadots.com
+https://yottadots.github.io/yottadots.com/
+
+(www.yottadots.com is the old version and is kept for reference only.)
 
 ## Principles
 
@@ -34,7 +36,7 @@ See:
 
 or visit:
 
-https://yottadots.com/docs/community/contribute
+https://yottadots.github.io/yottadots.com/docs/community/contribute
 
 ## Repository
 
