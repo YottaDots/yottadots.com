@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 3: Opt-out of shared services</title>
+<desc id="d">On the left, an ordinary shared service, such as a design system or a data platform. Three value streams use it, and one has opted out with notice and uses its own solution. On the right, a guardrail service, such as identity and access or financial reporting. All value streams must use it, but it has a named owner, a stated reason and an exception route. Below: a shared service must earn its users; only a guardrail can make it mandatory.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 3</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Opt-out of shared services</text>
+<rect x="40" y="130" width="540" height="420" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="70" y="170" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Ordinary shared service</text>
+<text x="70" y="196" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >offered, not imposed</text>
+<rect x="160" y="222" width="300" height="62" rx="12" fill="#202124" stroke="#3a3c40" stroke-width="2" />
+<text x="310" y="260" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >e.g. design system</text>
+<line x1="310" y1="286" x2="122" y2="386" stroke="#c9c9c9" stroke-width="2"/>
+<rect x="70" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="122" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 1</text>
+<line x1="310" y1="286" x2="247" y2="386" stroke="#c9c9c9" stroke-width="2"/>
+<rect x="195" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="247" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 2</text>
+<line x1="310" y1="286" x2="372" y2="386" stroke="#c9c9c9" stroke-width="2"/>
+<rect x="320" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="372" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 3</text>
+<line x1="310" y1="286" x2="497" y2="386" stroke="#9b9b9b" stroke-width="2" stroke-dasharray="4 6"/>
+<rect x="445" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="497" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 4</text>
+<text x="497" y="468" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >opted out:</text>
+<text x="497" y="486" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="middle" >own solution</text>
+<text x="70" y="476" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Leave with notice,</text>
+<text x="70" y="496" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >pay for your own,</text>
+<text x="70" y="516" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >come back any time.</text>
+<rect x="620" y="130" width="540" height="420" rx="14" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="650" y="170" font-size="20" fill="#ffffff" font-weight="700" text-anchor="start" >Guardrail service</text>
+<text x="650" y="196" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="start" >mandatory for all value streams</text>
+<rect x="740" y="222" width="300" height="62" rx="12" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="890" y="260" font-size="16" fill="#ffffff" font-weight="700" text-anchor="middle" >e.g. identity and access</text>
+<line x1="890" y1="286" x2="702" y2="386" stroke="#f28c28" stroke-width="2"/>
+<rect x="650" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="702" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 1</text>
+<line x1="890" y1="286" x2="827" y2="386" stroke="#f28c28" stroke-width="2"/>
+<rect x="775" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="827" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 2</text>
+<line x1="890" y1="286" x2="952" y2="386" stroke="#f28c28" stroke-width="2"/>
+<rect x="900" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="952" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 3</text>
+<line x1="890" y1="286" x2="1077" y2="386" stroke="#f28c28" stroke-width="2"/>
+<rect x="1025" y="390" width="105" height="54" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="2" />
+<text x="1077" y="422" font-size="15" fill="#ffffff" font-weight="700" text-anchor="middle" >VS 4</text>
+<rect x="650" y="482" width="152" height="34" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="726.0" y="504.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Named owner</text>
+<rect x="816" y="482" width="152" height="34" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="892.0" y="504.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Stated reason</text>
+<rect x="982" y="482" width="152" height="34" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="1058.0" y="504.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Exception route</text>
+<rect x="40" y="590" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="621" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >A shared service has to earn its users.</text>
+<text x="600.0" y="647" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Only an agreed guardrail can make a service mandatory.</text>
+</svg>

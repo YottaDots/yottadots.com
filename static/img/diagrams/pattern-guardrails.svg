@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 4: Guardrails that earn their place</title>
+<desc id="d">The life cycle of a guardrail. 1. Propose: a guardrail with a named owner. 2. Test it against five questions: is there an owner, is the reason stated, can you check whether it is met, is it the lightest rule that works, and is there an exception route? 3. Apply it with an exception route: a value stream may ask for an exception and the owner answers within a set time. 4. Review it regularly, for example every six months: keep, change or remove. A loop runs from review back to apply. Many exceptions are a signal to change the guardrail. Below: a guardrail has to earn its place again at every review.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 4</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Guardrails that earn their place</text>
+<rect x="40" y="130" width="254" height="370" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="74" cy="166" r="17" fill="#f28c28"/>
+<text x="74" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="102" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Propose</text>
+<text x="64" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >A guardrail with one</text>
+<text x="64" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >named owner, a person</text>
+<text x="64" y="260" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >or role, who can</text>
+<text x="64" y="282" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >explain it.</text>
+<rect x="322" y="130" width="254" height="370" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="2" />
+<circle cx="356" cy="166" r="17" fill="#f28c28"/>
+<text x="356" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="384" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Test</text>
+<text x="346" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Adopt only if all</text>
+<text x="346" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >five are yes:</text>
+<rect x="344" y="252" width="210" height="38" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="362" y="277" font-size="16" fill="#f28c28" font-weight="800" text-anchor="start" >✓</text>
+<text x="386" y="277" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Named owner?</text>
+<rect x="344" y="298" width="210" height="38" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="362" y="323" font-size="16" fill="#f28c28" font-weight="800" text-anchor="start" >✓</text>
+<text x="386" y="323" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Reason stated?</text>
+<rect x="344" y="344" width="210" height="38" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="362" y="369" font-size="16" fill="#f28c28" font-weight="800" text-anchor="start" >✓</text>
+<text x="386" y="369" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Can you check it?</text>
+<rect x="344" y="390" width="210" height="38" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="362" y="415" font-size="16" fill="#f28c28" font-weight="800" text-anchor="start" >✓</text>
+<text x="386" y="415" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Lightest rule?</text>
+<rect x="344" y="436" width="210" height="38" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="362" y="461" font-size="16" fill="#f28c28" font-weight="800" text-anchor="start" >✓</text>
+<text x="386" y="461" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Exception route?</text>
+<rect x="604" y="130" width="254" height="370" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="638" cy="166" r="17" fill="#f28c28"/>
+<text x="638" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="666" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Apply</text>
+<text x="628" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >With an exception</text>
+<text x="628" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >route: a value stream</text>
+<text x="628" y="260" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >may ask for an</text>
+<text x="628" y="282" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >exception, with a</text>
+<text x="628" y="304" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >reason. The owner</text>
+<text x="628" y="326" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >answers in a set time.</text>
+<text x="628" y="348" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" ></text>
+<text x="628" y="370" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Exceptions are logged.</text>
+<rect x="886" y="130" width="254" height="370" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="920" cy="166" r="17" fill="#f28c28"/>
+<text x="920" y="172" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="948" y="172" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Review</text>
+<text x="910" y="216" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Regularly, e.g. every</text>
+<text x="910" y="238" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >six months. The owner</text>
+<text x="910" y="260" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >shows it is still</text>
+<text x="910" y="282" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >needed.</text>
+<rect x="908" y="340" width="210" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1013.0" y="362.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Keep</text>
+<rect x="908" y="386" width="210" height="34" rx="17" fill="#18191b" stroke="#3a3c40" stroke-width="1.5" />
+<text x="1013.0" y="408.0" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Change</text>
+<rect x="908" y="432" width="210" height="34" rx="17" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.5" />
+<text x="1013.0" y="454.0" font-size="14" fill="#ffffff" font-weight="600" text-anchor="middle" >Remove</text>
+<line x1="296" y1="315.0" x2="318" y2="315.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="578" y1="315.0" x2="600" y2="315.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="860" y1="315.0" x2="882" y2="315.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<path d="M 1013.0 504 L 1013.0 540 L 731.0 540 L 731.0 508" fill="none" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
+<text x="872.0" y="564" font-size="14" fill="#9b9b9b" font-weight="500" text-anchor="middle" >keep or change: back in use · many exceptions = signal to change</text>
+<rect x="40" y="626" width="1120" height="64" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="664.0" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >A guardrail has to earn its place again at every review.</text>
+</svg>

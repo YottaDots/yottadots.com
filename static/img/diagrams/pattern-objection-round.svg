@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 2: Objection round on goals</title>
+<desc id="d">Four steps from left to right. 1. The centre proposes goals: draft OKRs and KPIs with the reasons behind them. 2. Value streams review them within a fixed window and raise objections: reasons why a goal would cause harm or cannot be reached. 3. The centre answers every objection in writing: accept, amend, or explain why not. 4. The centre decides and publishes the goals together with the objection log. Below: the centre still decides, but not alone, and every answer is visible.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 2</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Objection round on goals</text>
+<rect x="40" y="140" width="254" height="380" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="74" cy="176" r="17" fill="#f28c28"/>
+<text x="74" y="182" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="102" y="182" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Centre proposes</text>
+<text x="64" y="226" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Draft OKRs and KPIs</text>
+<text x="64" y="248" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >go to every value</text>
+<text x="64" y="270" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >stream, with the</text>
+<text x="64" y="292" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >reason behind each</text>
+<text x="64" y="314" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >goal.</text>
+<rect x="322" y="140" width="254" height="380" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="356" cy="176" r="17" fill="#f28c28"/>
+<text x="356" y="182" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="384" y="182" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Value streams object</text>
+<text x="346" y="226" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Within a fixed window,</text>
+<text x="346" y="248" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >they raise objections:</text>
+<text x="346" y="270" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >a goal would cause</text>
+<text x="346" y="292" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >harm, conflicts, or</text>
+<text x="346" y="314" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >cannot be reached.</text>
+<text x="346" y="336" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" ></text>
+<text x="346" y="358" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >A preference is</text>
+<text x="346" y="380" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >not an objection.</text>
+<rect x="604" y="140" width="254" height="380" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="2" />
+<circle cx="638" cy="176" r="17" fill="#f28c28"/>
+<text x="638" y="182" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="666" y="182" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Centre answers all</text>
+<text x="628" y="226" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Every objection gets</text>
+<text x="628" y="248" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >a written answer:</text>
+<rect x="626" y="260" width="210" height="62" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="644" y="287" font-size="16" fill="#f28c28" font-weight="700" text-anchor="start" >Accept</text>
+<text x="644" y="309" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >goal changes</text>
+<rect x="626" y="338" width="210" height="62" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="644" y="365" font-size="16" fill="#f28c28" font-weight="700" text-anchor="start" >Amend</text>
+<text x="644" y="387" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >changes another way</text>
+<rect x="626" y="416" width="210" height="62" rx="10" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<text x="644" y="443" font-size="16" fill="#f28c28" font-weight="700" text-anchor="start" >Explain</text>
+<text x="644" y="465" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >goal stays, with reason</text>
+<rect x="886" y="140" width="254" height="380" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<circle cx="920" cy="176" r="17" fill="#f28c28"/>
+<text x="920" y="182" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="948" y="182" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Centre decides</text>
+<text x="910" y="226" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Final goals are</text>
+<text x="910" y="248" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >published together</text>
+<text x="910" y="270" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >with the objection</text>
+<text x="910" y="292" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >log: each objection</text>
+<text x="910" y="314" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >and its answer.</text>
+<line x1="296" y1="330.0" x2="336" y2="330.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="578" y1="330.0" x2="618" y2="330.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<line x1="860" y1="330.0" x2="900" y2="330.0" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<rect x="40" y="566" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="597" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >The centre still decides, but not alone.</text>
+<text x="600.0" y="623" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Objections are possible, each one is answered, and the answers are public.</text>
+</svg>
