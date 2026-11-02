@@ -1,0 +1,9 @@
+# Netlify is used only for pull request previews.
+# The live site is built and served by GitHub Pages (.github/workflows).
+
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"

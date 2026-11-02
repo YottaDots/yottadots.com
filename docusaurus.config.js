@@ -1,11 +1,18 @@
+// Netlify builds only the pull request previews. The live site stays on
+// GitHub Pages. Netlify sets NETLIFY=true and DEPLOY_PRIME_URL during its builds.
+const isNetlify = process.env.NETLIFY === 'true';
+
 const config = {
   title: 'YottaDots',
   tagline: 'Federate your organization. Amplify it with AI.',
 
   favicon: 'img/logo.svg',
 
-  url: 'https://yottadots.github.io',
-  baseUrl: '/yottadots.com/',
+  url: isNetlify ? process.env.DEPLOY_PRIME_URL : 'https://yottadots.github.io',
+  baseUrl: isNetlify ? '/' : '/yottadots.com/',
+
+  // Keep previews out of search engines.
+  noIndex: isNetlify,
 
   organizationName: 'YottaDots',
   projectName: 'yottadots.com',
