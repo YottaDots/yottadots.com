@@ -58,6 +58,9 @@ module.exports = {
         'patterns/opt-out-of-shared-services',
         'patterns/guardrails-that-earn-their-place',
         'patterns/ai-with-a-human-owner',
+        'patterns/adding-capacity-is-a-choice',
+        'patterns/usage-check',
+        'patterns/budgets-that-do-not-punish-saving',
       ],
     },
 
