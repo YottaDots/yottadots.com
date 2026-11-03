@@ -1,6 +1,7 @@
 ---
 id: index
 title: Canvases
+description: Canvases turn the YottaDots rules and patterns into workshop tools. The first one, the central list canvas, is in development.
 image: /img/social/canvases.png
 ---
 

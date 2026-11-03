@@ -1,6 +1,7 @@
 ---
 title: How we make visuals
 sidebar_label: Visuals
+description: How YottaDots visuals are made: drafted by AI as code, reviewed by a human, in one style, free to reuse under CC BY 4.0.
 image: /img/social/community-visuals.png
 ---
 

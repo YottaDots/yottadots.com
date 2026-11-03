@@ -1,5 +1,6 @@
 ---
 title: License & Trademarks
+description: YottaDots content is free to use under CC BY 4.0, also commercially, with attribution. The name and logo are not licensed.
 image: /img/social/community-license.png
 ---
 

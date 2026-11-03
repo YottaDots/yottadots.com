@@ -58,5 +58,4 @@ organisations. It is not part of this website or repository.
 
 ## Questions and permission
 
-To ask for permission, or to report misuse, contact the maintainer via
-https://yottadots.com.
+To ask for permission, or to report misuse, email hello@yottadots.com.

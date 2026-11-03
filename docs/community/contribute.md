@@ -1,5 +1,6 @@
 ---
 title: Contribute
+description: How to contribute to YottaDots: suggest an improvement or propose a pattern without technical knowledge, or edit pages directly on GitHub.
 image: /img/social/community-contribute.png
 ---
 
