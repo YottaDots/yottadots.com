@@ -83,6 +83,7 @@ module.exports = {
       label: 'Canvases',
       items: [
         'canvases/index',
+        'canvases/central-list',
       ],
     },
 

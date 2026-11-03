@@ -98,6 +98,9 @@ Holacracy uses a similar default at the level of roles (see the
 
 ## Related
 
+- [The Central List Canvas](../canvases/central-list.md): a printable
+  worksheet to make the list in a workshop.
+
 - [Objection round on goals](./objection-round-on-goals.md): how value streams
   can object when the list grows.
 - [Guardrails that earn their place](./guardrails-that-earn-their-place.md):
