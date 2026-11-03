@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">Pattern 10: Experiment budget</title>
+<desc id="d">A value stream's budget, with a small share, up to 5 to 10 percent, set aside for experiments that need no approval. An experiment has a hypothesis, lasts at most about three months, is reversible and stays within the guardrails. Three outcomes: it worked, so it becomes a proposal to the centre with the evidence; it did not work, so the lesson is shared; or it is unclear, so it is stopped or tested once more. Not allowed: permanent teams, long contracts, anything that leaves lasting maintenance. Below: let ideas prove themselves before the centre decides.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
+<text x="40" y="58" font-size="15" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="2">PATTERN 10</text>
+<text x="40" y="92" font-size="28" fill="#ffffff" font-weight="700" text-anchor="start" >Experiment budget</text>
+<rect x="40" y="130" width="340" height="400" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="70" y="170" font-size="19" fill="#ffffff" font-weight="700" text-anchor="start" >Value stream budget</text>
+<rect x="70" y="196" width="280" height="240" rx="10" fill="#202124" stroke="#3a3c40" stroke-width="2" />
+<text x="210" y="312" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="middle" >Agreed goals</text>
+<text x="210" y="336" font-size="17" fill="#e2e2e2" font-weight="600" text-anchor="middle" >and daily work</text>
+<rect x="70" y="444" width="280" height="56" rx="10" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="210" y="470" font-size="16" fill="#f28c28" font-weight="700" text-anchor="middle" >Experiments: 5–10%</text>
+<text x="210" y="490" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="middle" >no approval needed</text>
+<line x1="354" y1="472" x2="412" y2="472" stroke="#f28c28" stroke-width="3" marker-end="url(#arrO)"/>
+<rect x="416" y="300" width="330" height="230" rx="14" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="440" y="338" font-size="19" fill="#ffffff" font-weight="700" text-anchor="start" >An experiment</text>
+<text x="440" y="374" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="start" >✓  Has a hypothesis</text>
+<text x="440" y="410" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="start" >✓  Max ~3 months</text>
+<text x="440" y="446" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="start" >✓  Reversible</text>
+<text x="440" y="482" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="start" >✓  Within all guardrails</text>
+<rect x="416" y="130" width="330" height="150" rx="14" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="440" y="166" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Not allowed</text>
+<text x="440" y="198" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >✕  Permanent teams</text>
+<text x="440" y="224" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >✕  Long contracts</text>
+<text x="440" y="250" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >✕  Lasting maintenance</text>
+<path d="M 750 415 L 772 415 L 772 186 L 796 186" fill="none" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="800" y="130" width="360" height="112" rx="12" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<text x="826" y="176" font-size="19" fill="#f28c28" font-weight="700" text-anchor="start" >It worked</text>
+<text x="826" y="208" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Becomes a proposal, with the evidence</text>
+<path d="M 750 415 L 772 415 L 772 322 L 796 322" fill="none" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<rect x="800" y="266" width="360" height="112" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="826" y="312" font-size="19" fill="#ffffff" font-weight="700" text-anchor="start" >It did not work</text>
+<text x="826" y="344" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Share the lesson, without blame</text>
+<path d="M 750 415 L 772 415 L 772 458 L 796 458" fill="none" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)"/>
+<rect x="800" y="402" width="360" height="112" rx="12" fill="#18191b" stroke="#3a3c40" stroke-width="2" />
+<text x="826" y="448" font-size="19" fill="#ffffff" font-weight="700" text-anchor="start" >Unclear</text>
+<text x="826" y="480" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="start" >Stop, or test once more</text>
+<rect x="40" y="580" width="1120" height="86" rx="12" fill="rgba(242,140,40,0.10)" stroke="#f28c28" stroke-width="1.5" />
+<text x="600.0" y="611" font-size="18" fill="#ffffff" font-weight="700" text-anchor="middle" >Let ideas prove themselves before the centre decides.</text>
+<text x="600.0" y="637" font-size="15" fill="#e2e2e2" font-weight="500" text-anchor="middle" >Small, fixed and reversible: low risk for the centre, real room for the value streams.</text>
+</svg>

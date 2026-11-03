@@ -1,7 +1,7 @@
 ---
 title: "Principle 2: Align"
 sidebar_label: 2. Align
-description: The centre proposes shared goals, principles and guardrails. Value streams help shape them and can object. Shared direction, with a voice for the people who do the work.
+description: The centre proposes shared goals, principles and guardrails. Value streams help shape them by objecting, proposing and experimenting. Shared direction, with a voice for the people who do the work.
 image: /img/social/method-principles-align.png
 ---
 
@@ -14,7 +14,8 @@ image: /img/social/method-principles-align.png
 ## In short
 
 The centre proposes shared goals, principles and guardrails. Value streams
-help shape them and can object. The result is one direction that the people
+help shape them: they can object, make their own proposals and test ideas.
+The result is one direction that the people
 who do the work understand and support.
 
 ## What it means
@@ -26,8 +27,11 @@ freedom serves a shared purpose. It has two parts:
   of principles and a short list of guardrails that apply to every value
   stream.
 - **A voice in that direction.** The centre does not set goals alone. It
-  proposes them, value streams can raise reasoned objections, and the centre
-  must answer them. The centre still decides, but not alone.
+  proposes them, value streams can raise reasoned objections and make
+  proposals of their own, and the centre must answer both in writing. Value
+  streams can also test ideas within a small experiment budget, so an idea
+  can prove itself before the centre decides. The centre still decides, but
+  not alone.
 
 ## Why it matters
 
@@ -46,6 +50,10 @@ freedom serves a shared purpose. It has two parts:
 
 - Goals are set with an objection round:
   [Objection round on goals](../../patterns/objection-round-on-goals.md).
+- Value streams can put their own ideas to the centre:
+  [Proposal route](../../patterns/proposal-route.md).
+- Value streams can test ideas without approval, within limits:
+  [Experiment budget](../../patterns/experiment-budget.md).
 - Guardrails are few, owned and reviewed:
   [Guardrails that earn their place](../../patterns/guardrails-that-earn-their-place.md).
 - Goals describe outcomes, not methods. How a value stream reaches them is
@@ -63,6 +71,7 @@ freedom serves a shared purpose. It has two parts:
 
 - Can every value stream name the shared goals and explain why they matter?
 - When did a value stream's objection last change a goal?
+- When did a proposal from a value stream last become a goal?
 - Do the guardrails still fit on one page?
 
 ## Evidence

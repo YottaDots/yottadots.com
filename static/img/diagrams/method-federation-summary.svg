@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" width="1200" height="720" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
 <title id="t">Visual summary: the centre decides the what, value streams decide the how</title>
-<desc id="d">At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for input and objections from the value streams. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object and the centre must deal with objections. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail. Points 2 to 4 are what make it a federation, not just a hierarchy with free methods.</desc>
+<desc id="d">At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for objections and proposals from the value streams. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object, propose and experiment, and the centre must answer. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail. Points 2 to 4 are what make it a federation, not just a hierarchy with free methods.</desc>
 <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker>
 <marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
 <rect x="0.5" y="0.5" width="1199" height="719" rx="16" fill="#202124" stroke="#303236"/>
@@ -35,7 +35,7 @@
 <line x1="637.0" y1="376" x2="637.0" y2="242" stroke="#c9c9c9" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6 5"/>
 <text x="600" y="285" font-size="1" fill="#e2e2e2" font-weight="400" text-anchor="start" ></text>
 <rect x="40" y="274" width="660" height="44" fill="#202124"/>
-<text x="370.0" y="302" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="middle" >goals proposed  ↓      ↑  input and objections</text>
+<text x="370.0" y="302" font-size="16" fill="#e2e2e2" font-weight="600" text-anchor="middle" >goals proposed  ↓      ↑  objections and proposals</text>
 <rect x="40" y="560" width="660" height="64" rx="12" fill="#202124" stroke="#4a4c50" stroke-width="2" stroke-dasharray="8 6"/>
 <text x="64" y="588" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Shared services</text>
 <text x="64" y="610" font-size="15" fill="#9b9b9b" font-weight="500" text-anchor="start" >Value streams may use them or opt out, unless agreed as a guardrail</text>
@@ -53,8 +53,8 @@
 <circle cx="776" cy="290" r="17" fill="#f28c28"/>
 <text x="776" y="296" font-size="16" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
 <text x="808" y="296" font-size="18" fill="#ffffff" font-weight="700" text-anchor="start" >Value streams help shape it</text>
-<text x="808" y="324" font-size="15" fill="#e2e2e2" font-weight="400" text-anchor="start" >They can object; the centre</text>
-<text x="808" y="346" font-size="15" fill="#e2e2e2" font-weight="400" text-anchor="start" >must deal with objections.</text>
+<text x="808" y="324" font-size="15" fill="#e2e2e2" font-weight="400" text-anchor="start" >Object, propose, experiment;</text>
+<text x="808" y="346" font-size="15" fill="#e2e2e2" font-weight="400" text-anchor="start" >the centre must answer.</text>
 <rect x="740" y="378" width="420" height="108" rx="12" fill="#18191b" stroke="#303236" stroke-width="2" />
 <circle cx="776" cy="414" r="17" fill="#f28c28"/>
 <text x="776" y="420" font-size="16" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>

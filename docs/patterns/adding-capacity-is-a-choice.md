@@ -71,6 +71,8 @@ brings in the people who will live with the result.
   visible and reasoned; it does not forbid it.
 - A value stream's "no capacity" may never count against it. It is
   information, not a lack of commitment.
+- An [experiment budget](./experiment-budget.md) may not be used to add
+  permanent capacity. Experiments are short and reversible.
 - The full cost of ownership is estimated by the people who will maintain
   the result, not only by those who want it built.
 

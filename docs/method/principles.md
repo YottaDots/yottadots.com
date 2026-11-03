@@ -31,7 +31,7 @@ named as central stays with the value streams.
 ## Align
 
 The centre proposes shared goals, principles and guardrails. Value streams
-help shape them and can object.
+help shape them: they can object, propose and experiment.
 [Read more →](./principles/align.md)
 
 ## Augment

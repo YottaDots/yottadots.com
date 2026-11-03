@@ -11,7 +11,7 @@ YottaDots is an open approach to organizing as a federation: the centre
 decides **what** the organization wants to achieve, and value streams decide
 **how**, with AI as a co-worker.
 
-![Visual summary. At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for input and objections. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object and the centre must deal with objections. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail.](/img/diagrams/method-federation-summary.svg)
+![Visual summary. At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for objections and proposals. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object, propose and experiment, and the centre must answer. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail.](/img/diagrams/method-federation-summary.svg)
 
 See the whole method on one poster: [The Big Picture](./big-picture.md).
 
@@ -28,9 +28,10 @@ three safeguards. Together, these four rules make an organization a
 federation:
 
 1. **The centre decides the what:** mission, vision, strategy, OKRs and KPIs.
-2. **Value streams help shape the what.** The centre proposes goals, value
-   streams can object, and the centre must deal with the objections. The
-   centre still decides, but not alone.
+2. **Value streams help shape the what.** They can object to the centre's
+   proposals, make proposals of their own, and test ideas within a small
+   experiment budget. The centre must answer objections and proposals in
+   writing. The centre still decides, but not alone.
 3. **Everything not named as central stays with the value streams.** The
    centre has to say explicitly what it decides. It cannot quietly take over
    anything else.

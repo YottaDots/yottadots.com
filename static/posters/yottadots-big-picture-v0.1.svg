@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
 <title id="t">The YottaDots Big Picture (v0.1)</title>
-<desc id="d">The YottaDots Big Picture, version 0.1, proposed. Left: why YottaDots exists, four problems: the centre asks for work it cannot see; priorities blur the higher you go; money replaces choices; ideas need the boss's approval. Middle: the model. The centre decides the what: mission, vision, strategy, clear ranked goals, the central list and agreed guardrails, and allocates capacity and money to priorities. Goals go down to four value streams; input, objections and what the work takes come back up. Each value stream decides its own how, with any method. Everything not named as central stays with the value streams. Value streams may opt out of shared services unless agreed as a guardrail. AI co-workers work across the organization, each task with a human owner. A review loop around everything keeps, changes or stops what no longer works. The four rules and eight patterns are marked on the model. Right: the four principles, Federate, Align, Augment and Evolve, and the eight patterns. Bottom: a possible first route in five steps: name what is central; set ranked goals with an objection round; let value streams choose their how; sort shared services into guardrail or optional; review guardrails, usage and budgets.</desc>
+<desc id="d">The YottaDots Big Picture, version 0.1, proposed. Left: why YottaDots exists, four problems: the centre asks for work it cannot see; priorities blur the higher you go; money replaces choices; ideas need the boss's approval. Middle: the model. The centre decides the what: mission, vision, strategy, clear ranked goals, the central list and agreed guardrails, and allocates capacity and money to priorities. Goals go down to four value streams; objections, proposals and what the work takes come back up, and value streams can test ideas within a small experiment budget. Each value stream decides its own how, with any method. Everything not named as central stays with the value streams. Value streams may opt out of shared services unless agreed as a guardrail. AI co-workers work across the organization, each task with a human owner. A review loop around everything keeps, changes or stops what no longer works. The four rules and ten patterns are marked on the model. Right: the four principles, Federate, Align, Augment and Evolve, and the ten patterns. Bottom: a possible first route in six steps: name what is central; set ranked goals with an objection round; let value streams choose their how; open the way up with proposals and experiment budgets; sort shared services into guardrail or optional; review guardrails, usage and budgets.</desc>
 <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c9c9c9"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
 <rect x="0.5" y="0.5" width="1683" height="1190" rx="16" fill="#202124" stroke="#303236"/>
 <text x="40" y="56" font-size="16" fill="#f28c28" font-weight="700" text-anchor="start" letter-spacing="3">THE YOTTADOTS BIG PICTURE</text>
@@ -40,7 +40,7 @@
 <text x="90" y="756" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >boss's approval</text>
 <text x="90" y="784" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Not invented here, or a threat</text>
 <text x="90" y="804" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >to the manager's position.</text>
-<text x="90" y="830" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ R3</text>
+<text x="90" y="830" font-size="13" fill="#f28c28" font-weight="700" text-anchor="start" >→ R2 · P9 · P10</text>
 <rect x="414" y="132" width="842" height="750" rx="26" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="10 8"/>
 <rect x="432" y="118" width="330" height="28" rx="6" fill="#202124" stroke="#202124" stroke-width="0" />
 <rect x="438" y="121" width="70" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
@@ -82,11 +82,14 @@
 <rect x="796" y="337" width="61" height="22" rx="11" fill="#f28c28" stroke="#f28c28" stroke-width="1" />
 <text x="826.5" y="353" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" letter-spacing="1">ALIGN</text>
 <text x="796" y="378" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >goals ↓</text>
-<text x="796" y="396" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >objections ↑</text>
+<text x="796" y="396" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >objections,</text>
+<text x="796" y="414" font-size="13" fill="#e2e2e2" font-weight="600" text-anchor="start" >proposals ↑</text>
 <rect x="868" y="337" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
 <text x="885" y="353" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R2</text>
-<circle cx="890" cy="386" r="13" fill="#f28c28"/>
-<text x="890" y="392" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<circle cx="886" cy="392" r="13" fill="#f28c28"/>
+<text x="886" y="398" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<circle cx="906" cy="418" r="13" fill="#f28c28"/>
+<text x="906" y="424" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >9</text>
 <rect x="446" y="444" width="780" height="140" rx="16" fill="none" stroke="#f28c28" stroke-width="1.5" stroke-dasharray="7 6"/>
 <text x="460" y="576" font-size="13" fill="#f28c28" font-weight="600" text-anchor="start" >guardrails</text>
 <circle cx="548" cy="572" r="13" fill="#f28c28"/>
@@ -113,6 +116,9 @@
 <line x1="1130" y1="560" x2="1130" y2="632" stroke="#9b9b9b" stroke-width="2" stroke-dasharray="4 6"/>
 <text x="1130" y="650" font-size="12" fill="#9b9b9b" font-weight="500" text-anchor="middle" >opted out</text>
 <rect x="442" y="590" width="520" height="30" rx="6" fill="#202124" stroke="#202124" stroke-width="0" />
+<circle cx="1032" cy="572" r="13" fill="#f28c28"/>
+<text x="1032" y="578" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >10</text>
+<text x="1017" y="576" font-size="12" fill="#f28c28" font-weight="600" text-anchor="end" >experiments</text>
 <rect x="446" y="595" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
 <text x="463" y="611" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R3</text>
 <text x="488" y="616" font-size="14" fill="#e2e2e2" font-weight="600" text-anchor="start" >Everything not named as central stays with the value streams.</text>
@@ -153,7 +159,7 @@
 <text x="1340" y="525" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >The centre decides the what</text>
 <rect x="1296" y="537" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
 <text x="1313" y="553" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R2</text>
-<text x="1340" y="553" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Value streams help shape it</text>
+<text x="1340" y="553" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Value streams object, propose, test</text>
 <rect x="1296" y="565" width="34" height="22" rx="5" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
 <text x="1313" y="581" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R3</text>
 <text x="1340" y="581" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Unnamed stays with value streams</text>
@@ -161,72 +167,86 @@
 <text x="1313" y="609" font-size="12" fill="#f28c28" font-weight="800" text-anchor="middle" >R4</text>
 <text x="1340" y="609" font-size="15" fill="#ffffff" font-weight="600" text-anchor="start" >Opt-out of shared services</text>
 <text x="1296" y="662" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">PATTERNS · HOW</text>
-<circle cx="1308" cy="689" r="10" fill="#f28c28"/>
-<text x="1308" y="694" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
-<text x="1328" y="694" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Name what is central</text>
-<circle cx="1308" cy="712" r="10" fill="#f28c28"/>
-<text x="1308" y="717" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
-<text x="1328" y="717" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Objection round on goals</text>
-<circle cx="1308" cy="735" r="10" fill="#f28c28"/>
-<text x="1308" y="740" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
-<text x="1328" y="740" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Opt-out of shared services</text>
-<circle cx="1308" cy="758" r="10" fill="#f28c28"/>
-<text x="1308" y="763" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
-<text x="1328" y="763" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails that earn their place</text>
-<circle cx="1308" cy="781" r="10" fill="#f28c28"/>
-<text x="1308" y="786" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
-<text x="1328" y="786" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >AI with a human owner</text>
-<circle cx="1308" cy="804" r="10" fill="#f28c28"/>
-<text x="1308" y="809" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >6</text>
-<text x="1328" y="809" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Adding capacity is a choice too</text>
-<circle cx="1308" cy="827" r="10" fill="#f28c28"/>
-<text x="1308" y="832" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >7</text>
-<text x="1328" y="832" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Usage check: stop what is not used</text>
-<circle cx="1308" cy="850" r="10" fill="#f28c28"/>
-<text x="1308" y="855" font-size="12" fill="#18191b" font-weight="800" text-anchor="middle" >8</text>
-<text x="1328" y="855" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Budgets that do not punish saving</text>
+<circle cx="1308" cy="683" r="9" fill="#f28c28"/>
+<text x="1308" y="688" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="1328" y="688" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Name what is central</text>
+<circle cx="1308" cy="702" r="9" fill="#f28c28"/>
+<text x="1308" y="707" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="1328" y="707" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Objection round on goals</text>
+<circle cx="1308" cy="721" r="9" fill="#f28c28"/>
+<text x="1308" y="726" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="1328" y="726" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Opt-out of shared services</text>
+<circle cx="1308" cy="740" r="9" fill="#f28c28"/>
+<text x="1308" y="745" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="1328" y="745" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails that earn their place</text>
+<circle cx="1308" cy="759" r="9" fill="#f28c28"/>
+<text x="1308" y="764" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="1328" y="764" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >AI with a human owner</text>
+<circle cx="1308" cy="778" r="9" fill="#f28c28"/>
+<text x="1308" y="783" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >6</text>
+<text x="1328" y="783" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Adding capacity is a choice too</text>
+<circle cx="1308" cy="797" r="9" fill="#f28c28"/>
+<text x="1308" y="802" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >7</text>
+<text x="1328" y="802" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Usage check: stop what is not used</text>
+<circle cx="1308" cy="816" r="9" fill="#f28c28"/>
+<text x="1308" y="821" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >8</text>
+<text x="1328" y="821" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Budgets that do not punish saving</text>
+<circle cx="1308" cy="835" r="9" fill="#f28c28"/>
+<text x="1308" y="840" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >9</text>
+<text x="1328" y="840" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Proposal route</text>
+<circle cx="1308" cy="854" r="9" fill="#f28c28"/>
+<text x="1308" y="859" font-size="11" fill="#18191b" font-weight="800" text-anchor="middle" >10</text>
+<text x="1328" y="859" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Experiment budget</text>
 <rect x="30" y="904" width="1624" height="196" rx="16" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
 <text x="56" y="942" font-size="15" fill="#f28c28" font-weight="800" text-anchor="start" letter-spacing="2">A POSSIBLE FIRST ROUTE</text>
 <text x="330" y="942" font-size="14" fill="#9b9b9b" font-weight="600" text-anchor="start" >proposed · adapt it to your context</text>
-<rect x="50.0" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<rect x="50.0" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
 <circle cx="76.0" cy="990" r="14" fill="#f28c28"/>
 <text x="76.0" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
-<text x="100.0" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Name what is central</text>
-<text x="70.0" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Publish the short list</text>
-<text x="70.0" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >of what the centre decides.</text>
-<text x="331.6" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P1</text>
-<line x1="349.6" y1="1022" x2="367.6" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
-<rect x="371.6" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
-<circle cx="397.6" cy="990" r="14" fill="#f28c28"/>
-<text x="397.6" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
-<text x="421.6" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Rank the goals</text>
-<text x="391.6" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Clear, ranked goals,</text>
-<text x="391.6" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >with an objection round.</text>
-<text x="653.2" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P2</text>
-<line x1="671.2" y1="1022" x2="689.2" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
-<rect x="693.2" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
-<circle cx="719.2" cy="990" r="14" fill="#f28c28"/>
-<text x="719.2" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
-<text x="743.2" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Free the how</text>
-<text x="713.2" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Value streams choose</text>
-<text x="713.2" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >their own way of working.</text>
-<text x="974.8000000000001" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >R3</text>
-<line x1="992.8000000000001" y1="1022" x2="1010.8000000000001" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
-<rect x="1014.8000000000001" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
-<circle cx="1040.8000000000002" cy="990" r="14" fill="#f28c28"/>
-<text x="1040.8000000000002" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
-<text x="1064.8000000000002" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Sort shared services</text>
-<text x="1034.8000000000002" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrail or optional;</text>
-<text x="1034.8000000000002" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >few guardrails, each owned.</text>
-<text x="1296.4" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P3 · P4</text>
-<line x1="1314.4" y1="1022" x2="1332.4" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
-<rect x="1336.4" y="962" width="297.6" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
-<circle cx="1362.4" cy="990" r="14" fill="#f28c28"/>
-<text x="1362.4" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
-<text x="1386.4" y="996" font-size="17" fill="#ffffff" font-weight="700" text-anchor="start" >Review and stop</text>
-<text x="1356.4" y="1028" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails, usage and</text>
-<text x="1356.4" y="1048" font-size="14" fill="#e2e2e2" font-weight="500" text-anchor="start" >budgets: keep, change, stop.</text>
-<text x="1618.0" y="996" font-size="12" fill="#f28c28" font-weight="700" text-anchor="end" >P6–P8</text>
+<text x="98.0" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Name what is central</text>
+<text x="70.0" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Publish the short list</text>
+<text x="70.0" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >of what the centre decides.</text>
+<text x="70.0" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >P1</text>
+<line x1="298.33333333333337" y1="1022" x2="314.33333333333337" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="317.33333333333337" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="343.33333333333337" cy="990" r="14" fill="#f28c28"/>
+<text x="343.33333333333337" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="365.33333333333337" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Rank the goals</text>
+<text x="337.33333333333337" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Clear, ranked goals,</text>
+<text x="337.33333333333337" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >with an objection round.</text>
+<text x="337.33333333333337" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >P2</text>
+<line x1="565.6666666666667" y1="1022" x2="581.6666666666667" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="584.6666666666667" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="610.6666666666667" cy="990" r="14" fill="#f28c28"/>
+<text x="610.6666666666667" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="632.6666666666667" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Free the how</text>
+<text x="604.6666666666667" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Value streams choose</text>
+<text x="604.6666666666667" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >their own way of working.</text>
+<text x="604.6666666666667" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >R3</text>
+<line x1="833.0000000000001" y1="1022" x2="849.0000000000001" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="852.0000000000001" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="878.0000000000001" cy="990" r="14" fill="#f28c28"/>
+<text x="878.0000000000001" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="900.0000000000001" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Open the way up</text>
+<text x="872.0000000000001" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Proposals answered in</text>
+<text x="872.0000000000001" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >writing; experiment budgets.</text>
+<text x="872.0000000000001" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >P9 · P10</text>
+<line x1="1100.3333333333335" y1="1022" x2="1116.3333333333335" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="1119.3333333333335" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="1145.3333333333335" cy="990" r="14" fill="#f28c28"/>
+<text x="1145.3333333333335" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="1167.3333333333335" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Sort shared services</text>
+<text x="1139.3333333333335" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrail or optional;</text>
+<text x="1139.3333333333335" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >few guardrails, each owned.</text>
+<text x="1139.3333333333335" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >P3 · P4</text>
+<line x1="1367.6666666666667" y1="1022" x2="1383.6666666666667" y2="1022" stroke="#f28c28" stroke-width="2.5" marker-end="url(#arrO)"/>
+<rect x="1386.666666666667" y="962" width="247.33333333333334" height="120" rx="12" fill="#18191b" stroke="#f28c28" stroke-width="1.5" />
+<circle cx="1412.666666666667" cy="990" r="14" fill="#f28c28"/>
+<text x="1412.666666666667" y="996" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >6</text>
+<text x="1434.666666666667" y="996" font-size="16" fill="#ffffff" font-weight="700" text-anchor="start" >Review and stop</text>
+<text x="1406.666666666667" y="1028" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >Guardrails, usage and</text>
+<text x="1406.666666666667" y="1047" font-size="13" fill="#e2e2e2" font-weight="500" text-anchor="start" >budgets: keep, change, stop.</text>
+<text x="1406.666666666667" y="1070" font-size="12" fill="#f28c28" font-weight="700" text-anchor="start" >P6–P8</text>
 <text x="40" y="1141" font-size="15" fill="#ffffff" font-weight="700" text-anchor="start" >yottadots.github.io/yottadots.com</text>
 <text x="40" y="1165" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="start" >Open knowledge · CC BY 4.0 · v0.1, November 2026 · Patterns are proposed and not yet tested in practice.</text>
 <text x="1644" y="1165" font-size="13" fill="#9b9b9b" font-weight="500" text-anchor="end" >YottaDots® is a registered trademark. Made with AI as a co-worker, reviewed by a human.</text>

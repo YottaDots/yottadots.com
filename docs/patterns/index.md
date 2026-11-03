@@ -14,6 +14,9 @@ daily practice.
 
 ![Pattern map. The centre at the top, value streams in the middle, shared services at the bottom. Five numbered patterns are placed where they act. 1 Name what is central: on the centre. 2 Objection round on goals: on the arrows between the centre and the value streams. 3 Opt-out of shared services: on the line between value streams and shared services. 4 Guardrails that earn their place: on the boundary around the value streams. 5 AI with a human owner: alongside everything, wherever AI does work.](/img/diagrams/patterns-map.svg)
 
+The map shows the five patterns that protect the rules. All ten patterns are
+shown together on [The Big Picture](../method/big-picture.md).
+
 <small>Status: **proposed (v0.1).** These patterns are drafts for discussion.
 None has been tested in practice yet. See [Evidence](#evidence) below.</small>
 
@@ -42,6 +45,16 @@ money that replaces real choices (see [Why YottaDots?](../why/index.md)).
 | 7 | [Usage check: stop what is not used](./usage-check.md) | Work is delivered but never used, and is maintained for years | Evolve: keep, change or stop |
 | 8 | [Budgets that do not punish saving](./budgets-that-do-not-punish-saving.md) | Unspent budget is lost, so money is spent instead of choices being made | Rule 1: funding follows priorities, not spending |
 
+## Patterns for ideas from the value streams
+
+These patterns address ideas that need the boss's approval before anyone may
+try them or even hear them.
+
+| # | Pattern | Problem it solves | Makes this rule work |
+|---|---|---|---|
+| 9 | [Proposal route](./proposal-route.md) | Ideas from value streams have no route to the what, and can be ignored | Rule 2: value streams can propose; the centre must answer |
+| 10 | [Experiment budget](./experiment-budget.md) | Ideas need approval to be tried, and need to be tried to be approved | Rule 2: value streams can test ideas without approval |
+
 ## How a pattern is written
 
 Every pattern follows the same structure, so patterns are easy to compare and
@@ -66,8 +79,16 @@ Each pattern also has a visual summary that explains its one main idea.
 YottaDots aims to be evidence-based. Each pattern therefore says plainly what
 is known and what is not. At this stage the patterns are reasoned from the
 rules of the method and from related practice in other frameworks. They have
-not yet been tested as YottaDots patterns. A pattern becomes **accepted** once
-real cases show that it works, and where it does not.
+not yet been tested as YottaDots patterns.
+
+A pattern moves from **proposed** to **accepted** when:
+
+1. it has been used in at least **two real cases**;
+2. at least one of those cases is **outside the founder's own network**;
+3. both are **written up and published** on this site, including what did not
+   work.
+
+Until then, every pattern stays proposed, and its Evidence section says so.
 
 Used one of these patterns? Share what happened in a
 [GitHub issue](https://github.com/YottaDots/yottadots.com/issues). Failures are
@@ -80,5 +101,4 @@ request (see [Contribute](../community/contribute.md)). Accepted patterns
 become part of the YottaDots knowledge base.
 
 Candidates for later patterns include: stopping what a change replaces,
-stable interfaces between value streams, funding shared services, and a
-proposal route for ideas from value streams.
+stable interfaces between value streams, and funding shared services.
