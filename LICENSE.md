@@ -8,10 +8,11 @@ the terms below.
 
 | What | License |
 |---|---|
-| Content: all text, patterns, canvases, examples, diagrams and images on the website and in this repository, except the logo | [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CONTENT.txt) |
+| Content: all text, patterns, canvases, examples, diagrams and images on the website and in this repository, except the logo and the founder's photo | [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CONTENT.txt) |
 | Code: website source code and configuration (`.js`, `.css`, `.json`, `.yml` and similar) | [MIT License](LICENSE-CODE.txt) |
 | The YottaDots name | **Not licensed.** Registered trademark; see [TRADEMARKS.md](TRADEMARKS.md) |
 | The YottaDots logo | **Not licensed.** © all rights reserved; see [TRADEMARKS.md](TRADEMARKS.md) |
+| The founder's photo (About page) | **Not licensed.** © Willem-Peter Perquin, all rights reserved |
 
 Material from third parties that is marked with its own license keeps that
 license.
@@ -43,6 +44,8 @@ You may not suggest that YottaDots endorses you or your use.
   [TRADEMARKS.md](TRADEMARKS.md).
 - **The YottaDots logo.** The logo is excluded from CC BY 4.0. All rights
   reserved.
+- **The founder's photo** on the About page. © Willem-Peter Perquin, all
+  rights reserved.
 - **Official certification, course material and consultancy services.** These
   are not published on this website or in this repository and are not
   licensed by it.

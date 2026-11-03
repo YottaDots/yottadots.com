@@ -8,7 +8,7 @@ image: /img/social/community-license.png
 
 ## Free to use
 
-Everything on this website, except the logo, is free to use, share and
+Everything on this website, except the logo and the founder's photo, is free to use, share and
 adapt, also commercially, under
 [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 The website code is under the MIT License.
