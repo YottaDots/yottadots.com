@@ -1,6 +1,6 @@
 ---
 title: Governance
-description: How YottaDots is governed: founder-led now, moving toward community ownership as the community grows.
+description: "How YottaDots is governed: founder-led now, moving toward community ownership as the community grows."
 image: /img/social/community-governance.png
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: index
 title: AI as a Co-worker
-description: AI as a co-worker: AI takes on work that needs no human judgment, and a named person owns every result. Redesign the work, do not just add AI to it.
+description: "AI as a co-worker: AI takes on work that needs no human judgment, and a named person owns every result. Redesign the work, do not just add AI to it."
 image: /img/social/ai-coworker.png
 ---
 
