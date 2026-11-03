@@ -27,17 +27,10 @@ that prints better and uses less ink.
 The PDFs are A3 landscape and vector, so they also print sharply at A2, A1 or
 A0.
 
-### Using the poster
-
-- **The content** of the poster is open under
-  [CC BY 4.0](../community/license.md): you may use, print, share and adapt it,
-  with attribution.
-- **The name and logo are not.** YottaDots® is a registered trademark and the
-  logo is protected by copyright, all rights reserved (see the
-  [trademark policy](https://github.com/YottaDots/yottadots.com/blob/main/TRADEMARKS.md)).
-- **Printing and sharing the poster unchanged,** with the logo, is fine.
-- **If you change the poster,** remove the logo and mark your version as
-  "Adapted from YottaDots".
+The poster is free to use, print, share and adapt under
+[CC BY 4.0](../community/license.md), with attribution. The name YottaDots®
+is a registered trademark; see the
+[trademark policy](https://github.com/YottaDots/yottadots.com/blob/main/TRADEMARKS.md).
 
 ## How to read it
 

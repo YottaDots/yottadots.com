@@ -67,9 +67,6 @@ website loads it (as an image), not only as a preview.
   They may not be protected by copyright.
 - **The logo** is not covered by CC BY 4.0 and may only be used as described in
   the [trademark policy](https://github.com/YottaDots/yottadots.com/blob/main/TRADEMARKS.md).
-- **Official posters and other official materials carry the logo.** The
-  content stays CC BY 4.0, but the logo does not: anyone who adapts such a
-  material removes the logo and marks it "Adapted from YottaDots".
 
 ## Share images in practice
 
