@@ -63,6 +63,8 @@ module.exports = {
         'patterns/adding-capacity-is-a-choice',
         'patterns/usage-check',
         'patterns/budgets-that-do-not-punish-saving',
+        'patterns/proposal-route',
+        'patterns/experiment-budget',
       ],
     },
 

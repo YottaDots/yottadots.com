@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout
       title="Federate your organization. Amplify it with AI."
-      description="YottaDots is an open method for federated organizations and AI-enabled work."
+      description="YottaDots is an open framework for federated organizations and AI-enabled work."
     >
       <main>
         <section className={styles.hero}>
@@ -23,7 +23,7 @@ export default function Home() {
             </h1>
 
             <p className={styles.heroText}>
-              YottaDots is an open method for organizations that want
+              YottaDots is an open framework for organizations that want
               autonomy without fragmentation — and AI without losing
               human accountability.
             </p>

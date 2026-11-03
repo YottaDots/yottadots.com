@@ -102,19 +102,21 @@ YottaDots divides the work in two, with four rules:
 | Rule | What it means | Which problem it solves |
 |---|---|---|
 | 1. The centre decides the what | Mission, strategy and clear, ranked goals (OKRs and KPIs). That is the centre's core job. | Blurred priorities |
-| 2. Value streams help shape the what | The centre proposes goals; value streams can object, for example "this does not fit our capacity"; the centre must answer. | Work the centre cannot see |
+| 2. Value streams help shape the what | Value streams can object, for example "this does not fit our capacity", make their own proposals, and test ideas within a small experiment budget; the centre must answer in writing. | Work the centre cannot see; ideas that need the boss's approval |
 | 3. Everything not named as central stays with the value streams | The centre has to name what it decides, and cannot quietly take over the how. | A centre busy with the how |
 | 4. Value streams may opt out of shared services, unless agreed as a guardrail | Shared services have to earn their users. | Central services that set their own priorities |
 
 **Where the rules are not enough yet.** The four rules do not by themselves
 stop money from replacing choices: a centre can answer a "no capacity"
-objection by hiring another team. And value streams can object to the what,
-but not yet propose to it. Three proposed patterns address the money problem:
+objection by hiring another team. Three proposed patterns address that:
 [Adding capacity is a choice too](../patterns/adding-capacity-is-a-choice.md),
 [Usage check](../patterns/usage-check.md) and
 [Budgets that do not punish saving](../patterns/budgets-that-do-not-punish-saving.md).
-A right for value streams to propose is under discussion. Until these are
-tested, they are open problems, not solved ones.
+For ideas from the value streams, rule 2 now includes a right to propose and
+a small experiment budget
+([Proposal route](../patterns/proposal-route.md),
+[Experiment budget](../patterns/experiment-budget.md)). None of this has been
+tested in practice yet.
 
 What YottaDots deliberately does **not** do:
 

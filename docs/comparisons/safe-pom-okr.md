@@ -7,13 +7,13 @@ image: /img/social/comparisons-safe-pom-okr.png
 
 # YottaDots compared with SAFe, the Product Operating Model, OKRs and Holacracy
 
-![Visual summary: a table comparing SAFe, the Product Operating Model, OKRs, Holacracy and YottaDots. All five let the centre or broader circle decide the what. SAFe, the Product Operating Model and OKRs partly let units shape goals; Holacracy partly, through formal objections in governance; YottaDots as a formal right to object to goals. Unnamed decisions stay with the units in Holacracy (at role level) and in YottaDots. Only YottaDots describes opting out of shared services. OKRs and YottaDots leave the delivery method free; the others partly prescribe it. SAFe, the Product Operating Model and Holacracy give the most detailed guidance. SAFe and OKRs have the strongest track record; Holacracy a mixed one; YottaDots none yet.](/img/diagrams/comparison-safe-pom-okr.svg)
+![Visual summary: a table comparing SAFe, the Product Operating Model, OKRs, Holacracy and YottaDots. All five let the centre or broader circle decide the what. SAFe, the Product Operating Model and OKRs partly let units shape goals; Holacracy partly, through formal objections in governance; YottaDots as a formal right to object to goals, to propose, and to experiment. Unnamed decisions stay with the units in Holacracy (at role level) and in YottaDots. Only YottaDots describes opting out of shared services. OKRs and YottaDots leave the delivery method free; the others partly prescribe it. SAFe, the Product Operating Model and Holacracy give the most detailed guidance. SAFe and OKRs have the strongest track record; Holacracy a mixed one; YottaDots none yet.](/img/diagrams/comparison-safe-pom-okr.svg)
 
 **In short:** all five let the centre (or the broader circle) decide the
 *what*. **Holacracy is closest to YottaDots:** it also gives default authority
 to the people doing the work and makes objections formal. What YottaDots adds
-is **opting out of shared services**, objections at the level of **goals**
-(not only governance), and a **free how** without a prescribed constitution or
+is **opting out of shared services**, objections and proposals at the level of
+**goals** (not only governance), an experiment budget, and a **free how** without a prescribed constitution or
 meeting process. It is also the youngest and least proven of the five.
 
 How these comparisons are made: [How we compare](index.md). One-pagers:
@@ -26,7 +26,7 @@ How these comparisons are made: [How we compare](index.md). One-pagers:
 |---|---|---|---|---|---|
 | **What it is** | Framework for portfolio management and delivery at scale | Way of working for product organizations | Goal-setting method | Self-management system with a written constitution | Governance model: who decides what, and what is protected |
 | **1. Who decides the what?** | Lean Portfolio Management | Product leaders | Leadership | The broader circle; the circle lead sets priorities | The centre |
-| **2. Do units help shape the goals?** | Partly: participatory budgeting | Partly: negotiated team objectives | Partly: roughly half of OKRs bottom-up | Partly: formal objections, but for governance (roles, policies), not goals | Yes: a formal right to object to goals |
+| **2. Do units help shape the goals?** | Partly: participatory budgeting | Partly: negotiated team objectives | Partly: roughly half of OKRs bottom-up | Partly: formal objections, but for governance (roles, policies), not goals | Yes: a formal right to object to goals and to make proposals, plus a small experiment budget |
 | **3. What happens to unnamed decisions?** | Not described | Not described | Not described | **Stay with the role** | Stay with the value stream |
 | **4. Can units opt out of shared services?** | Not described | Not described | Not in scope | Not described | Yes, unless agreed as a guardrail |
 | **5. Who decides the how?** | Partly the teams, within release trains and PI Planning | Partly the teams, within the product team model | The teams | The role lead, within a prescribed governance and meeting process | The value streams, any method |
@@ -40,7 +40,10 @@ impossible.
 
 - **Rule 1** (the centre decides the what) is **common to all five.**
 - **Rule 2** (value streams help shape goals) exists **partly everywhere**.
-  YottaDots differs by making it a formal right *for goals*.
+  YottaDots differs by making it a formal right *for goals*: to object, to
+  propose, and to test ideas within a small experiment budget. Whether any
+  other framework has a formal right to propose at the level of goals is
+  something we have not yet checked **[Needs Evidence]**.
 - **Rule 3** (residual power) **exists in Holacracy**, at the level of roles.
   YottaDots applies it to value streams and keeps managers.
 - **Rule 4** (opt-out of shared services) we **did not find elsewhere**.
@@ -74,7 +77,7 @@ Often, yes. YottaDots says *who* decides; the others say *how*:
 ## The claim to test
 
 > Organizations where the centre must name its decisions, value streams can
-> object to goals, and shared services must earn their use, will show less
+> object to and propose goals, and shared services must earn their use, will show less
 > shadow work and faster local decisions than organizations with only
 > "central what, local how".
 

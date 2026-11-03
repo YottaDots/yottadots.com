@@ -103,6 +103,8 @@ with one board.
 
 - [Name what is central](./name-what-is-central.md): the same objection round
   can be used when the centre adds to its list.
+- [Proposal route](./proposal-route.md): the other half of rule 2, for ideas
+  that start in a value stream.
 - [Adding capacity is a choice too](./adding-capacity-is-a-choice.md): what
   to do when the objection is "we have no capacity".
 - [OKRs one-pager](../comparisons/okrs.md): how OKRs are usually set.

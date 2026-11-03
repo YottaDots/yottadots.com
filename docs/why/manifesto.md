@@ -17,7 +17,7 @@ co-worker and humans accountable for outcomes.
 
 ## We believe in
 
-1. **AI as a co-worker.** AI is a visible, accountable partner in analysis,
+1. **AI as a co-worker.** AI is a visible, transparent partner in analysis,
    code and decisions.
 2. **Central what, federated how.** The centre sets mission, strategy and
    goals, shaped with the value streams. Value streams decide how. Everything
@@ -54,7 +54,7 @@ more.
    let the value streams own the how.
 2. **Make work visible**, so flow, risk and value can be seen by everyone.
 3. **Let value streams and teams choose their method** and own the full lifecycle.
-4. **Use AI throughout**, from portfolio forecasts to code and tests.
+4. **Use AI wherever it helps**, from portfolio forecasts to code and tests.
 5. **Inspect and adapt** at a regular rhythm and when signals appear, with
    small bets and fast feedback.
 6. **Build in safety** with security, privacy and quality gates.

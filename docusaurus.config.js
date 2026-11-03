@@ -57,7 +57,7 @@ const config = {
       {
         name: 'description',
         content:
-          'YottaDots is an open method for federated organizations and AI-enabled work.',
+          'YottaDots is an open framework for federated organizations and AI-enabled work.',
       },
     ],
 

@@ -9,7 +9,7 @@ image: /img/social/method-big-picture.png
 The whole method on one page: why YottaDots exists, how it works, and where
 to start. Print it, put it on the wall, and use it in conversations.
 
-[![The YottaDots Big Picture. Left: four problems. Middle: the model, with the centre deciding the what and four value streams deciding the how, shared services, AI co-workers and a review loop, with the four rules and eight patterns marked. Right: principles, rules and patterns. Bottom: a possible first route in five steps.](/posters/yottadots-big-picture-v0.1.svg)](/posters/yottadots-big-picture-v0.1.svg)
+[![The YottaDots Big Picture. Left: four problems. Middle: the model, with the centre deciding the what and four value streams deciding the how, shared services, AI co-workers and a review loop, with the four rules and ten patterns marked. Right: principles, rules and patterns. Bottom: a possible first route in six steps.](/posters/yottadots-big-picture-v0.1.svg)](/posters/yottadots-big-picture-v0.1.svg)
 
 <small>Status: **v0.1, proposed.** The patterns and the first route have not
 yet been tested in practice.</small>
@@ -41,7 +41,7 @@ pattern (P) that addresses it.
 3. **Money replaces choices.** A "no capacity" is answered with another team;
    budgets are spent rather than chosen. → Patterns 6, 7 and 8.
 4. **Ideas need the boss's approval.** Not invented here, or a threat to the
-   manager's position. → Rule 3.
+   manager's position. → Rule 2, patterns 9 and 10.
 
 More in [Why YottaDots?](../why/index.md)
 
@@ -50,7 +50,8 @@ More in [Why YottaDots?](../why/index.md)
 - **The centre decides the what:** mission, vision, strategy, clear and ranked
   goals, the central list and agreed guardrails. It also allocates **capacity
   and money** to priorities; a new team is a what-decision too.
-- **Goals go down; input, objections and what the work takes come back up.**
+- **Goals go down; objections, proposals and what the work takes come back
+  up.** Value streams can also test ideas within a small experiment budget.
 - **Each value stream decides its own how,** with any method: Scrum, Kanban,
   projects, campaigns.
 - **Everything not named as central stays with the value streams.**
@@ -69,7 +70,7 @@ between what and how, **Align** on the arrows, **Augment** on the AI band and
 - [Principles](./principles.md), the why: Federate, Align, Augment, Evolve.
 - [Rules](./index.md#what-makes-it-a-federation), the what:
   1. the centre decides the what;
-  2. value streams help shape it;
+  2. value streams help shape it: they object, propose and test;
   3. what is not named stays with the value streams;
   4. value streams may opt out of shared services.
 - [Patterns](../patterns/index.md), the how:
@@ -80,7 +81,9 @@ between what and how, **Align** on the arrows, **Augment** on the AI band and
   5. AI with a human owner;
   6. adding capacity is a choice too;
   7. usage check: stop what is not used;
-  8. budgets that do not punish saving.
+  8. budgets that do not punish saving;
+  9. proposal route;
+  10. experiment budget.
 
 ### Bottom: a possible first route
 
@@ -92,10 +95,13 @@ A suggestion, not a fixed roadmap. Adapt it to your context.
    ([Pattern 2](../patterns/objection-round-on-goals.md))
 3. **Free the how.** Value streams choose their own way of working.
    ([Rule 3](./index.md#what-makes-it-a-federation))
-4. **Sort shared services.** Guardrail or optional; few guardrails, each one
+4. **Open the way up.** Proposals are answered in writing; value streams get a
+   small experiment budget. ([Pattern 9](../patterns/proposal-route.md),
+   [pattern 10](../patterns/experiment-budget.md))
+5. **Sort shared services.** Guardrail or optional; few guardrails, each one
    owned. ([Pattern 3](../patterns/opt-out-of-shared-services.md),
    [pattern 4](../patterns/guardrails-that-earn-their-place.md))
-5. **Review and stop.** Guardrails, usage and budgets: keep, change or stop.
+6. **Review and stop.** Guardrails, usage and budgets: keep, change or stop.
    ([Patterns 6](../patterns/adding-capacity-is-a-choice.md),
    [7](../patterns/usage-check.md) and
    [8](../patterns/budgets-that-do-not-punish-saving.md))
