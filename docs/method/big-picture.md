@@ -16,10 +16,16 @@ yet been tested in practice.</small>
 
 ## Download
 
-| File | Use |
-|---|---|
-| [PDF, A3 landscape](/posters/yottadots-big-picture-v0.1-a3.pdf) | Print. It is a vector file, so it also prints sharply at A2, A1 or A0. |
-| [SVG](/posters/yottadots-big-picture-v0.1.svg) | Edit, or use in slides and documents. |
+Two versions with the same content: a dark one for screens, and a light one
+that prints better and uses less ink.
+
+| Version | Print (PDF, A3) | Source (SVG) |
+|---|---|---|
+| **Light**, for printing | [PDF](/posters/yottadots-big-picture-v0.1-light-a3.pdf) | [SVG](/posters/yottadots-big-picture-v0.1-light.svg) |
+| **Dark**, for screens | [PDF](/posters/yottadots-big-picture-v0.1-a3.pdf) | [SVG](/posters/yottadots-big-picture-v0.1.svg) |
+
+The PDFs are A3 landscape and vector, so they also print sharply at A2, A1 or
+A0.
 
 The poster is free to use, print, share and adapt under
 [CC BY 4.0](../community/license.md), with attribution. The name YottaDots®
