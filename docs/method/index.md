@@ -2,6 +2,7 @@
 id: index
 title: The YottaDots Method
 sidebar_label: Introduction
+description: "The YottaDots method in four rules: the centre decides the what, value streams decide the how, with three safeguards that make it a federation."
 image: /img/social/method.png
 ---
 

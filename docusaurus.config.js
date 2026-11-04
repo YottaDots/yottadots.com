@@ -107,6 +107,11 @@ const config = {
           position: 'left',
         },
         {
+          to: '/docs/why/about',
+          label: 'About',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/YottaDots/yottadots.com',
           label: 'GitHub',
           position: 'right',
@@ -143,6 +148,14 @@ const config = {
             {
               label: 'AI Co-worker',
               to: '/docs/ai-coworker',
+            },
+            {
+              label: 'About',
+              to: '/docs/why/about',
+            },
+            {
+              label: 'Contact',
+              href: 'mailto:hello@yottadots.com',
             },
           ],
         },

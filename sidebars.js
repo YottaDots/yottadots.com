@@ -6,6 +6,7 @@ module.exports = {
       items: [
         'why/index',
         'why/manifesto',
+        'why/about',
       ],
     },
 

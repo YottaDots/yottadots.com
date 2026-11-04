@@ -1,6 +1,7 @@
 ---
 id: index
 title: Community
+description: YottaDots is built in the open. Use it, challenge it, propose patterns, share examples and help improve the framework.
 image: /img/social/community.png
 ---
 

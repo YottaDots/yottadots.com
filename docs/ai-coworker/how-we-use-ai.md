@@ -1,6 +1,7 @@
 ---
 title: How YottaDots uses AI
 sidebar_label: How we use AI
+description: How AI helps build this website, what humans decide, and how you can see which changes were made with AI.
 image: /img/social/ai-coworker-how-we-use-ai.png
 ---
 
