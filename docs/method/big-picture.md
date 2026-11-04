@@ -96,7 +96,8 @@ between what and how, **Align** on the arrows, **Augment** on the AI band and
 A suggestion, not a fixed roadmap. Adapt it to your context.
 
 1. **Name what is central.** Publish the short list of what the centre
-   decides. ([Pattern 1](../patterns/name-what-is-central.md))
+   decides. ([Pattern 1](../patterns/name-what-is-central.md),
+   [Central List Canvas](../canvases/central-list.md))
 2. **Rank the goals.** Clear, ranked goals, with an objection round.
    ([Pattern 2](../patterns/objection-round-on-goals.md))
 3. **Free the how.** Value streams choose their own way of working.

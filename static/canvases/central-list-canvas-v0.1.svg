@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1684 1191" width="1684" height="1191" role="img" aria-labelledby="t d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<title id="t">The Central List Canvas</title>
+<desc id="d">The YottaDots Central List Canvas, a worksheet for pattern 1, Name what is central. Section 1, What the centre decides: a table with the columns decision, why central, owner and review date, with rows for mission and vision, strategy, ranked goals, agreed guardrails, capacity and money, and other decisions that need a reason. Section 2, Stays with the value streams: examples such as method, planning, team set-up, tools, roles and priorities within the goals, plus space for more. Section 3, Grey zone: decisions where it is unclear who decides; until the list changes, the value stream decides. Section 4, How this list changes: additions are announced with a reason, value streams can object or propose, with fields for the owner of the list, where it is published and the next review date. Section 5, Check: fits on one page, names decisions not departments, no catch-all item, public to everyone, includes the default rule.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8c8c8c"/></marker><marker id="arrO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#f28c28"/></marker></defs>
+<rect x="0.5" y="0.5" width="1683" height="1190" rx="16" fill="#ffffff" stroke="#e4e4e4"/>
+<text x="40" y="54" font-size="15" fill="#b8560a" font-weight="700" text-anchor="start" letter-spacing="3">YOTTADOTS CANVAS · PATTERN 1</text>
+<text x="40" y="94" font-size="36" fill="#18191b" font-weight="800" text-anchor="start" >The Central List Canvas</text>
+<text x="40" y="122" font-size="17" fill="#34363b" font-weight="500" text-anchor="start" >What does the centre decide? Everything else stays with the value streams.</text>
+<text x="1060" y="70" font-size="13" fill="#66686d" font-weight="600" text-anchor="start" >Organization</text>
+<line x1="1060" y1="100" x2="1240" y2="100" stroke="#c8c8c8" stroke-width="1.2"/>
+<text x="1260" y="70" font-size="13" fill="#66686d" font-weight="600" text-anchor="start" >Date</text>
+<line x1="1260" y1="100" x2="1440" y2="100" stroke="#c8c8c8" stroke-width="1.2"/>
+<text x="1460" y="70" font-size="13" fill="#66686d" font-weight="600" text-anchor="start" >Version</text>
+<line x1="1460" y1="100" x2="1640" y2="100" stroke="#c8c8c8" stroke-width="1.2"/>
+<rect x="30" y="150" width="980" height="730" rx="16" fill="#f6f5f3" stroke="#f28c28" stroke-width="2" />
+<circle cx="68" cy="184" r="15" fill="#f28c28"/>
+<text x="68" y="190" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >1</text>
+<text x="92" y="190" font-size="19" fill="#18191b" font-weight="800" text-anchor="start" >What the centre decides</text>
+<text x="360" y="190" font-size="14" fill="#66686d" font-weight="500" text-anchor="start" >Short. Public. Named decisions, not departments.</text>
+<rect x="46" y="222" width="948" height="32" rx="6" fill="rgba(242,140,40,0.14)" stroke="rgba(242,140,40,0.14)" stroke-width="0" />
+<text x="62" y="244" font-size="14" fill="#b8560a" font-weight="800" text-anchor="start" >Decision</text>
+<text x="372" y="244" font-size="14" fill="#b8560a" font-weight="800" text-anchor="start" >Why central?</text>
+<text x="682" y="244" font-size="14" fill="#b8560a" font-weight="800" text-anchor="start" >Owner</text>
+<text x="852" y="244" font-size="14" fill="#b8560a" font-weight="800" text-anchor="start" >Review by</text>
+<text x="62" y="284" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Mission and vision</text>
+<line x1="62" y1="316" x2="346" y2="316" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="346" x2="346" y2="346" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="316" x2="656" y2="316" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="346" x2="656" y2="346" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="316" x2="826" y2="316" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="346" x2="826" y2="346" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="316" x2="986" y2="316" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="346" x2="986" y2="346" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="46" y1="360" x2="994" y2="360" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="62" y="384" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Strategy</text>
+<line x1="62" y1="416" x2="346" y2="416" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="446" x2="346" y2="446" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="416" x2="656" y2="416" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="446" x2="656" y2="446" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="416" x2="826" y2="416" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="446" x2="826" y2="446" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="416" x2="986" y2="416" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="446" x2="986" y2="446" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="46" y1="460" x2="994" y2="460" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="62" y="484" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Ranked goals (OKRs, KPIs)</text>
+<line x1="62" y1="516" x2="346" y2="516" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="546" x2="346" y2="546" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="516" x2="656" y2="516" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="546" x2="656" y2="546" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="516" x2="826" y2="516" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="546" x2="826" y2="546" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="516" x2="986" y2="516" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="546" x2="986" y2="546" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="46" y1="560" x2="994" y2="560" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="62" y="584" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Agreed guardrails</text>
+<line x1="62" y1="616" x2="346" y2="616" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="646" x2="346" y2="646" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="616" x2="656" y2="616" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="646" x2="656" y2="646" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="616" x2="826" y2="616" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="646" x2="826" y2="646" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="616" x2="986" y2="616" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="646" x2="986" y2="646" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="46" y1="660" x2="994" y2="660" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="62" y="684" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Capacity and money (new teams, suppliers, budgets)</text>
+<line x1="62" y1="716" x2="346" y2="716" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="746" x2="346" y2="746" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="716" x2="656" y2="716" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="746" x2="656" y2="746" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="716" x2="826" y2="716" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="746" x2="826" y2="746" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="716" x2="986" y2="716" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="746" x2="986" y2="746" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="46" y1="760" x2="994" y2="760" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="2 5"/>
+<text x="62" y="784" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Other (only with a strong reason)</text>
+<line x1="62" y1="816" x2="346" y2="816" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="62" y1="846" x2="346" y2="846" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="816" x2="656" y2="816" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="372" y1="846" x2="656" y2="846" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="816" x2="826" y2="816" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="682" y1="846" x2="826" y2="846" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="816" x2="986" y2="816" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="852" y1="846" x2="986" y2="846" stroke="#c8c8c8" stroke-width="1.2"/>
+<rect x="1030" y="150" width="624" height="380" rx="16" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="2" />
+<circle cx="1068" cy="184" r="15" fill="#f28c28"/>
+<text x="1068" y="190" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >2</text>
+<text x="1092" y="190" font-size="19" fill="#18191b" font-weight="800" text-anchor="start" >Stays with the value streams</text>
+<text x="1092" y="214" font-size="14" fill="#66686d" font-weight="500" text-anchor="start" >Examples. Make explicit what people often ask about.</text>
+<rect x="1060" y="234" width="73.6" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1096.8" y="255.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Method</text>
+<rect x="1145.6" y="234" width="90.8" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1191.0" y="255.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Planning</text>
+<rect x="1248.3999999999999" y="234" width="116.6" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1306.6999999999998" y="255.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Team set-up</text>
+<rect x="1060" y="280" width="65.0" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1092.5" y="301.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Tools</text>
+<rect x="1137.0" y="280" width="65.0" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1169.5" y="301.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Roles</text>
+<rect x="1214.0" y="280" width="90.8" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1259.4" y="301.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Meetings</text>
+<rect x="1060" y="326" width="254.2" height="32" rx="17" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="1.5" />
+<text x="1187.1" y="347.0" font-size="14" fill="#34363b" font-weight="600" text-anchor="middle" >Priorities within the goals</text>
+<text x="1060" y="398" font-size="14" fill="#66686d" font-weight="700" text-anchor="start" >Also ours:</text>
+<line x1="1060" y1="436" x2="1624" y2="436" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="466" x2="1624" y2="466" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="496" x2="1624" y2="496" stroke="#c8c8c8" stroke-width="1.2"/>
+<rect x="1030" y="550" width="624" height="330" rx="16" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="2" stroke-dasharray="8 6"/>
+<circle cx="1068" cy="584" r="15" fill="#f28c28"/>
+<text x="1068" y="590" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >3</text>
+<text x="1092" y="590" font-size="19" fill="#18191b" font-weight="800" text-anchor="start" >Grey zone</text>
+<text x="1092" y="614" font-size="14" fill="#66686d" font-weight="500" text-anchor="start" >Unclear who decides? Write it down here.</text>
+<rect x="1060" y="632" width="564" height="40" rx="8" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="1.2" />
+<text x="1076" y="658" font-size="15" fill="#18191b" font-weight="700" text-anchor="start" >Until the list changes, the value stream decides.</text>
+<text x="1060" y="706" font-size="13" fill="#b8560a" font-weight="800" text-anchor="start" >Decision</text>
+<text x="1484" y="706" font-size="13" fill="#b8560a" font-weight="800" text-anchor="start" >Resolve by</text>
+<line x1="1060" y1="742" x2="1464" y2="742" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1484" y1="742" x2="1624" y2="742" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="772" x2="1464" y2="772" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1484" y1="772" x2="1624" y2="772" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="802" x2="1464" y2="802" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1484" y1="802" x2="1624" y2="802" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="832" x2="1464" y2="832" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1484" y1="832" x2="1624" y2="832" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1060" y1="862" x2="1464" y2="862" stroke="#c8c8c8" stroke-width="1.2"/>
+<line x1="1484" y1="862" x2="1624" y2="862" stroke="#c8c8c8" stroke-width="1.2"/>
+<rect x="30" y="900" width="960" height="190" rx="16" fill="rgba(242,140,40,0.14)" stroke="#f28c28" stroke-width="2" />
+<circle cx="68" cy="934" r="15" fill="#f28c28"/>
+<text x="68" y="940" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >4</text>
+<text x="92" y="940" font-size="19" fill="#18191b" font-weight="800" text-anchor="start" >How this list changes</text>
+<text x="76" y="972" font-size="14" fill="#34363b" font-weight="500" text-anchor="start" >Adding to the list is a decision of its own: announced, with a reason.</text>
+<text x="76" y="993" font-size="14" fill="#34363b" font-weight="500" text-anchor="start" >Value streams can object (pattern 2) or propose (pattern 9). Review at least once a year.</text>
+<text x="76" y="1036" font-size="13" fill="#66686d" font-weight="700" text-anchor="start" >Owner of this list</text>
+<line x1="76" y1="1068" x2="356" y2="1068" stroke="#c8c8c8" stroke-width="1.2"/>
+<text x="376" y="1036" font-size="13" fill="#66686d" font-weight="700" text-anchor="start" >Published at</text>
+<line x1="376" y1="1068" x2="656" y2="1068" stroke="#c8c8c8" stroke-width="1.2"/>
+<text x="676" y="1036" font-size="13" fill="#66686d" font-weight="700" text-anchor="start" >Next review</text>
+<line x1="676" y1="1068" x2="956" y2="1068" stroke="#c8c8c8" stroke-width="1.2"/>
+<rect x="1010" y="900" width="644" height="190" rx="16" fill="#f6f5f3" stroke="#d2d2d2" stroke-width="2" />
+<circle cx="1048" cy="934" r="15" fill="#f28c28"/>
+<text x="1048" y="940" font-size="17" fill="#18191b" font-weight="800" text-anchor="middle" >5</text>
+<text x="1072" y="940" font-size="19" fill="#18191b" font-weight="800" text-anchor="start" >Check</text>
+<rect x="1056" y="967" width="18" height="18" rx="3" fill="none" stroke="#f28c28" stroke-width="1.8" />
+<text x="1084" y="982" font-size="15" fill="#34363b" font-weight="600" text-anchor="start" >Fits on one page</text>
+<rect x="1056" y="1001" width="18" height="18" rx="3" fill="none" stroke="#f28c28" stroke-width="1.8" />
+<text x="1084" y="1016" font-size="15" fill="#34363b" font-weight="600" text-anchor="start" >Names decisions, not departments</text>
+<rect x="1056" y="1035" width="18" height="18" rx="3" fill="none" stroke="#f28c28" stroke-width="1.8" />
+<text x="1084" y="1050" font-size="15" fill="#34363b" font-weight="600" text-anchor="start" >No catch-all item</text>
+<rect x="1366" y="967" width="18" height="18" rx="3" fill="none" stroke="#f28c28" stroke-width="1.8" />
+<text x="1394" y="982" font-size="15" fill="#34363b" font-weight="600" text-anchor="start" >Public to everyone</text>
+<rect x="1366" y="1001" width="18" height="18" rx="3" fill="none" stroke="#f28c28" stroke-width="1.8" />
+<text x="1394" y="1016" font-size="15" fill="#34363b" font-weight="600" text-anchor="start" >Includes the grey-zone rule</text>
+<text x="40" y="1157" font-size="13" fill="#66686d" font-weight="600" text-anchor="start" >yottadots.github.io/yottadots.com · Pattern 1: Name what is central</text>
+<text x="1644" y="1157" font-size="13" fill="#66686d" font-weight="500" text-anchor="end" >Open knowledge · CC BY 4.0 · v0.1, November 2026 · YottaDots® is a registered trademark.</text>
+</svg>
