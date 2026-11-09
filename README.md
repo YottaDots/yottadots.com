@@ -6,7 +6,7 @@ YottaDots is an open framework for federated organizations and AI-enabled work.
 
 ## Website
 
-https://yottadots.github.io/yottadots.com/
+https://yottadots.com/
 
 (www.yottadots.com is the old version and is kept for reference only.)
 
@@ -36,7 +36,7 @@ See:
 
 or visit:
 
-https://yottadots.github.io/yottadots.com/docs/community/contribute
+https://yottadots.com/docs/community/contribute
 
 ## Repository
 
