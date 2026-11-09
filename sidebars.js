@@ -66,6 +66,7 @@ module.exports = {
         'patterns/budgets-that-do-not-punish-saving',
         'patterns/proposal-route',
         'patterns/experiment-budget',
+        'patterns/decisions-on-time',
       ],
     },
 
