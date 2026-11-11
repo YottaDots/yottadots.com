@@ -7,9 +7,9 @@ image: /img/social/method-big-picture.png
 # The Big Picture
 
 The whole method on one page: why YottaDots exists, how it works, and where
-to start. Print it, put it on the wall, and use it in conversations.
+to start. Its goal: the right decisions, at the right level, on time. Print it, put it on the wall, and use it in conversations.
 
-[![The YottaDots Big Picture. Left: four problems. Middle: the model, with the centre deciding the what and four value streams deciding the how, shared services, AI co-workers and a review loop, with the four rules and ten patterns marked. Right: principles, rules and patterns. Bottom: a possible first route in six steps.](/posters/yottadots-big-picture-v0.1.svg)](/posters/yottadots-big-picture-v0.1.svg)
+[![The YottaDots Big Picture. Left: four problems. Middle: the model, with the centre deciding the what and four value streams deciding the how, shared services, AI co-workers and a review loop, with the four rules and eleven patterns marked. Right: principles, rules and patterns. Bottom: a possible first route in six steps.](/posters/yottadots-big-picture-v0.1.svg)](/posters/yottadots-big-picture-v0.1.svg)
 
 <small>Status: **v0.1, proposed.** The patterns and the first route have not
 yet been tested in practice.</small>
@@ -43,7 +43,7 @@ pattern (P) that addresses it.
    realistic, and too much at once. → Rule 2, pattern 2.
 2. **Priorities blur the higher you go.** Only about a third of senior
    managers can name their company's top three priorities. → Rule 1,
-   pattern 1.
+   patterns 1 and 11.
 3. **Money replaces choices.** A "no capacity" is answered with another team;
    budgets are spent rather than chosen. → Patterns 6, 7 and 8.
 4. **Ideas need the boss's approval.** Not invented here, or a threat to the
@@ -89,7 +89,8 @@ between what and how, **Align** on the arrows, **Augment** on the AI band and
   7. usage check: stop what is not used;
   8. budgets that do not punish saving;
   9. proposal route;
-  10. experiment budget.
+  10. experiment budget;
+  11. decisions on time.
 
 ### Bottom: a possible first route
 
