@@ -59,7 +59,7 @@ Submitting a contribution does not oblige the maintainers to accept it.
 ## Using AI
 
 You are welcome to use AI tools when you contribute. YottaDots is built that
-way too (see [How YottaDots uses AI](https://yottadots.github.io/yottadots.com/docs/ai-coworker/how-we-use-ai)).
+way too (see [How YottaDots uses AI](https://yottadots.com/docs/ai-coworker/how-we-use-ai)).
 
 - **You are responsible** for what you submit, whether or not AI helped. Check
   facts, sources and wording before you submit.
