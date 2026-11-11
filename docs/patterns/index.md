@@ -14,7 +14,7 @@ daily practice.
 
 ![Pattern map. The centre at the top, value streams in the middle, shared services at the bottom. Five numbered patterns are placed where they act. 1 Name what is central: on the centre. 2 Objection round on goals: on the arrows between the centre and the value streams. 3 Opt-out of shared services: on the line between value streams and shared services. 4 Guardrails that earn their place: on the boundary around the value streams. 5 AI with a human owner: alongside everything, wherever AI does work.](/img/diagrams/patterns-map.svg)
 
-The map shows the five patterns that protect the rules. All ten patterns are
+The map shows the five patterns that protect the rules. All eleven patterns are
 shown together on [The Big Picture](../method/big-picture.md).
 
 <small>Status: **proposed (v0.1).** These patterns are drafts for discussion.
@@ -54,6 +54,16 @@ try them or even hear them.
 |---|---|---|---|
 | 9 | [Proposal route](./proposal-route.md) | Ideas from value streams have no route to the what, and can be ignored | Rule 2: value streams can propose; the centre must answer |
 | 10 | [Experiment budget](./experiment-budget.md) | Ideas need approval to be tried, and need to be tried to be approved | Rule 2: value streams can test ideas without approval |
+
+## Patterns for decisions on time
+
+YottaDots aims for the right decisions, at the right level, on time. The
+rules say who decides; this pattern helps make sure the centre also decides
+in time.
+
+| # | Pattern | Problem it solves | Makes this rule work |
+|---|---|---|---|
+| 11 | [Decisions on time](./decisions-on-time.md) | Decisions of the centre are not made, or made too late, and the cost of waiting is invisible | Rule 1: the centre makes clear choices, on time |
 
 ## How a pattern is written
 

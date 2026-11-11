@@ -2,7 +2,7 @@
 id: index
 title: Why YottaDots?
 sidebar_label: Why YottaDots?
-description: Work goes wrong when the centre asks for work it cannot see, priorities stay unclear, and money or hierarchy replace real choices. YottaDots gives the centre one clear job, the what, and leaves the how to the value streams.
+description: "When decisions are not made, or made too late, every model fails. YottaDots helps organizations make the right decisions, at the right level, on time."
 image: /img/social/why.png
 ---
 
@@ -11,6 +11,10 @@ image: /img/social/why.png
 ![Visual summary. On the left, the problem: the centre asks for work it cannot see, and priorities become less clear the higher you go. The result is overload, unrealistic deadlines, extra teams or budget instead of real choices, and new ideas that stall at the boss. On the right, the YottaDots response: the centre does one job well, making real choices and setting clear, ranked priorities, the what. Value streams who know the work say what it takes and can object, and they decide the how; ideas within the how need no approval. Below: clear priorities from the top, realistic plans from the work.](/img/diagrams/why-summary.svg)
 
 ## In short
+
+**YottaDots helps organizations make the right decisions, at the right level,
+on time.** When decisions are not made, or made too late, every model or
+framework fails, however good it looks on paper.
 
 Good work starts with clear priorities. In many organizations, the people who
 set priorities cannot see the work, and the higher you go, the less clear the
@@ -86,14 +90,36 @@ manager did not think of it (often called the "not invented here" effect), or
 because it could weaken the manager's own position. Innovation then depends
 on the judgment, and the interests, of one person.
 
-### The problems feed each other
+### It all comes down to decisions
 
 A centre that is busy with the how (approving, checking, steering details)
 has less attention for the what. A centre that does not set clear priorities
 fills the gap with more requests, more budget and more teams. And when every
-idea must pass the boss, the people who see the work stop proposing. All of
-this points to the same fix: a centre that does its own job well, makes real
-choices, and leaves the rest.
+idea must pass the boss, the people who see the work stop proposing.
+
+Each of these problems is a decision problem: a decision that is not made,
+made too late, made at the wrong level, or made without the people who know
+the work. Research by consultancies points the same way:
+
+- In a McKinsey survey, only about one in five respondents said their
+  organization was good at decision making, and most said much of the time
+  they spend on decisions is used ineffectively. Only about four in ten said
+  their decisions follow the strategy and put people and money on the most
+  valuable work. The organizations that did well made decisions at the right
+  level.
+- Bain describes decision effectiveness in four parts (quality, speed, how
+  well decisions are carried out, and the effort they cost) and reports that
+  companies that score high on it also perform better.
+- CEOs in PwC's 2024 survey judged about a third of the time spent in
+  decision-making meetings to be inefficient.
+
+These are surveys in which people judge their own organization, by firms that
+also sell advice on these topics. They show that decision problems are common,
+and that good decision making goes together with better results. They do not
+prove that one causes the other.
+
+All of this points to the same fix: a centre that does its own job well,
+makes real choices on time, and leaves the rest.
 
 ## What YottaDots does differently
 
@@ -117,6 +143,15 @@ a small experiment budget
 ([Proposal route](../patterns/proposal-route.md),
 [Experiment budget](../patterns/experiment-budget.md)). None of this has been
 tested in practice yet.
+
+**The four rules are rules about decisions.** Together they say who decides
+which kinds of decisions, what happens when nobody has been named, and how
+the people who see the work can challenge or start a decision. That is
+different from tools such as RACI or RAPID, which assign roles for one
+decision at a time; YottaDots sets the structure those decisions sit in. To
+make sure decisions are also made **on time**, the centre gives its open
+decisions a visible "decide by" date and checks how it is doing
+([Decisions on time](../patterns/decisions-on-time.md)).
 
 What YottaDots deliberately does **not** do:
 
@@ -186,6 +221,14 @@ what does.
 - Jeffrey B. Liebman and Neale Mahoney, "Do Expiring Budgets Lead to Wasteful
   Year-End Spending? Evidence from Federal Procurement", *American Economic
   Review* 107(11), 2017.
+- McKinsey & Company,
+  [Decision making in the age of urgency](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/decision-making-in-the-age-of-urgency),
+  McKinsey Global Survey, April 2019.
+- Bain & Company,
+  [Decision insights: Score your organization](https://www.bain.com/insights/decision-insights-1-score-your-organization/),
+  and M. Blenko, M. Mankins and P. Rogers, *Decide & Deliver* (Harvard
+  Business Review Press, 2010).
+- PwC, [27th Annual Global CEO Survey](https://www.pwc.com/gx/en/issues/c-suite-insights/the-leadership-agenda/reinvention-momentum-is-building.html), January 2024.
 - Ralph Katz and Thomas J. Allen, "Investigating the Not Invented Here (NIH)
   syndrome", *R&D Management* 12(1), 1982.
 - Daniel Kahneman and Amos Tversky, "Intuitive prediction: biases and

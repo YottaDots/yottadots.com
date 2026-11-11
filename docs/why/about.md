@@ -50,6 +50,10 @@ YottaDots is my answer: a federative way of organizing.
   measurement, so everything stays visible.
 - **The outcome counts,** not the activity.
 
+In one sentence: YottaDots helps organizations make the right decisions, at
+the right level, on time. Because when decisions are not made, every model or
+framework fails.
+
 Read more in [Why YottaDots?](./index.md) and
 [The YottaDots Method](../method/index.md), or see everything on one page in
 [The Big Picture](../method/big-picture.md).

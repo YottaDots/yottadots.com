@@ -12,6 +12,11 @@ YottaDots is an open approach to organizing as a federation: the centre
 decides **what** the organization wants to achieve, and value streams decide
 **how**, with AI as a co-worker.
 
+Its goal: **the right decisions, at the right level, on time.** The four
+rules below say who decides which kinds of decisions, what happens when
+nobody has been named, and how the people who see the work can challenge or
+start a decision.
+
 ![Visual summary. At the top, the centre decides the what: mission, vision, strategy, OKRs and KPIs. Below it, four value streams each choose their own how: Scrum, Kanban, projects or campaigns. Arrows go down for goals proposed by the centre and up for objections and proposals. At the bottom, shared services that value streams may use or opt out of, unless agreed as a guardrail. Four rules: 1. The centre decides the what. 2. Value streams help shape it; they can object, propose and experiment, and the centre must answer. 3. Anything not named as central stays with the value streams. 4. Value streams may opt out of shared services unless agreed as a guardrail.](/img/diagrams/method-federation-summary.svg)
 
 See the whole method on one poster: [The Big Picture](./big-picture.md).
